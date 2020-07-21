@@ -1,4 +1,4 @@
-# [PROJECT NAME] TSC Meeting - <%= date.toFormat("MMMM d, yyyy") %>
+# GenevaERS TSC Meeting - <%= date.toFormat("MMMM d, yyyy") %>
 
 ## Date/Time
 
@@ -34,10 +34,17 @@ _fill in recording details_
 
 ### Voting member rollcall:
 
-_fill in voting members as a checklist_
+[ ] Randall Ness, IBM
+[ ] Jeff Horner, IBM
+[ ] Gillian Hannington, IBM
+[ ] Ian Cunningham, IBM
+[ ] Eugene Morrow, IBM
+[ ] Bob McCormack, IBM
+[ ] Kip Twitchell, IBM
 
 ### Other Attendees
 
+[ ] Jim Hladyshewsky, SAFR Delivery Manager, IBM
 
 ## Agenda
 
