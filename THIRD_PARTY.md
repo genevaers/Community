@@ -4,16 +4,43 @@ The following are open source modules used by GenevaERS
 ## Workbench
 The following licensed code is used in the GenevaERS Workbench, the user interface.
 
-Package (include version)   License (version if applicable)     URL for license statement
-zlib 1.2.8                  Unique similar to BSD license       http://zlib.net/zlib_license.html
-Xml4c 5.7                   Apache 2.0                          https://w3.xml.ibm.com/support/index.html
-Xml Toolkit for z/OS, V1.10 Apache 2.0
-ANTLR 2.7.7                 Unique similar to BSD license       http://www.antlr.org/license.html
-Hashing code                Unique                              http://burtleburtle.net/bob/index.html
-Eclipse RCP 4.4.2           EPL                                 https://www.eclipse.org/org/documents/epl-v10.php
-Eclipse Nebula 1.1.0        EPL                                 https://www.eclipse.org/org/documents/epl-v10.php
-BIRT 4.4.2                  EPL                                 https://www.eclipse.org/org/documents/epl-v10.php
-COMFYJ 2.6		                                                  http://www.teamdev.com/comfyj/licensing/
+Package (include version)   
+-->License (version if applicable)    
+---->URL for license statement
+
+zlib 1.2.8                  
+-->Unique similar to BSD license       
+---->http://zlib.net/zlib_license.html
+
+Xml4c 5.7                   
+-->Apache 2.0                          
+---->https://w3.xml.ibm.com/support/index.html
+
+Xml Toolkit for z/OS, V1.10 
+-->Apache 2.0
+
+ANTLR 2.7.7                 
+-->Unique similar to BSD license       
+---->http://www.antlr.org/license.html
+
+Hashing code                
+-->Unique                              
+---->http://burtleburtle.net/bob/index.html
+
+Eclipse RCP 4.4.2           
+-->EPL                                 
+---->https://www.eclipse.org/org/documents/epl-v10.php
+
+Eclipse Nebula 1.1.0        
+-->EPL                                 
+---->https://www.eclipse.org/org/documents/epl-v10.php
+
+BIRT 4.4.2                  
+-->EPL                                 
+---->https://www.eclipse.org/org/documents/epl-v10.php
+
+COMFYJ 2.6		                                                  
+---->http://www.teamdev.com/comfyj/licensing/
 
 We also use IBM Data Server Driver for ODBC and CLI  https://www.ibm.com/support/knowledgecenter/en/SSEPGG_10.5.0/com.ibm.db2.luw.apdv.cli.doc/doc/r0024162.html where it says you can download and install the IBM Data Server Driver for ODBC and CLI and use it with your ODBC and CLI applications without a special license.
 
