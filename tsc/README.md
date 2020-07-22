@@ -12,10 +12,10 @@ This is a checklist for TSC's to review as part of the intake process. The TSC s
 - Existing Project Governance
   - [x] README.md file exists
   - [x] Project License exists ( LICENSE.md ) and aligned with the [Open Mainframe Project IP Policy](https://github.com/openmainframeproject/foundation/blob/master/CHARTER.md#12-intellectual-property-policy)
-  - [ ] Any third-party components/dependencies included are listed along with their licenses ( THIRD_PARTY.md )
+  - [x] Any third-party components/dependencies included are listed along with their licenses ( THIRD_PARTY.md )
   - [x] Governamce defined, outlining community roles and how decisions are made
   - [x] Contribution Policy defined ( CONTRIBUTING.md )
-  - [x] Code of Conduct defined 
+  - [x] Code of Conduct defined
   - [ ] Release methodology defined ( RELEASE.md )
 - New Project Goverance
   - [x] TSC members identified
@@ -25,17 +25,17 @@ This is a checklist for TSC's to review as part of the intake process. The TSC s
   - [x] Source Control (Github, GitLab, something else )
 	- [ ] Issue/feature tracker (JIRA, GitHub issues)
   - Collaboration tools
-    - [x] Mailing lists
+    - [ ] Mailing lists
       - [ ] Move to groups.io ( create [issue on foundation repo] to setup/transfer )
     - [x] Slack
     - [x] Forums (Determined Not Applicable)
   - [x] Website.  See [GenevaERS](https://genevaers.org)
   - [ ] CI/build environment
 - Project assets
-  - [ ] Domain name	( create [issue on foundation repo] to setup/transfer
+  - [x] Domain name	( create [issue on foundation repo] to setup/transfer
 	- [x] Social media accounts	to setup/transfer.  None held.
-	- [ ] Logo(s)	( create pull request [against artwork repo](https://github.com/openmainframeproject/artwork) to add in SVG and PNG format and color/black/white )
-	- [ ] Trademarks/mark ownership rights ( complete [LF Projects - Form of Trademark and Account Assignment](lf_projects_trademark_assignment.md) )
+	- [x] Logo(s)
+	- [x] Trademarks/mark ownership rights. None.
 - Outreach
   - [ ] New project announcement done ( create [issue on foundation repo] to trigger )
   - [ ] Project added to Open Mainframe Project website and Open Mainframe Project landscape
