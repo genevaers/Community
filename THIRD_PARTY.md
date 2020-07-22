@@ -1,9 +1,7 @@
 # Third Party Licenses
-
 The following are open source modules used by GenevaERS
 
 ## Workbench
-
 The following licensed code is used in the GenevaERS Workbench, the user interface.
 
 Package (include version)   License (version if applicable)     URL for license statement
@@ -20,11 +18,9 @@ COMFYJ 2.6		                                                  http://www.teamdev
 We also use IBM Data Server Driver for ODBC and CLI  https://www.ibm.com/support/knowledgecenter/en/SSEPGG_10.5.0/com.ibm.db2.luw.apdv.cli.doc/doc/r0024162.html where it says you can download and install the IBM Data Server Driver for ODBC and CLI and use it with your ODBC and CLI applications without a special license.
 
 ## Performance Engine
-
 There are no licensed subcomponents included in the Performance Engine.
 
 ## Build Processes
-
 To build the SAFR product on z/OS requires:
 
 1. High Level Assembler (HLASM) V1R6M0, normally present on a z/OS system, whilst not part of z/OS it is a non chargeable product.
