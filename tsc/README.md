@@ -12,17 +12,17 @@ This is a checklist for TSC's to review as part of the intake process. The TSC s
 - Existing Project Governance
   - [x] README.md file exists
   - [x] Project License exists ( LICENSE.md ) and aligned with the [Open Mainframe Project IP Policy](https://github.com/openmainframeproject/foundation/blob/master/CHARTER.md#12-intellectual-property-policy)
-  - [ ] Any third-party components/dependencies included are listed along with thier licenses ( THIRD_PARTY.md )
-  - [ ] Governamce defined, outlining community roles and how decsions are made ( GOVERNANCE.md - leverage [example_governance.md](example_governance.md) as a starting point if needed )
-  - [ ] Contribution Policy defined ( CONTRIBUTING.md )
-  - [ ] Code of Conduct defined ( CODE_OF_CONDUCT.md - use existing or leverage [code of conduct](code_of_conduct.md) )
+  - [ ] Any third-party components/dependencies included are listed along with their licenses ( THIRD_PARTY.md )
+  - [x] Governamce defined, outlining community roles and how decisions are made
+  - [x] Contribution Policy defined ( CONTRIBUTING.md )
+  - [x] Code of Conduct defined 
   - [ ] Release methodology defined ( RELEASE.md )
 - New Project Goverance
-  - [ ] TSC members identified
+  - [x] TSC members identified
   - [ ] First TSC meeting held
   - [ ] TSC meeting cadence set and added to project calendar
 - Current tools
-  - [ ] Source Control (Github, GitLab, something else )
+  - [x] Source Control (Github, GitLab, something else )
 	- [ ] Issue/feature tracker (JIRA, GitHub issues)
   - Collaboration tools
     - [x] Mailing lists
