@@ -37,7 +37,7 @@ This is a checklist for TSC's to review as part of the intake process. The TSC s
 	- [x] Logo(s)
 	- [x] Trademarks/mark ownership rights. None.
 - Outreach
-  - [ ] New project announcement done ( create [issue on foundation repo] to trigger )
+  - [x] New project announcement done ( https://github.com/openmainframeproject/foundation/issues/79  See Marketing Section below for steps )
   - [ ] Project added to Open Mainframe Project website and Open Mainframe Project landscape
 - Graduation
   - [ ] CII Badge achieved ( apply at https://bestpractices.coreinfrastructure.org/en )
@@ -49,6 +49,27 @@ This is a checklist for TSC's to review as part of the intake process. The TSC s
   - [ ]	License scan completed and no issues found
   - [ ] Code repository imported to Open Mainframe Project GitHub organization
     - [ ] Developer Certificate of Origin past commit signoff done and DCO Probot enabled.
+
+The following are additions to the TSC template from other items for the project to consider.  
+    
+- Marketing Steps to Launch (from: https://github.com/openmainframeproject/foundation/issues/79)
+  - [x] Provision GitHub repo
+  - [ ] Send out questionnaire ( new project )
+  - [ ] Create Landscape entry ( https://github.com/openmainframeproject/omp-landscape/ )
+  - [ ] Received completed questionnaire
+  - [ ] Build announcement and get approval
+  - [ ] Schedule announcement and social promotion ( provide date )
+  - [ ] Push Landscape entry live ( https://github.com/openmainframeproject/omp-landscape/ )
+- Active Stage Criteria: (from https://github.com/openmainframeproject/tac/blob/master/process/project_stages.md#active-stage)  To graduate from Incubation Stage, or for a new project to join as an Active Stage project, a project must:
+  - [ ] Complete the proposal process plus
+  - [ ] Have committers from at least two organizations.
+  - [ ] Have achieved and maintained a Core Infrastructure Initiative Best Practices Badge.
+  - [ ] Explicitly define a project governance and committer process.
+  - [ ] Have a public list of project adopters for at least the primary repo (e.g., ADOPTERS.md).
+  - [ ] Complete a code licensing scan to ensure licensing is inline with the OMP guidelines
+  - [ ] Elect or appoint a project lead to represent the project on the TAC
+  - [ ] Receive a supermajority vote from the TAC to move to accepted stage.
+  - [ ] Projects start at the Active Stage if they can demonstrate sufficient maturity. Projects can remain in an Incubation Stage indefinitely, but they are normally expected to move to Active Stage within two years.
 
 
 [issue on foundation repo]: https://github.com/openmainframeproject/foundation/issues/new/choose
