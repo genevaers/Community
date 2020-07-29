@@ -58,6 +58,7 @@ It is proposed that The GenevaERS Project committers compose the initial Technic
 * Documentation lead
 * Build lead
 * Ancillary project lead, like Apache Spark integration
+* Website and Marketing lead
 
 The Delivery Manager is an advisor to the TSC.
 

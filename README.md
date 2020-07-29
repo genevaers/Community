@@ -30,6 +30,7 @@ You can connect with the community in a variety of ways...
 
 - [GenevaERS mailing list](https://lists.openmainframeproject.org/g/genevaers-discussion)
 - [#GenevaERS channel on Open Mainframe Project Slack](https://slack.openmainframeproject.org)
+- After requesting access with the above link, look for the [GenevaERS channel](https://openmainframeproject.slack.com/archives/C01711931GA) 
 
 
 ## Contributing

@@ -1,6 +1,8 @@
 # TSC Materials for GenevaERS
 
-This directory contains the meeting notes, process documentations, and other materials related to this project.
+The Technical Steering Committee is the highest governing body for the GenevaERS project.  This directory contains the meeting notes, process documentations, and other materials related to this project.
+
+Below is the initial checklist for starting up the GenevaERS project.  
 
 ## Project Intake checklist
 
@@ -25,8 +27,8 @@ This is a checklist for TSC's to review as part of the intake process. The TSC s
   - [x] Source Control (Github, GitLab, something else )
 	- [ ] Issue/feature tracker (JIRA, GitHub issues)
   - Collaboration tools
-    - [ ] Mailing lists
-      - [ ] Move to groups.io ( create [issue on foundation repo] to setup/transfer )
+    - [x] Mailing lists
+      - [x] Move to groups.io ( create [issue on foundation repo] to setup/transfer )
     - [x] Slack
     - [x] Forums (Determined Not Applicable)
   - [x] Website.  See [GenevaERS](https://genevaers.org)
@@ -51,7 +53,7 @@ This is a checklist for TSC's to review as part of the intake process. The TSC s
     - [ ] Developer Certificate of Origin past commit signoff done and DCO Probot enabled.
 
 The following are additions to the TSC template from other items for the project to consider.  
-    
+
 - Marketing Steps to Launch (from: https://github.com/openmainframeproject/foundation/issues/79)
   - [x] Provision GitHub repo
   - [ ] Send out questionnaire ( new project )
