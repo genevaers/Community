@@ -51,14 +51,11 @@ The Delivery Manager is responsible for development plans, end-user coordination
 
 It is proposed that The GenevaERS Project committers compose the initial Technical Steering Committee (TSC):
 
+* Chair
 * Solution architect
-* Integration architect
 * Performance Engine lead
 * Workbench lead
-* Documentation lead
-* Build lead
-* Ancillary project lead, like Apache Spark integration
-* Website and Marketing lead
+* Spark and Other Technology integration
 
 The Delivery Manager is an advisor to the TSC.
 

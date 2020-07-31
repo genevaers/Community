@@ -1,10 +1,22 @@
-Name,Email,GitHub ID,Role
-Kip Twitchell,kip.twitchell@us.ibm.com,KipTwitchell,Community
-Randall Ness,rhness@us.ibm.com,rness,Solution architect
-Gill Hannington,,ghannington,Performance Engine lead
-Ian Cunningham,,hammyau,Workbench lead
-Rakesh Kant,,rkant0721,Apache Spark integration
-Jeff Horner,,jhornert,Integration architect
-Eugene Morrow,,emorrow38,Documentation lead
-Bob McCormack,,bobmcc9,Build lead
-Jim Hladyshewsky,jim.hladyshewsky@us.ibm.com,JIMHLADYSHEWSKY,Delivery Manager
+**Committers**,,,,,,,,,,
+Name,Email,GitHub ID,Role,Com Repo,Spark Repo,PE Repo,WB Repo,gvblib Repo,Doc Repo,DB-JCL Repo
+Kip Twitchell,kip.twitchell@us.ibm.com,KipTwitchell,Community,X,X,,,,,
+Randall Ness,rhness@us.ibm.com,rhness,Solution architect,,X,X,X,X,X,X
+Gill Hannington,,ghannington,Performance Engine lead,,,X,,X,,X
+Ian Cunningham,,hammyau,Workbench lead,,,,X,,,X
+Rakesh Kant,,rkant0721,Apache Spark integration,,X,,,,,
+Jeff Horner,,jhornert,Integration architect,,,X,X,X,,X
+Eugene Morrow,,emorrow38,Documentation lead,,,X,X,X,X,
+Bob McCormack,,bobmcc9,Build lead,,,X,X,X,,
+Jim Hladyshewsky,jim.hladyshewsky@us.ibm.com,JIMHLADYSHEWSKY,Delivery Manager,X,,,,,,
+Elana Dunn,,,Assistant DM,X,,,,,,
+,,,,,,,,,,
+**Repositories**,,,,,,,,,,
+Name,Abbrivation for Repo,Purpose,,,,,,,,
+Community,Com,Governance,,,,,,,,
+Spark-POC,Spark,Apache Spark and other tool integration,,,,,,,,
+Performance Engine,PE,GenevaERS Performance Engine which resolves GenevaERS Views,,,,,,,,
+Workbench,WB,GenevaERS Workbench in which users define GenevaERS Views,,,,,,,,
+gvblib,gvblib,GenevaERS View Builder Utility Library of functions,,,,,,,,
+Documentation,Doc,GenevaERS documentation,,,,,,,,
+Database Install and Scripts,DB-JCL,Database DDL and JCL for running the Performance Engine,,,,,,,,
