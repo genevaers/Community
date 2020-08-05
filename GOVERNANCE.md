@@ -1,7 +1,7 @@
 
 # Overview
 
-This project aims to be governed in a transparent, accessible way for the benefit of the community. All participation in this project is open and not bound to corporate affiliation. Participants are bound to the project's [Code of Conduct](code_of_conduct.md).
+This project aims to be governed in a transparent, accessible way for the benefit of the community. All participation in this project is open and not bound to corporate affiliation. Participants are bound to the project's [Code of Conduct](CODE_OF_CONDUCT.md).
 
 # Project roles
 
@@ -72,7 +72,7 @@ be resolved by voting. The voting process is a simple majority in which each com
 
 # Communication
 
-This project, just like all of open source, is a global community. In addition to the [Code of Conduct](code_of_conduct.md), this project will:
+This project, just like all of open source, is a global community. In addition to the [Code of Conduct](CODE_OF_CONDUCT.md), this project will:
 
 * Keep all communication on open channels ( mailing list, forums, chat ).
 * Be respectful of time and language differences between community members ( such as scheduling meetings, email/issue responsiveness, etc ).

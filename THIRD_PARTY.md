@@ -16,7 +16,7 @@ Xml4c 5.7
 -->Apache 2.0                          
 ---->https://w3.xml.ibm.com/support/index.html
 
-Xml Toolkit for z/OS, V1.10 
+Xml Toolkit for z/OS, V1.10
 -->Apache 2.0
 
 ANTLR 2.7.7                 
@@ -45,19 +45,23 @@ COMFYJ 2.6
 We also use IBM Data Server Driver for ODBC and CLI  https://www.ibm.com/support/knowledgecenter/en/SSEPGG_10.5.0/com.ibm.db2.luw.apdv.cli.doc/doc/r0024162.html where it says you can download and install the IBM Data Server Driver for ODBC and CLI and use it with your ODBC and CLI applications without a special license.
 
 ## Performance Engine
-There are no licensed subcomponents included in the Performance Engine.
+IBM High Level Assembler and Toolkit V1R6M0
+-->Commercial
+---->https://www.ibm.com/us-en/marketplace/high-level-assembler-and-toolkit-feature
 
 ## Build Processes
 To build the SAFR product on z/OS requires:
 
 1. High Level Assembler (HLASM) V1R6M0, normally present on a z/OS system, whilst not part of z/OS it is a non chargeable product.
 
-2. SAFR currently uses IBM Enterprise Cobol for z/OS V4.2.
+2. High Level Assembler Toolkit V1R6M0, a separate costed product for z/OS
 
-3. Similarly for C++ Compiles,  XL C/C++ is an optional priced feature
+3. SAFR currently uses IBM Enterprise Cobol for z/OS V4.2.
 
-4. Run time includes Language Environment, in the z/OS base
+4. Similarly for C++ Compiles,  XL C/C++ is an optional priced feature
 
-5. Building the workbench uses InstallShield which a priced software product from Flexera.
+5. Run time includes Language Environment, in the z/OS base
 
-6. DB2 database on z/OS
+6. Building the workbench uses InstallShield which a priced software product from Flexera.
+
+7. DB2 database on z/OS
