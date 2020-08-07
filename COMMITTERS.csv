@@ -3,7 +3,7 @@ Name,Email,GitHub ID,Role,Com Repo,Spark Repo,gvblib Repo,Res Repo,Doc Repo,PE R
 Kip Twitchell,kip.twitchell@us.ibm.com,KipTwitchell,Community,X,X,,,,,,,
 Randall Ness,rhness@us.ibm.com,rhness,Solution architect,,X,X,X,X,X,X,X,X
 Gill Hannington,,ghannington,Performance Engine lead,,,X,X,,X,,,
-Ian Cunningham,,hammyau,Workbench lead,,,,X,,,X,X,X
+Ian Cunningham,blueham60@gmail.com,hammyau,Workbench lead,,,,X,,,X,X,X
 Rakesh Kant,,rkant0721,Apache Spark integration,,X,,,,,,,
 Jeff Horner,,jhornert,Integration architect,,X,X,X,X,X,X,X,X
 Eugene Morrow,,emorrow38,Documentation lead,,,,,X,,,,
