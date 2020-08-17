@@ -3,7 +3,7 @@ Name,Email,GitHub ID,Role,Com Repo,Spark Repo,gvblib Repo,Res Repo,Doc Repo,PE R
 Kip Twitchell,kip.twitchell@us.ibm.com,KipTwitchell,Community,X,X,,,,,,,
 Randall Ness,rhness@us.ibm.com,rhness,Solution architect,,X,X,X,X,X,X,X,X
 Bob McCormack,bobmcc@au1.ibm.com,bobmcc9,Build lead,X,X,X,X,X,X,X,X,X
-Andrea Orth,spookykitty93@outlook.com,AOrthVectorÊ,Scrum Master and Assistant DM,X,,,,X,,,,
+Andrea Orth,spookykitty93@outlook.com,AOrthVectorï¿½,Scrum Master and Assistant DM,X,,,,X,,,,
 Gill Hannington,ghannington2007@gmail.com,ghannington,Performance Engine lead,,,X,X,,X,,,
 Ian Cunningham,blueham60@gmail.com,hammyau,Workbench lead,,,,X,,,X,X,X
 Sandy Peresie,speresie1@yahoo.com,SaPeresi,Python Developer and Spark DM,,X,,,,,,,
@@ -12,15 +12,3 @@ Jeff Horner,,jhornert,Integration architect,,X,X,X,X,X,X,X,X
 Eugene Morrow,,emorrow38,Documentation lead,,,,,X,,,,
 Jim Hladyshewsky,jim.hladyshewsky@us.ibm.com,JIMHLADYSHEWSKY,Delivery Manager,X,,,,,,,,
 Elana Dunn,,elanadunn,Assistant DM,X,,,,,,,,
-,,,,,,,,,,,,
-**Repositories**,,,,,,,,,,,,
-Name, Purpose , Abbreviation for Repo,IBM/ Transfer Repo Name,Status,,,,,,,,
-Community,Governance,Com,IBM/IBMSAFR,Active,,,,,,,,
-Spark-POC,Apache Spark and other tool integration,Spark,IBM/IBMSAFR-Spark,Active,,,,,,,,
-gvblib,GenevaERS View Builder Utility Library of functions,gvblib,IBM/IBMSAFR-gvblib,Imported,,,,,,,,
-Resources,Resources and scripts including DDL for WB and JCL for PE,Res,IBM/IBMSAFR-resource,Ready to create,,,,,,,,
-Documentation ,GenevaERS documentation,Doc,,Ready to create,,,,,,,,
-Performance Engine,GenevaERS Performance Engine which resolves GenevaERS Views,PE,,,,,,,,,,
-Run Control ,Performance Engine Run Control Generation GVBMR91,RC,,,,,,,,,,
-Workbench,GenevaERS Workbench in which users define GenevaERS Views,WB,,,,,,,,,,
-TestFramework,GenevaERS Testing Framework,Test,,,,,,,,,,
