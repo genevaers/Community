@@ -1,0 +1,12 @@
+
+**Repositories**,,,,,,,,,,,,
+Name, Purpose , Abbreviation for Repo,IBM/ Transfer Repo Name,Status,,,,,,,,
+Community,Governance,Com,IBM/IBMSAFR,Active,,,,,,,,
+Spark-POC,Apache Spark and other tool integration,Spark,IBM/IBMSAFR-Spark,Active,,,,,,,,
+gvblib,GenevaERS View Builder Utility Library of functions,gvblib,IBM/IBMSAFR-gvblib,Imported,,,,,,,,
+Resources,Resources and scripts including DDL for WB and JCL for PE,Res,IBM/IBMSAFR-resource,Created,,,,,,,,
+Documentation ,GenevaERS documentation,Doc,,Created,,,,,,,,
+Performance Engine,GenevaERS Performance Engine which resolves GenevaERS Views,PE,,,,,,,,,,
+Run Control ,Performance Engine Run Control Generation GVBMR91,RC,,,,,,,,,,
+Workbench,GenevaERS Workbench in which users define GenevaERS Views,WB,,,,,,,,,,
+TestFramework,GenevaERS Testing Framework,Test,,,,,,,,,,

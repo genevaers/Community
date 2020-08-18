@@ -21,11 +21,11 @@ This is a checklist for TSC's to review as part of the intake process. The TSC s
   - [ ] Release methodology defined ( RELEASE.md )
 - New Project Goverance
   - [x] TSC members identified
-  - [ ] First TSC meeting held
+  - [x] First TSC meeting held
   - [ ] TSC meeting cadence set and added to project calendar
 - Current tools
   - [x] Source Control (Github, GitLab, something else )
-	- [ ] Issue/feature tracker (JIRA, GitHub issues)
+	- [x] Issue/feature tracker (JIRA, GitHub issues)
   - Collaboration tools
     - [x] Mailing lists
       - [x] Move to groups.io ( create [issue on foundation repo] to setup/transfer )
@@ -46,11 +46,11 @@ This is a checklist for TSC's to review as part of the intake process. The TSC s
   - [ ] Committer Diversity established
   	- [ ] Add project to [OMP Dev Analytics](https://lfanalytics.io/projects/open-mainframe-project) ( create [issue on foundation repo] to trigger )
 	- [ ] Commit/Contribution growth during incubation
-	- [ ] Committers defined in the project	( [COMMITTERS.csv](COMMITTERS.csv) or [COMMITTERS.yml](COMMITTERS.yml) )
-  - [ ] TAC representative appointed
-  - [ ]	License scan completed and no issues found
-  - [ ] Code repository imported to Open Mainframe Project GitHub organization
-    - [ ] Developer Certificate of Origin past commit signoff done and DCO Probot enabled.
+	- [x] Committers defined in the project	( [COMMITTERS.csv](COMMITTERS.csv) or [COMMITTERS.yml](COMMITTERS.yml) )
+  - [x] TAC representative appointed
+  - [x]	License scan completed and no issues found.  Process established going forward as code is released.
+  - [x] Code repository imported to Open Mainframe Project GitHub organization
+    - [x] Developer Certificate of Origin past commit signoff done and DCO Probot enabled.
 
 The following are additions to the TSC template from other items for the project to consider.  
 

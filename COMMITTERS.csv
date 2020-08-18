@@ -2,23 +2,13 @@
 Name,Email,GitHub ID,Role,Com Repo,Spark Repo,gvblib Repo,Res Repo,Doc Repo,PE Repo,RC Repo,WB Repo,Test Repo
 Kip Twitchell,kip.twitchell@us.ibm.com,KipTwitchell,Community,X,X,,,,,,,
 Randall Ness,rhness@us.ibm.com,rhness,Solution architect,,X,X,X,X,X,X,X,X
+Bob McCormack,bobmcc@au1.ibm.com,bobmcc9,Build lead,X,X,X,X,X,X,X,X,X
+Andrea Orth,spookykitty93@outlook.com,AOrthVector,Scrum Master and Assistant DM,X,,,,X,,,,
 Gill Hannington,ghannington2007@gmail.com,ghannington,Performance Engine lead,,,X,X,,X,,,
 Ian Cunningham,blueham60@gmail.com,hammyau,Workbench lead,,,,X,,,X,X,X
+Sandy Peresie,speresie1@yahoo.com,SaPeresi,Python Developer and Spark DM,,X,,,,,,,
 Rakesh Kant,,rkant0721,Apache Spark integration,,X,,,,,,,
 Jeff Horner,,jhornert,Integration architect,,X,X,X,X,X,X,X,X
 Eugene Morrow,,emorrow38,Documentation lead,,,,,X,,,,
-Bob McCormack,bobmcc@au1.ibm.com,bobmcc9,Build lead,,,X,X,X,X,X,X,X
 Jim Hladyshewsky,jim.hladyshewsky@us.ibm.com,JIMHLADYSHEWSKY,Delivery Manager,X,,,,,,,,
 Elana Dunn,,elanadunn,Assistant DM,X,,,,,,,,
-,,,,,,,,,,,,
-**Repositories**,,,,,,,,,,,,
-Name, Abbreviation for Repo, Purpose ,Status,,,,,,,,,
-Community,Com,Governance,Created,,,,,,,,,
-Spark-POC,Spark,Apache Spark and other tool integration,Created,,,,,,,,,
-gvblib,gvblib,GenevaERS View Builder Utility Library of functions,Ready for creation,,,,,,,,,
-Resources,Res,Resources and scripts including DDL for WB and JCL for PE,Ready for creation,,,,,,,,,
-Documentation ,Doc,GenevaERS documentation,Ready for creation,,,,,,,,,
-Performance Engine,PE,GenevaERS Performance Engine which resolves GenevaERS Views,,,,,,,,,,
-Run Control ,RC,Performance Engine Run Control Generation GVBMR91,,,,,,,,,,
-Workbench,WB,GenevaERS Workbench in which users define GenevaERS Views,,,,,,,,,,
-TestFramework,Test,GenevaERS Testing Framework,,,,,,,,,,
