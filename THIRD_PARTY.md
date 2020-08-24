@@ -42,11 +42,14 @@ BIRT 4.4.2
 COMFYJ 2.6		                                                  
 ---->http://www.teamdev.com/comfyj/licensing/
 
-We also use IBM Data Server Driver for ODBC and CLI  https://www.ibm.com/support/knowledgecenter/en/SSEPGG_10.5.0/com.ibm.db2.luw.apdv.cli.doc/doc/r0024162.html where it says you can download and install the IBM Data Server Driver for ODBC and CLI and use it with your ODBC and CLI applications without a special license.
+DB2 Connect
+--> #Commercial
+---> https://www.ibm.com/support/knowledgecenter/en/SSEPGG_10.5.0/com.ibm.db2.luw.apdv.cli.doc/doc/r0024162.html
+used to connect to Db2 running on z/OS
 
 ## Performance Engine
 IBM High Level Assembler and Toolkit V1R6M0
--->Commercial
+--> #Commercial
 ---->https://www.ibm.com/us-en/marketplace/high-level-assembler-and-toolkit-feature
 
 ## Build Processes
