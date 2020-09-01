@@ -1,0 +1,3202 @@
+WEBVTT
+
+1
+00:08:29.760 --> 00:08:30.420
+Peter Fandel: Hey, how are you
+
+2
+00:08:31.890 --> 00:08:33.090
+Len Santalucia: Man, what's going on.
+
+3
+00:08:34.020 --> 00:08:34.950
+Same old
+
+4
+00:08:38.670 --> 00:08:40.110
+Vincent Terrone: Not really changing much
+
+5
+00:10:37.320 --> 00:10:38.370
+John Mertic: Hello. Can everyone hear me.
+
+6
+00:10:39.570 --> 00:10:39.870
+John Mertic: Yep.
+
+7
+00:10:41.070 --> 00:10:44.100
+John Mertic: Okay, sorry about that. Hey, sorry about that, as have an audio problem.
+
+8
+00:10:45.480 --> 00:10:46.470
+Len Santalucia: We hear you now.
+
+9
+00:10:47.070 --> 00:10:47.790
+Excellent.
+
+10
+00:10:49.410 --> 00:10:50.070
+John Mertic: Alright.
+
+11
+00:10:51.150 --> 00:10:58.620
+John Mertic: Let's go ahead and get ourselves rolling here a couple minutes past the hour. I think we have at least a decent number of folks here.
+
+12
+00:11:01.050 --> 00:11:06.150
+John Mertic: In tradition from last time, I'd love to get someone who'd be willing to take notes for today.
+
+13
+00:11:07.350 --> 00:11:08.130
+Len Santalucia: Anybody
+
+14
+00:11:08.370 --> 00:11:10.020
+John Mertic: Is anybody open to that.
+
+15
+00:11:15.000 --> 00:11:16.920
+Sean Grady: I gotta jump out halfway. So
+
+16
+00:11:16.980 --> 00:11:19.830
+Sean Grady: I can't do that. Sorry. No worries.
+
+17
+00:11:20.010 --> 00:11:21.000
+John Mertic: No worries. No worries.
+
+18
+00:11:28.680 --> 00:11:32.070
+John Mertic: Anyone else who are willing to take notes. It has to be complicated just
+
+19
+00:11:33.960 --> 00:11:36.210
+John Mertic: Stuff that we can capture action items.
+
+20
+00:11:43.980 --> 00:11:46.170
+Bob Dahlberg (VCU): owe you some stuff notes from last time.
+
+21
+00:11:49.740 --> 00:11:52.650
+John Mertic: Well, if you want to collect and do it all together, Bob. That's, that's fine.
+
+22
+00:11:54.090 --> 00:11:55.290
+Peter Fandel: Well, I'll try.
+
+23
+00:11:56.430 --> 00:11:56.940
+John Mertic: All right.
+
+24
+00:11:57.300 --> 00:11:58.350
+Bob Dahlberg (VCU): I appreciate it.
+
+25
+00:11:59.370 --> 00:12:03.600
+John Mertic: Appreciate it. Alright, I dropped the link to the agenda in the chat.
+
+26
+00:12:06.540 --> 00:12:07.890
+Len Santalucia: Hopefully everyone can see
+
+27
+00:12:07.890 --> 00:12:09.450
+John Mertic: It, it's up as a GitHub issue.
+
+28
+00:12:11.700 --> 00:12:23.100
+John Mertic: I think last time we move the project updates to the very end. So I'd suggest we do that again if that's OK with everyone and maybe just dig into. We have a new project proposal that sound good for an order for today.
+
+29
+00:12:24.630 --> 00:12:27.720
+John Mertic: I'll fill you in the background. How does that sound to you john
+
+30
+00:12:28.740 --> 00:12:29.340
+phil tully: To hear me.
+
+31
+00:12:30.690 --> 00:12:31.110
+John Mertic: I do
+
+32
+00:12:34.500 --> 00:12:38.490
+John Mertic: Apologize for the background noise and having a refrigerator to deliver here today.
+
+33
+00:12:45.630 --> 00:12:47.580
+John Mertic: Alright, well, I want to introduce
+
+34
+00:12:49.860 --> 00:12:58.050
+John Mertic: kip twitch row. He is the proposal, the he's leading a proposal behind Geneva ers.
+
+35
+00:12:59.250 --> 00:13:12.000
+John Mertic: And we'll turn it over to him to propose talk about the project, he'd like to propose to include into open mainframe Kip, do you want to take here and I don't know if you have anything you want to share your screen I can give you a presenter, so
+
+36
+00:13:12.990 --> 00:13:15.480
+Kip Twitchell: Yeah, if you could I built a few slides.
+
+37
+00:13:15.540 --> 00:13:16.560
+Kip Twitchell: In fact, and malaria.
+
+38
+00:13:18.150 --> 00:13:18.450
+Kip Twitchell: Joel
+
+39
+00:13:18.930 --> 00:13:21.210
+Kip Twitchell: Joel Devlin. And I joined early and so
+
+40
+00:13:21.780 --> 00:13:23.550
+Kip Twitchell: Joy's already heard some of this and
+
+41
+00:13:23.580 --> 00:13:27.360
+Kip Twitchell: Based upon his questions, an hour ago, I decided to go
+
+42
+00:13:28.170 --> 00:13:29.700
+Kip Twitchell: I'll put together some slides.
+
+43
+00:13:29.910 --> 00:13:31.410
+Kip Twitchell: And we'll see if this is
+
+44
+00:13:32.130 --> 00:13:33.240
+Kip Twitchell: Helpful and I'm
+
+45
+00:13:34.560 --> 00:13:35.130
+Kip Twitchell: Understanding
+
+46
+00:13:35.520 --> 00:13:36.150
+Kip Twitchell: Of yours.
+
+47
+00:13:40.470 --> 00:13:40.950
+Kip Twitchell: So,
+
+48
+00:13:44.760 --> 00:13:46.740
+Kip Twitchell: Let me see if I can get to where
+
+49
+00:13:47.130 --> 00:13:49.650
+John Mertic: You can see my slack and see your screen, so that's good.
+
+50
+00:13:50.640 --> 00:13:51.060
+John Mertic: Very good.
+
+51
+00:13:52.170 --> 00:13:54.750
+Kip Twitchell: Let me turn on my actually I could start
+
+52
+00:13:55.980 --> 00:13:57.330
+Kip Twitchell: Video as well. So you have a
+
+53
+00:13:57.450 --> 00:14:01.320
+Kip Twitchell: Sense of who I am. Thanks for your time today. I'm coming to you.
+
+54
+00:14:02.850 --> 00:14:05.910
+Kip Twitchell: kip Twitchell I'm and IBM employee now for
+
+55
+00:14:06.300 --> 00:14:07.860
+Kip Twitchell: 20 plus years and
+
+56
+00:14:07.920 --> 00:14:16.080
+Kip Twitchell: Before that Price Waterhouse Price Waterhouse Coopers consulting. I've worked with a product that originally was called Geneva ers.
+
+57
+00:14:17.430 --> 00:14:20.760
+Kip Twitchell: And when it came into IBM through the acquisition Price Waterhouse
+
+58
+00:14:21.000 --> 00:14:25.410
+Kip Twitchell: Consulting in 2002 was renamed to safir
+
+59
+00:14:25.410 --> 00:14:26.670
+Kip Twitchell: scalable architecture.
+
+60
+00:14:26.670 --> 00:14:27.960
+Kip Twitchell: For financial reporting.
+
+61
+00:14:29.460 --> 00:14:32.970
+Kip Twitchell: IBM has gone through the process and determined that the
+
+62
+00:14:33.120 --> 00:14:34.590
+Kip Twitchell: This would be useful.
+
+63
+00:14:35.160 --> 00:14:37.770
+Kip Twitchell: For them if we open sourced
+
+64
+00:14:38.460 --> 00:14:39.750
+Kip Twitchell: Geneva safir
+
+65
+00:14:40.290 --> 00:14:43.110
+Kip Twitchell: As there is another commercial product out there under the
+
+66
+00:14:43.860 --> 00:14:46.530
+phil tully: Moniker SAFA we have decided to revert to the
+
+67
+00:14:46.530 --> 00:14:48.870
+Kip Twitchell: Original name Geneva ers.
+
+68
+00:14:50.730 --> 00:14:52.320
+Kip Twitchell: Geneva is a a
+
+69
+00:14:52.410 --> 00:14:53.250
+Kip Twitchell: high volume.
+
+70
+00:14:53.280 --> 00:14:58.170
+Kip Twitchell: Scan application. It has some affinity some similarity. You might say to
+
+71
+00:14:58.200 --> 00:15:01.140
+Kip Twitchell: Spark Apache Spark as an application.
+
+72
+00:15:02.310 --> 00:15:03.480
+Kip Twitchell: It tends to
+
+73
+00:15:03.540 --> 00:15:06.930
+Kip Twitchell: Have higher performance than Spark as always been a
+
+74
+00:15:07.020 --> 00:15:08.580
+Kip Twitchell: Z iOS native
+
+75
+00:15:09.150 --> 00:15:10.650
+Kip Twitchell: Tool it
+
+76
+00:15:11.160 --> 00:15:12.450
+Kip Twitchell: Generates machine code.
+
+77
+00:15:12.480 --> 00:15:15.240
+Kip Twitchell: executes it in parallel is
+
+78
+00:15:15.270 --> 00:15:18.750
+Kip Twitchell: Been used by a score of customers over the year so
+
+79
+00:15:18.780 --> 00:15:27.360
+Kip Twitchell: currently in use for financial applications for two very large customers that require the scale of getting through.
+
+80
+00:15:29.250 --> 00:15:33.300
+Kip Twitchell: Hundreds of millions, even billions of rows in their daily
+
+81
+00:15:33.330 --> 00:15:38.130
+Kip Twitchell: Batch cycle overnight, just before the opening a business in the day to produce their financial
+
+82
+00:15:38.430 --> 00:15:39.090
+Reports.
+
+83
+00:15:41.130 --> 00:15:41.550
+phil tully: Kind of
+
+84
+00:15:41.640 --> 00:15:44.280
+phil tully: What is special that safir as a tool.
+
+85
+00:15:44.940 --> 00:15:50.550
+Kip Twitchell: It this kind of described quickly how it was developed. We saw over the years.
+
+86
+00:15:51.270 --> 00:15:52.470
+Kip Twitchell: That people would do.
+
+87
+00:15:52.590 --> 00:15:56.130
+Kip Twitchell: Transaction reporting against transaction files and you'd see
+
+88
+00:15:56.430 --> 00:15:57.960
+Kip Twitchell: stacked up in the just queue.
+
+89
+00:15:58.500 --> 00:16:01.560
+Kip Twitchell: All these programs to go read the same file. We said, Listen.
+
+90
+00:16:01.650 --> 00:16:04.740
+Kip Twitchell: We just produced all those outputs in one scan of the file.
+
+91
+00:16:05.370 --> 00:16:07.350
+phil tully: That would save be
+
+92
+00:16:07.500 --> 00:16:10.320
+Kip Twitchell: Much more efficient. In addition to that, we noted that
+
+93
+00:16:10.380 --> 00:16:11.100
+Kip Twitchell: Quite often
+
+94
+00:16:11.580 --> 00:16:13.800
+Kip Twitchell: We had to do join processes to
+
+95
+00:16:14.130 --> 00:16:15.270
+Kip Twitchell: Decode tables.
+
+96
+00:16:15.300 --> 00:16:17.520
+Kip Twitchell: Small description files.
+
+97
+00:16:17.580 --> 00:16:20.730
+Kip Twitchell: So we made those in the memory to do high speed joins against those
+
+98
+00:16:21.360 --> 00:16:22.470
+Kip Twitchell: The last thing that was done in
+
+99
+00:16:22.470 --> 00:16:25.410
+Kip Twitchell: 1993 when it was originally commercialized.
+
+100
+00:16:25.860 --> 00:16:28.440
+Kip Twitchell: Was it was turned into a parallel processing engine.
+
+101
+00:16:28.980 --> 00:16:31.830
+Kip Twitchell: So that the history was broken up and each one of these
+
+102
+00:16:31.830 --> 00:16:33.000
+Kip Twitchell: Things is run as a
+
+103
+00:16:33.030 --> 00:16:34.020
+Kip Twitchell: Different thread.
+
+104
+00:16:35.760 --> 00:16:36.510
+Kip Twitchell: Obvious just a
+
+105
+00:16:36.660 --> 00:16:38.070
+Kip Twitchell: Another moment or two here and then
+
+106
+00:16:38.580 --> 00:16:41.910
+Kip Twitchell: You can ask questions and got five slides, but I don't know that we need
+
+107
+00:16:41.940 --> 00:16:42.870
+Kip Twitchell: To go through all of those
+
+108
+00:16:43.620 --> 00:16:49.560
+Kip Twitchell: The real process that sapper is a compiler, it generates machine code to domain specific language has a
+
+109
+00:16:49.590 --> 00:16:50.880
+Kip Twitchell: Front End application.
+
+110
+00:16:51.480 --> 00:16:55.800
+Kip Twitchell: That you define what we call safir views. Those are just a process that
+
+111
+00:16:55.950 --> 00:16:57.120
+phil tully: An output that needs to be
+
+112
+00:16:57.120 --> 00:16:57.630
+phil tully: Produced
+
+113
+00:16:58.050 --> 00:16:59.400
+Kip Twitchell: From a scan of a file.
+
+114
+00:16:59.910 --> 00:17:01.380
+Kip Twitchell: The model.
+
+115
+00:17:01.500 --> 00:17:18.900
+Kip Twitchell: That it's built upon is the good old bad program of 1000 initiate process 2000 read until end of file and 9000 terminate except that safir in doing that process each one of the views is able to see. So that becomes sub paragraphs.
+
+116
+00:17:18.900 --> 00:17:27.480
+phil tully: Effectively set for also has multiple exit points where times we have written code to decrypt
+
+117
+00:17:27.780 --> 00:17:30.210
+Kip Twitchell: IOS we emulate in Iowa accesses
+
+118
+00:17:30.420 --> 00:17:31.410
+Kip Twitchell: to decrypt
+
+119
+00:17:31.530 --> 00:17:37.260
+Kip Twitchell: Customer specific table and look up routines to do specific function processes.
+
+120
+00:17:37.950 --> 00:17:38.670
+phil tully: Kind of the
+
+121
+00:17:39.090 --> 00:17:41.760
+Kip Twitchell: The sort of things that it has it has some ETFs
+
+122
+00:17:41.790 --> 00:17:42.870
+phil tully: Characteristics, but it
+
+123
+00:17:42.870 --> 00:17:44.880
+Kip Twitchell: Also produces reports, because
+
+124
+00:17:45.450 --> 00:17:47.250
+Kip Twitchell: It does all the summarization, it
+
+125
+00:17:47.280 --> 00:17:55.380
+Kip Twitchell: Originally was a report formatting tool as kind of lost that over times we've gone to online reporting tools, but has
+
+126
+00:17:56.370 --> 00:17:58.410
+Kip Twitchell: Rule processing custom development.
+
+127
+00:17:58.890 --> 00:18:00.660
+Kip Twitchell: Has some aspects of an argument.
+
+128
+00:18:01.200 --> 00:18:03.870
+Kip Twitchell: In terms of the logic, but it does not store the data.
+
+129
+00:18:05.100 --> 00:18:11.370
+Kip Twitchell: The data can be stored in anything, and most of our customers use actually sequential files for storage of the data because of the volumes involved.
+
+130
+00:18:13.200 --> 00:18:16.890
+Kip Twitchell: Lines of code c++ and high level assembler
+
+131
+00:18:17.790 --> 00:18:20.280
+Kip Twitchell: Has Java some sequel. So it's about
+
+132
+00:18:20.490 --> 00:18:33.780
+Kip Twitchell: 600,000 lines of code developed over 30 years was a new version was developed in 2000 where we went out of CIC S. We still have the version three code. We call that
+
+133
+00:18:33.990 --> 00:18:35.700
+Kip Twitchell: could contribute that to open source if
+
+134
+00:18:35.700 --> 00:18:37.470
+Kip Twitchell: Somebody was interested in that as well.
+
+135
+00:18:38.490 --> 00:18:39.150
+Kip Twitchell: But the
+
+136
+00:18:39.270 --> 00:18:40.830
+Kip Twitchell: Current version is all of this.
+
+137
+00:18:40.890 --> 00:18:42.240
+Kip Twitchell: Set of code that was cold ball.
+
+138
+00:18:42.660 --> 00:18:44.040
+And some of an assembler
+
+139
+00:18:46.290 --> 00:18:49.140
+Kip Twitchell: I think that maybe I'll stop there. Let me just
+
+140
+00:18:49.200 --> 00:18:51.030
+Kip Twitchell: Show briefly we have
+
+141
+00:18:52.080 --> 00:18:54.360
+Kip Twitchell: Rebuilt recently the genie. The ers.
+
+142
+00:18:55.590 --> 00:18:58.770
+Kip Twitchell: Website and looking to working on
+
+143
+00:18:59.820 --> 00:19:01.290
+phil tully: Going out the code. We have a
+
+144
+00:19:01.410 --> 00:19:02.610
+Kip Twitchell: Museum near have
+
+145
+00:19:04.590 --> 00:19:06.750
+Kip Twitchell: Significant documents from our history.
+
+146
+00:19:07.530 --> 00:19:09.870
+Kip Twitchell: Talking about Geneva ers. We think that
+
+147
+00:19:10.830 --> 00:19:12.870
+phil tully: The application that we're thinking about
+
+148
+00:19:13.560 --> 00:19:19.770
+Kip Twitchell: The IBM will still offer Geneva ERS as a commercial application, but it will be zip enabled.
+
+149
+00:19:20.880 --> 00:19:24.480
+Kip Twitchell: So if you desire to have zip enabled Geneva.
+
+150
+00:19:24.570 --> 00:19:26.250
+Kip Twitchell: ERS, and it will be called
+
+151
+00:19:26.280 --> 00:19:33.120
+Kip Twitchell: sapper scalable architecture for financial reporting still that commercial product will require a maintenance contract.
+
+152
+00:19:33.720 --> 00:19:43.050
+Kip Twitchell: With IBM. We have a maintenance team that helps support our customers today will be continuing that but we have a large base of customers.
+
+153
+00:19:43.530 --> 00:19:50.010
+Kip Twitchell: By x IBM people and customer base that we think are interested in contributing there seemed to be energetic about
+
+154
+00:19:50.670 --> 00:19:59.370
+Kip Twitchell: kicking this off. So we think we've got a good base coming from a services background. We've never been supported by licensed software we always have done our development.
+
+155
+00:19:59.730 --> 00:20:11.010
+Kip Twitchell: collaboratively with our customers, adding new features to the product in response to customer needs. So there's so many aspects of open source that we've already been working in over the years as a tool.
+
+156
+00:20:13.020 --> 00:20:15.960
+Kip Twitchell: I'll pause there. Any questions, any, anything else I could say
+
+157
+00:20:22.560 --> 00:20:30.690
+Joe Devlin: Hey, I was able to spend some time reviewing you know a little bit more in depth about this program for product.
+
+158
+00:20:31.260 --> 00:20:44.790
+Joe Devlin: And what I really like about it is that it's an example of the kind of sophisticated software that lives at the higher level in the application stack for the mainframe and that by getting it into open source.
+
+159
+00:20:45.240 --> 00:21:01.560
+Joe Devlin: People can see not only keep it alive obvious kind of open source goals, but they can see the kinds of applications that have gotten written over the past you know 2030 years and the kind of day that they deal with, and particularly building the infrastructure for
+
+160
+00:21:02.820 --> 00:21:08.220
+Joe Devlin: Financial applications that are so dominant on the mainframe and
+
+161
+00:21:08.760 --> 00:21:17.790
+Joe Devlin: I just, you know, think that you know as much as we have the basic infrastructure there and things like, you know, Zoe, people will are mostly working on, you know, building
+
+162
+00:21:18.150 --> 00:21:36.930
+Joe Devlin: DevOps and or user interface kinds of things, but we need more things in lmt that represent the valuable applications which are the reason you know people didn't buy the mainframe for Zoe. We're trying to modernize it people bought the mainframe to run these kinds of applications.
+
+163
+00:21:39.120 --> 00:21:45.150
+Bob Dahlberg (VCU): Has this application and use it all in data mining. One of the problems that I've noticed from
+
+164
+00:21:45.210 --> 00:21:46.410
+Bob Dahlberg (VCU): Working with industry.
+
+165
+00:21:47.370 --> 00:21:49.560
+Bob Dahlberg (VCU): With academia, because they're using
+
+166
+00:21:50.730 --> 00:22:05.640
+Bob Dahlberg (VCU): We do a lot of data mining and AI and, you know, learning machines. But one of the problems is formatting all the data to get ready to, you know, feed into learning machines and things as this with this application have that capability.
+
+167
+00:22:06.060 --> 00:22:12.240
+Kip Twitchell: Yes, it could it could play a couple of different roles in that space. Let me say what it does not play into right now.
+
+168
+00:22:13.140 --> 00:22:21.750
+Kip Twitchell: The only sort of arithmetic operate it only has arithmetic operations today and it doesn't have an extensive library of
+
+169
+00:22:22.110 --> 00:22:29.160
+Kip Twitchell: Machine Learning kind of modules and and sophisticated mathematical models that it can call upon to do its work.
+
+170
+00:22:29.730 --> 00:22:39.360
+Kip Twitchell: Also let me save what it doesn't do as well sappers highest benefit comes when it's resolving hundreds of queries against a very large data set.
+
+171
+00:22:39.930 --> 00:22:48.060
+Kip Twitchell: And that hundreds of queries often requires that you're waiting at a specific point in time to resolve those queries.
+
+172
+00:22:48.480 --> 00:23:00.600
+Kip Twitchell: So if you start to get more to an end user query sort of tool. The performance benefits of safir drop away in some respect you still get very efficient pass of the data. But you don't get the most efficient.
+
+173
+00:23:00.870 --> 00:23:01.200
+Kip Twitchell: Path.
+
+174
+00:23:02.160 --> 00:23:08.460
+Kip Twitchell: But having said that, it has all the capabilities of doing transformations of all kinds of data types.
+
+175
+00:23:08.880 --> 00:23:18.720
+Kip Twitchell: To get to clean data and the data sets that we create these very large data sets for our customers are very clean data in very structured ways that
+
+176
+00:23:19.230 --> 00:23:31.920
+Kip Twitchell: Lead them and lend them their ability to use these kinds of things in machine learning sorts of processes subsequent safir, it could be enhanced to add more of those kind of capabilities directly into the tool as well.
+
+177
+00:23:32.400 --> 00:23:34.380
+Bob Dahlberg (VCU): Yeah, I like to see it view the pre
+
+178
+00:23:34.380 --> 00:23:35.280
+Bob Dahlberg (VCU): Processing
+
+179
+00:23:35.310 --> 00:23:38.850
+Bob Dahlberg (VCU): You know, for cleaning the data for the data.
+
+180
+00:23:39.810 --> 00:23:41.550
+Bob Dahlberg (VCU): Machine learning because you know you don't want
+
+181
+00:23:41.760 --> 00:23:52.620
+Bob Dahlberg (VCU): You want to do too much. You know, you don't want to do everything, buddy, you know, kind of thing. Yeah. So I see it as a step one to process the data and then allow the learning machine algorithms to do their job.
+
+182
+00:23:53.130 --> 00:23:53.490
+Kip Twitchell: It could
+
+183
+00:23:55.710 --> 00:23:56.040
+Bob Dahlberg (VCU): Thank you.
+
+184
+00:23:56.820 --> 00:24:01.890
+David Edelsohn: Can compute, you mentioned spark and comparisons. At the beginning of this
+
+185
+00:24:03.630 --> 00:24:17.730
+David Edelsohn: Was why, why not simply try to incorporate the best parts of Geneva into spark. If there are certain things that it does better and to make smart spark more readily available on CEOs.
+
+186
+00:24:20.040 --> 00:24:20.340
+David Edelsohn: To
+
+187
+00:24:21.840 --> 00:24:26.790
+Kip Twitchell: Let me respond to that just from this. I've done work over the last three years, and
+
+188
+00:24:26.970 --> 00:24:30.180
+Kip Twitchell: Our customers have been interested in modernizing for quite a while now.
+
+189
+00:24:30.780 --> 00:24:37.650
+Kip Twitchell: And I've done quite a bit of prototyping and work with spark both someone z and often see as well.
+
+190
+00:24:38.430 --> 00:24:49.170
+Kip Twitchell: Well, I just recently as part of our open source work. The last month, we've we've kind of come up with this architectural direction and we could see some intersections here between spark and what
+
+191
+00:24:50.580 --> 00:24:51.990
+Kip Twitchell: What Geneva does today.
+
+192
+00:24:52.560 --> 00:24:54.420
+Kip Twitchell: I might use the term Safra just excuse
+
+193
+00:24:54.420 --> 00:25:07.080
+Kip Twitchell: Me, I'm still getting used to designating my name correctly. If I ever use it incorrectly. The thing that's unique about Geneva ERS though is that spark Apache Spark is an analytical application.
+
+194
+00:25:08.310 --> 00:25:21.450
+Kip Twitchell: Geneva does a master file update Apache Spark isn't really written for large output processes and that master file update writing process is something that makes
+
+195
+00:25:22.140 --> 00:25:33.930
+Kip Twitchell: Our customers have noted, hey, if I put in my backup capabilities in Geneva. At the same time, it's making doing the daily pass for all of these queries, it can write the onsite and the off site backups at the same
+
+196
+00:25:33.930 --> 00:25:35.880
+Kip Twitchell: Time and I get more efficiency out
+
+197
+00:25:35.880 --> 00:25:36.150
+Kip Twitchell: Of it.
+
+198
+00:25:37.170 --> 00:25:41.670
+Kip Twitchell: All of that kind of work. They're using each state has one pass process.
+
+199
+00:25:42.090 --> 00:25:44.910
+Kip Twitchell: To to do those updates and backups at the same time.
+
+200
+00:25:45.480 --> 00:25:55.380
+Kip Twitchell: I wouldn't think that you would use Apache Spark and add into it, your backup capabilities as well because it's not really written for output right processes. It's meant for
+
+201
+00:25:55.620 --> 00:25:58.500
+Kip Twitchell: Aggregation and MapReduce to get you to one answer.
+
+202
+00:25:59.160 --> 00:26:08.940
+Kip Twitchell: There's also some things called common key buffering that has a unique kind of processing mechanism whereby we do large table joins against
+
+203
+00:26:09.450 --> 00:26:20.250
+Kip Twitchell: millions of rows records. It's a hierarchy process of match merge that I think of sapper the Geneva, the highest performance and most utilization
+
+204
+00:26:20.760 --> 00:26:24.210
+Kip Twitchell: It's not something that's in Apache Spark, it could be added to Apache Spark.
+
+205
+00:26:24.780 --> 00:26:35.850
+Kip Twitchell: So there's some interoperability that we're looking for driving in the open source world. Our customers do have things that they'd like to run in Apache Spark, at times, which would be more effective for them on a different platform.
+
+206
+00:26:36.450 --> 00:26:48.780
+Kip Twitchell: They'd like to use safir workbench metadata for doing those processes. We'd also like to be able to take in an open up this new Java code way of getting processes into safir
+
+207
+00:26:49.410 --> 00:26:53.160
+Kip Twitchell: So that we can actually become an Apache Spark execution engine for the
+
+208
+00:26:53.310 --> 00:27:02.130
+Kip Twitchell: Set of functions that Safra can do Geneva can do on CEOs and we think will have higher performance we know will have higher performance art code base.
+
+209
+00:27:03.150 --> 00:27:05.430
+Kip Twitchell: A customer just converted a
+
+210
+00:27:06.570 --> 00:27:07.860
+Kip Twitchell: Tried to convert a
+
+211
+00:27:08.070 --> 00:27:10.620
+Kip Twitchell: staffer process to Apache Spark it
+
+212
+00:27:10.650 --> 00:27:22.050
+Kip Twitchell: Went from 40 minutes with a lot of tuning some very high engineers involved to six hours of processing time Geneva scale is still unmatched. It's much beyond what Apache Spark does
+
+213
+00:27:25.200 --> 00:27:27.810
+David Edelsohn: Anybody. Again, it's still the question of
+
+214
+00:27:29.370 --> 00:27:35.400
+David Edelsohn: Making Apache Spark more accessible to CEOs clients.
+
+215
+00:27:36.120 --> 00:27:43.170
+Kip Twitchell: That have some aspects of that we can in the open source world we could work on that we think the faster way to do that.
+
+216
+00:27:43.530 --> 00:27:44.910
+Kip Twitchell: Is to put out our code base.
+
+217
+00:27:44.970 --> 00:27:57.630
+Kip Twitchell: Have the mechanisms and things that we do within Geneva understood more broadly and be adopted utilized when effective or changed if not effective and improved in other ways is probably the fastest way.
+
+218
+00:27:57.630 --> 00:28:12.840
+Joe Devlin: For us to just i'd like to comment on that. I think if the open source were out there. Not only could the existing goodness be maintained. But if someone wanted to build a highly scalable parallel Rd
+
+219
+00:28:13.980 --> 00:28:26.850
+Joe Devlin: Spark Rd populate or from it, they could do so and will probably be hard if it weren't open sourced, let's do that. So that, you know, one of the back end or, you know, places to which
+
+220
+00:28:27.900 --> 00:28:33.090
+Joe Devlin: Geneva could flow forward if a good slow forward efficiently without having to, you know,
+
+221
+00:28:33.720 --> 00:28:40.050
+Joe Devlin: serialized the data out to data files again but but build that sort of custom populate or the way sophisticated
+
+222
+00:28:40.590 --> 00:28:57.450
+Joe Devlin: SQL interfaces work and you know spark to get all that data in there and parallel would really be the key. And also, I thought Apache Spark in quotes worked perfectly on mainframe and that the mainframe Java is very good and it just works.
+
+223
+00:28:58.110 --> 00:29:01.560
+Kip Twitchell: Yeah, but the issue is instruction path length we are
+
+224
+00:29:01.710 --> 00:29:12.300
+Kip Twitchell: We are safir Geneva tends to be 50% to 60% even 70% faster than cobalt. So our instruction path lengths are incredibly short
+
+225
+00:29:12.990 --> 00:29:18.540
+Kip Twitchell: And it's been turned over 30 years we go to machine code that the processes that we've developed
+
+226
+00:29:18.990 --> 00:29:26.670
+Kip Twitchell: So if you're going to a JVM, you're going to be executing more, you can have a longer instruction path length, just because of the JVM, even if it's very efficient.
+
+227
+00:29:27.630 --> 00:29:37.680
+Kip Twitchell: You'll have a difficult time beating the saffron performance. It's been proven by our customers. They have looked for alternatives for a number of instances, a number of times and do not find anything.
+
+228
+00:29:37.710 --> 00:29:38.940
+Kip Twitchell: As the scale that
+
+229
+00:29:39.090 --> 00:29:39.900
+Kip Twitchell: The Geneva has
+
+230
+00:29:40.950 --> 00:29:51.360
+Joe Devlin: But if the downstream processing is more complex than what Sephora can handle. It's good to get that data directly shunted efficiently into a spark cluster. Exactly. That is right.
+
+231
+00:29:52.230 --> 00:29:56.010
+Kip Twitchell: And on the. This is a discussion today with with Joe Right on.
+
+232
+00:29:57.030 --> 00:30:06.720
+Kip Twitchell: On the like a patch or Apache Spark on the IoT solution on IBM on the users MDS as its feeder.
+
+233
+00:30:07.230 --> 00:30:18.090
+Kip Twitchell: Well, Geneva could use MDS as its feeder Geneva doesn't have a lot of ETS it as an epl characteristic, but it doesn't have a lot of connectors two different kinds of data types doesn't read IMS natively.
+
+234
+00:30:18.480 --> 00:30:33.330
+Kip Twitchell: Reads me Sam dB to and sequential files, but it could read it could use MDS to get to a greater sets of data on z as well. So there's integration points here, multiple ways that this could go
+
+235
+00:30:34.410 --> 00:30:36.960
+Bob Dahlberg (VCU): Is there a large list of API's that you have with
+
+236
+00:30:37.980 --> 00:30:38.700
+Bob Dahlberg (VCU): This product.
+
+237
+00:30:39.030 --> 00:30:42.780
+Bob Dahlberg (VCU): Or is anything that you would do with in open source.
+
+238
+00:30:43.200 --> 00:31:03.360
+Kip Twitchell: Well, we have the terms of API's. The we have API points and multiple exit points in safir today, like I O input and output API points. Look up API points. So, but those have to be coded to the safir specifications. The linkage requirements of sapper
+
+239
+00:31:04.620 --> 00:31:11.610
+Kip Twitchell: Geneva wants to is the primary address space and wants to initialize the primary address space because it's a parallel processing engine.
+
+240
+00:31:12.900 --> 00:31:23.520
+Kip Twitchell: So there's some limitations in that way. And also, again, it wants to resolve all the passes in a single pass of the file, but we do have some thoughts around if we were to open up
+
+241
+00:31:24.090 --> 00:31:31.050
+Kip Twitchell: A sequel interface and make Geneva started task that simply scan the files when it had queries.
+
+242
+00:31:31.710 --> 00:31:43.680
+Kip Twitchell: That it could then become a simplified sequel resolution engine that would give you greater interfaces to the to the reporting applications that are sequel based. So those are all things that would
+
+243
+00:31:43.680 --> 00:31:45.270
+John Mertic: be driven by customer demand.
+
+244
+00:31:45.360 --> 00:31:47.160
+Kip Twitchell: And contributions to project.
+
+245
+00:31:50.040 --> 00:31:51.210
+John Mertic: Do you already have.
+
+246
+00:31:52.440 --> 00:32:02.280
+Peter Fandel: People customers, partners that are aware of this proposal and are eagerly awaiting the opportunity to to extend this one way or another.
+
+247
+00:32:02.820 --> 00:32:06.450
+Kip Twitchell: We have not, but as a as a consulting organization we
+
+248
+00:32:06.480 --> 00:32:12.420
+Kip Twitchell: Like I said, we don't have a large sales force and never had a sales force pushing Safford Geneva.
+
+249
+00:32:12.960 --> 00:32:22.920
+Kip Twitchell: So we don't have a list of customers lined up today we are two customers that we have are both very supportive of this and excited about the open source prospects of it.
+
+250
+00:32:23.460 --> 00:32:36.330
+Kip Twitchell: We do have a community of existing Geneva ERS people in dispersion, not in IBM that are in other organizations now that are interested in. And we already have some contributions from them that have started up in the last month.
+
+251
+00:32:37.770 --> 00:32:47.970
+Kip Twitchell: But we don't have a long list of customers right now that are that are looking for this this this discussion we're having today would be probably the longest discussion we've had about
+
+252
+00:32:48.390 --> 00:32:57.780
+Kip Twitchell: Jeannie VRS with a knowledgeable set of people anyone that you would be interested in referring. We'd love to hear from them get their feedback about where we go and how we do things.
+
+253
+00:33:03.630 --> 00:33:08.070
+John Mertic: Often, so I'm very conversation here I'm
+
+254
+00:33:10.140 --> 00:33:10.860
+Kip Twitchell: Going to make one more.
+
+255
+00:33:10.920 --> 00:33:11.490
+I gotta
+
+256
+00:33:13.050 --> 00:33:13.410
+John Mertic: Go.
+
+257
+00:33:14.760 --> 00:33:16.680
+John Mertic: Oh, go ahead. Sorry. Yeah, just
+
+258
+00:33:16.890 --> 00:33:25.260
+Kip Twitchell: There's some related things as well, just so you're aware, we also I'm running a another open source thought leadership.
+
+259
+00:33:25.860 --> 00:33:27.360
+Kip Twitchell: Thing called share a ledger.
+
+260
+00:33:28.050 --> 00:33:30.210
+Kip Twitchell: Which is kind of branching Safford
+
+261
+00:33:30.690 --> 00:33:32.580
+Peter Fandel: Could be programmed to do a lot of
+
+262
+00:33:32.580 --> 00:33:36.360
+Kip Twitchell: Different applications, but this is more about specifically around
+
+263
+00:33:36.450 --> 00:33:41.160
+Kip Twitchell: Ledger's and how we get greater efficiency in our legends, not just
+
+264
+00:33:41.550 --> 00:33:43.530
+Kip Twitchell: On the but any kind of ledger.
+
+265
+00:33:43.590 --> 00:33:46.440
+Kip Twitchell: earpiece systems have Ledger's embedded at the bottom of them.
+
+266
+00:33:47.010 --> 00:33:48.450
+Kip Twitchell: So that's a related project.
+
+267
+00:33:48.630 --> 00:33:50.310
+Kip Twitchell: That would be supporting us
+
+268
+00:33:51.480 --> 00:33:55.620
+Kip Twitchell: I also run financial systems edge.com
+
+269
+00:33:56.130 --> 00:33:57.030
+Kip Twitchell: Which has a
+
+270
+00:33:57.540 --> 00:33:59.250
+Kip Twitchell: List of resources around
+
+271
+00:34:00.840 --> 00:34:05.610
+Kip Twitchell: Ledger's and financial systems and Z technology and and other kinds of
+
+272
+00:34:05.940 --> 00:34:07.710
+Kip Twitchell: Things. So these are all supportive
+
+273
+00:34:07.710 --> 00:34:09.960
+Kip Twitchell: Of what we're trying to do here would be included.
+
+274
+00:34:10.140 --> 00:34:11.340
+As part of the project.
+
+275
+00:34:14.520 --> 00:34:32.310
+Sean Grady: I have to leave in a few minutes. I just wanted to throw this opinion out there to see what other people think. But my thoughts here is that this is kind of a first of its kind opportunities for mainframe open source in
+
+276
+00:34:33.330 --> 00:34:38.370
+Sean Grady: To my knowledge, there's nothing that's really dealing with
+
+277
+00:34:39.750 --> 00:34:57.240
+Sean Grady: Transactional performance in the US Open Source thus far. And so it's it's hard to see where we'll go from this point but I think it's very interesting to to try it out. My, my main concern is just
+
+278
+00:34:58.350 --> 00:35:07.860
+Sean Grady: due to it being the first of its kind. I don't know where the maintainer is will come from. But I would say that we don't really know until we dry so
+
+279
+00:35:07.860 --> 00:35:11.520
+Sean Grady: It's worth a shot. And I can I just suggest to you.
+
+280
+00:35:11.580 --> 00:35:15.120
+Kip Twitchell: We do have a maintenance team inside of IBM that supported by our to
+
+281
+00:35:15.150 --> 00:35:17.040
+Kip Twitchell: Maintenance customers and they will be
+
+282
+00:35:17.100 --> 00:35:18.570
+Kip Twitchell: Supporting in some measure
+
+283
+00:35:19.140 --> 00:35:23.430
+Kip Twitchell: The existing code base certainly open source adds a level of
+
+284
+00:35:23.580 --> 00:35:26.850
+Kip Twitchell: Work effort to go beyond what we're doing today for our customers. So
+
+285
+00:35:27.120 --> 00:35:28.650
+Kip Twitchell: We don't have unlimited capacity.
+
+286
+00:35:29.340 --> 00:35:30.180
+Kip Twitchell: But there is a
+
+287
+00:35:30.360 --> 00:35:33.870
+Kip Twitchell: A a multi year maintenance contracts in place that
+
+288
+00:35:33.930 --> 00:35:36.450
+phil tully: Does continue to support the code base is
+
+289
+00:35:36.690 --> 00:35:38.040
+Kip Twitchell: Becoming falling off the edge.
+
+290
+00:35:43.440 --> 00:35:43.680
+John Mertic: Of it.
+
+291
+00:35:44.580 --> 00:35:45.870
+phil tully: I think from
+
+292
+00:35:45.900 --> 00:35:53.970
+phil tully: From my point of view this is. Well, I haven't very little input on anything happens on the Z iOS system anywhere.
+
+293
+00:35:56.130 --> 00:36:05.760
+phil tully: From a promise simple open source project. Look, this is, this is exactly where we should be going. I mean, this is a an active tool being used.
+
+294
+00:36:06.150 --> 00:36:26.250
+phil tully: And we want to expand its presence and open it source so and and engage other people, possibly into maintaining and expanding on it. So I think from my point of view, it's, it's, it's definitely you should vote and bring it to the table as an open mainframe open source project.
+
+295
+00:36:29.730 --> 00:36:42.960
+John Mertic: All right, I hear that as a, a, a bring to the table for a vote here. Do I here. I'll take yours as a as a motion to approve their Phil, do I have someone coming behind on the second
+
+296
+00:36:43.890 --> 00:36:44.310
+Second,
+
+297
+00:36:45.870 --> 00:36:46.440
+John Mertic: Awesome.
+
+298
+00:36:47.340 --> 00:36:52.170
+John Mertic: So voting members. You know who you are. All in favor of taking the
+
+299
+00:36:52.500 --> 00:36:52.890
+Eyes.
+
+300
+00:36:54.210 --> 00:36:54.540
+Enyu Wang: I
+
+301
+00:36:59.490 --> 00:37:01.140
+Any opposed, or abstain.
+
+302
+00:37:04.530 --> 00:37:09.570
+John Mertic: Congratulation cap. Your lucky number 13 of projects in the open mainframe project well
+
+303
+00:37:10.260 --> 00:37:12.000
+Kip Twitchell: That's lucky number 13. Thank you.
+
+304
+00:37:14.880 --> 00:37:20.100
+John Mertic: Excellent, excellent. Follow all will connect sometime here in the next couple days with next steps.
+
+305
+00:37:21.210 --> 00:37:21.780
+John Mertic: Thank you very much.
+
+306
+00:37:22.200 --> 00:37:23.880
+Kip Twitchell: Appreciate all your time that's
+
+307
+00:37:26.040 --> 00:37:26.460
+John Mertic: Awesome.
+
+308
+00:37:27.570 --> 00:37:40.110
+John Mertic: So next on the list here, we've kind of following up on the SIG working group and I think where we have landed here was using a co working group as an example.
+
+309
+00:37:42.120 --> 00:37:49.440
+John Mertic: We put together a quick propose a kind of a structure of what a working group public life and Kim.
+
+310
+00:37:52.800 --> 00:37:54.060
+John Mertic: Started working on that.
+
+311
+00:37:59.670 --> 00:38:00.180
+Cameron Seay: Sure.
+
+312
+00:38:02.070 --> 00:38:03.540
+Cameron Seay: If you can enable my screen.
+
+313
+00:38:07.980 --> 00:38:08.670
+John Mertic: find you here.
+
+314
+00:38:11.940 --> 00:38:12.960
+phil tully: Alright hopefully that works.
+
+315
+00:38:14.010 --> 00:38:14.700
+John Mertic: It does.
+
+316
+00:38:16.410 --> 00:38:18.870
+Cameron Seay: Um, we found my document.
+
+317
+00:38:22.350 --> 00:38:24.990
+Cameron Seay: Okay, so I was in the process of
+
+318
+00:38:26.370 --> 00:38:27.390
+Cameron Seay: Updating the
+
+319
+00:38:27.780 --> 00:38:29.340
+Cameron Seay: Repo that john created
+
+320
+00:38:29.760 --> 00:38:30.720
+Cameron Seay: And get up.
+
+321
+00:38:30.780 --> 00:38:38.460
+Cameron Seay: And of course I didn't leave myself enough time for the detail is required for a commit to the
+
+322
+00:38:39.450 --> 00:38:42.150
+Cameron Seay: Dive to really document. So I'm just can
+
+323
+00:38:42.780 --> 00:38:43.650
+Everyone see my screen.
+
+324
+00:38:47.280 --> 00:38:47.880
+John Mertic: Yes.
+
+325
+00:38:49.050 --> 00:38:51.600
+John Mertic: We can see it. I can, I can pull it up.
+
+326
+00:38:51.660 --> 00:38:53.220
+Cameron Seay: No problem. Um,
+
+327
+00:38:56.580 --> 00:38:57.390
+John Mertic: Yeah, but help
+
+328
+00:38:58.950 --> 00:39:00.390
+Cameron Seay: Us a little better.
+
+329
+00:39:02.040 --> 00:39:02.550
+Len Santalucia: Back.
+
+330
+00:39:03.570 --> 00:39:04.350
+John Mertic: Yeah, there we go.
+
+331
+00:39:05.520 --> 00:39:08.160
+Cameron Seay: This is where this is verbatim the template.
+
+332
+00:39:08.220 --> 00:39:21.180
+Cameron Seay: Arm that the open mainframe project or the Linux Foundation wants a working group to follow. So I just filled in the detail. So I'm not going to read the first paragraph for you. I'll just paraphrase it we
+
+333
+00:39:21.360 --> 00:39:29.790
+Cameron Seay: We in the industry and those of us that are close to cobalt have determined that there is a need for
+
+334
+00:39:30.150 --> 00:39:31.230
+Cameron Seay: A focused
+
+335
+00:39:31.230 --> 00:39:40.890
+Cameron Seay: Effort to both explain what cabal is and facilitate people that want to be a part of the cobalt community so that summarizes that
+
+336
+00:39:41.340 --> 00:39:53.850
+Cameron Seay: Um, and if you need any more detail, I have a much more detailed document on the site. There's a link to the site down here, much more detailed document, but this is just following the template. So I didn't want to give too much verbiage in here.
+
+337
+00:39:54.180 --> 00:39:56.880
+Cameron Seay: It said limit your limit your verbiage
+
+338
+00:39:57.780 --> 00:39:58.200
+Cameron Seay: So,
+
+339
+00:39:58.710 --> 00:40:01.920
+Cameron Seay: what the goals are and the we
+
+340
+00:40:01.920 --> 00:40:03.360
+Cameron Seay: may add to these. And this was
+
+341
+00:40:03.690 --> 00:40:05.130
+Cameron Seay: input from the group.
+
+342
+00:40:05.220 --> 00:40:10.560
+Cameron Seay: These not not as mine unilaterally greatly increased cobalt exposure to the polls public
+
+343
+00:40:10.800 --> 00:40:13.800
+Cameron Seay: Specifically the it decision makers who will directly affect
+
+344
+00:40:13.980 --> 00:40:17.160
+Cameron Seay: How cobalt will be employed in the future.
+
+345
+00:40:17.490 --> 00:40:27.540
+Cameron Seay: killin Clint is totally dislike describe why Kobayashi returned to the general cost curriculum. That's a big one for me that it cobalt is virtually invisible and
+
+346
+00:40:27.750 --> 00:40:28.530
+Cameron Seay: All causes can
+
+347
+00:40:28.590 --> 00:40:29.520
+phil tully: Cause campuses.
+
+348
+00:40:29.940 --> 00:40:31.950
+Cameron Seay: And gather data and promote call balls.
+
+349
+00:40:32.190 --> 00:40:33.960
+Cameron Seay: Important to the global economy.
+
+350
+00:40:34.230 --> 00:40:38.280
+Cameron Seay: Provide avenues by which those seeking cobalt skills can acquire them.
+
+351
+00:40:38.790 --> 00:40:39.630
+Cameron Seay: Establish a group
+
+352
+00:40:39.660 --> 00:40:42.360
+Cameron Seay: Of thought leaders and key person in this space.
+
+353
+00:40:42.630 --> 00:40:44.700
+Cameron Seay: To act as global proponents
+
+354
+00:40:44.910 --> 00:40:45.990
+Cameron Seay: And commentators
+
+355
+00:40:46.560 --> 00:40:48.360
+Cameron Seay: On the language and it's enduring value.
+
+356
+00:40:48.900 --> 00:40:52.380
+Cameron Seay: So before I go on all the any comments on those goals.
+
+357
+00:40:57.750 --> 00:40:57.990
+Cameron Seay: Okay.
+
+358
+00:40:59.970 --> 00:41:00.420
+Cameron Seay: I'm sorry.
+
+359
+00:41:00.540 --> 00:41:01.500
+Rick Troth: It was good stuff going
+
+360
+00:41:01.620 --> 00:41:15.660
+Cameron Seay: Just good yeah I'm, you know, I was a little press to foot the non goes, um, I kind of did these unilaterally and I will receive input from the group. I got crickets. When I asked for non goes but I just
+
+361
+00:41:15.930 --> 00:41:17.430
+Cameron Seay: We don't want to be
+
+362
+00:41:18.150 --> 00:41:22.080
+Cameron Seay: In the spirit of the open mainframe project and Linux Foundation in general.
+
+363
+00:41:22.320 --> 00:41:23.850
+Cameron Seay: We don't want to
+
+364
+00:41:24.270 --> 00:41:29.730
+Cameron Seay: show any bias for it for any particular vendor or a particular proceed of the point
+
+365
+00:41:29.730 --> 00:41:31.590
+Cameron Seay: Cobalt and we don't want to
+
+366
+00:41:31.860 --> 00:41:43.680
+Cameron Seay: Develop a preference for one platform or over another. Although about 95% plus cobalt is that is deployed is deployed on the on the mainframe, but
+
+367
+00:41:44.010 --> 00:41:44.970
+Cameron Seay: There are some that isn't
+
+368
+00:41:45.000 --> 00:41:46.410
+Cameron Seay: So we want to keep that open
+
+369
+00:41:47.160 --> 00:41:47.670
+Um,
+
+370
+00:41:49.560 --> 00:41:58.830
+Cameron Seay: So well, it kind of was it was your comment. I'll pause for comments. I'm the sponsor. I didn't, I didn't ask him this, but he was a part of. He know he was a
+
+371
+00:41:58.950 --> 00:41:59.970
+Cameron Seay: partner in crime for
+
+372
+00:42:00.210 --> 00:42:05.820
+Cameron Seay: This this caper. So I just put his name in and if you got a problem with that, I'll be glad to replace it with somebody else but
+
+373
+00:42:06.030 --> 00:42:06.630
+Cameron Seay: You don't want
+
+374
+00:42:07.890 --> 00:42:10.290
+Len Santalucia: That's fine. Yeah. Now deliverables.
+
+375
+00:42:10.350 --> 00:42:12.420
+Cameron Seay: There are kind of high level deliverables that
+
+376
+00:42:13.050 --> 00:42:13.680
+Cameron Seay: Out to me.
+
+377
+00:42:14.100 --> 00:42:17.310
+Cameron Seay: And in conversation with a couple of people. I'm
+
+378
+00:42:17.370 --> 00:42:19.920
+Cameron Seay: In the, in the team on the team, um,
+
+379
+00:42:20.010 --> 00:42:27.930
+Cameron Seay: What I would like to have a highly visible online roundtable with the major person is that
+
+380
+00:42:27.930 --> 00:42:29.730
+Cameron Seay: Person I'm
+
+381
+00:42:30.090 --> 00:42:30.990
+Cameron Seay: In this space.
+
+382
+00:42:31.110 --> 00:42:33.120
+Cameron Seay: People like Tom Ross and
+
+383
+00:42:33.180 --> 00:42:41.220
+Cameron Seay: That level, um, who, you know, have kind of global global impact on the language and so that they can excel.
+
+384
+00:42:41.670 --> 00:42:43.200
+Cameron Seay: And my goal is to have
+
+385
+00:42:43.470 --> 00:42:44.820
+Cameron Seay: A bunch of students.
+
+386
+00:42:45.060 --> 00:42:47.550
+phil tully: And people are just in don't know anything about
+
+387
+00:42:47.550 --> 00:42:54.180
+Cameron Seay: Cobalt because everybody was called knows the role the Kobo everybody's called knows the road cobalt plays and global economy.
+
+388
+00:42:54.390 --> 00:42:55.500
+Cameron Seay: But most people do not
+
+389
+00:42:56.010 --> 00:42:57.990
+Cameron Seay: Most people do not know that a huge chunk.
+
+390
+00:42:58.230 --> 00:42:58.500
+phil tully: Of the
+
+391
+00:42:58.680 --> 00:42:59.880
+Cameron Seay: Of the world business.
+
+392
+00:43:00.120 --> 00:43:02.250
+Cameron Seay: Is done with cobalt application so
+
+393
+00:43:02.790 --> 00:43:04.740
+Cameron Seay: We want to do to make that known
+
+394
+00:43:05.160 --> 00:43:07.920
+Cameron Seay: And we want to develop a standardized curriculum.
+
+395
+00:43:08.130 --> 00:43:10.890
+Cameron Seay: For high schools, colleges and universities for teaching cobalt
+
+396
+00:43:11.340 --> 00:43:13.800
+Cameron Seay: Is a big. Now, there may be some other
+
+397
+00:43:14.520 --> 00:43:16.470
+Cameron Seay: I like to. I like deliverables.
+
+398
+00:43:16.650 --> 00:43:30.780
+Cameron Seay: That are near term, and clearly doable. And both of these are so we'll have other deliverables as time goes by communication. So we have our communication protocol on set up. And so there are
+
+399
+00:43:30.870 --> 00:43:33.360
+Cameron Seay: Various ways you can interact with the with the group.
+
+400
+00:43:33.750 --> 00:43:40.920
+Cameron Seay: On this will be made available that IBM has an excellent on cobalt channel out there for for beginners and novices.
+
+401
+00:43:41.370 --> 00:44:03.120
+Cameron Seay: Um, right now we're currently meeting of the fourth Thursday of every month at 2:30pm for zoom and don't see any meetings in the foreseeable future in person. Now, I would like to share another very quickly because I know you know time is kind of limited and share my screen new share
+
+402
+00:44:04.350 --> 00:44:19.830
+Cameron Seay: Some knows. These are Derek notes with with input Derek Britain's notes with input from our was our and I just want to share these with the group because this is where we want to go. So we have core objectives of evangelizing cobalt to academics and I'm
+
+403
+00:44:21.810 --> 00:44:26.520
+Cameron Seay: Sharing the cobalt on all platforms. Um, and facilitate that.
+
+404
+00:44:28.170 --> 00:44:42.750
+Cameron Seay: Define and and really quantify this this cobalt shortage and that there's not really a shortage of cobalt programmers. Now, but there will be because it's not being taught. Um, so, um,
+
+405
+00:44:48.000 --> 00:44:49.380
+Rick Troth: I could say there already is.
+
+406
+00:44:50.940 --> 00:45:00.780
+Cameron Seay: Okay. Um, but, you know, called bill he shot. He's got a bunch cobalt program, ready to go. The point is, and I'm not disagreeing with your data.
+
+407
+00:45:01.140 --> 00:45:11.310
+Cameron Seay: But the point is that there's going to be because it's not being taught in universities at all. So whether it is it is not one. Now there is going to be
+
+408
+00:45:11.940 --> 00:45:12.810
+Rick Troth: Absolutely.
+
+409
+00:45:12.870 --> 00:45:13.470
+Yeah, absolutely.
+
+410
+00:45:15.090 --> 00:45:18.330
+Cameron Seay: Um, I'm sorry, I'm reading the know from john here.
+
+411
+00:45:21.360 --> 00:45:23.220
+Cameron Seay: John okay yeah good talking about
+
+412
+00:45:23.340 --> 00:45:25.200
+Rick Troth: Quit talking about go ball so much camp.
+
+413
+00:45:25.530 --> 00:45:25.890
+Yeah.
+
+414
+00:45:29.460 --> 00:45:33.090
+John Mertic: You can talk about Kobo all day long. Everyone else might leave
+
+415
+00:45:34.260 --> 00:45:35.520
+John Mertic: Well, okay, but let me
+
+416
+00:45:35.550 --> 00:45:39.660
+Rick Troth: Let me jump in and I was going to try and wait until the end of what cam saying but
+
+417
+00:45:39.720 --> 00:45:47.820
+Rick Troth: Please my parent company now is micro focus and when you know we we were we were with
+
+418
+00:45:48.450 --> 00:45:53.130
+Rick Troth: At the time, HP and they spun off their software and at
+
+419
+00:45:53.130 --> 00:45:54.750
+Rick Troth: One point we were even tied with Souza,
+
+420
+00:45:56.820 --> 00:46:07.620
+Rick Troth: But HP spun off their software division to go merge with micro focus and a lot of people who was microphone. I knew micro focus was because I remember microphones cobalt from the 18th, which is still
+
+421
+00:46:08.070 --> 00:46:11.100
+Rick Troth: A substantial business. I mean, the
+
+422
+00:46:11.220 --> 00:46:14.190
+Rick Troth: The cobalt business within micro focus is huge.
+
+423
+00:46:14.700 --> 00:46:26.130
+Rick Troth: So, I mean, who doesn't get it for vendors IBM and IBM and then also IBM. No, no, let me not ragging on IBM micro focus has got a major cobalt business and it is not
+
+424
+00:46:28.170 --> 00:46:33.150
+Rick Troth: To my knowledge, our compiler does not run on CEOs. It runs on Windows.
+
+425
+00:46:33.180 --> 00:46:35.490
+Rick Troth: Linux Linux Ai x
+
+426
+00:46:35.700 --> 00:46:38.040
+Rick Troth: Linux Solaris Linux.
+
+427
+00:46:38.610 --> 00:46:39.420
+Rick Troth: And windows.
+
+428
+00:46:40.620 --> 00:46:41.100
+Rick Troth: But
+
+429
+00:46:41.940 --> 00:46:44.160
+Rick Troth: Personally I've used the new co ball and
+
+430
+00:46:44.250 --> 00:46:45.900
+Rick Troth: The micro focus cobalt compiler.
+
+431
+00:46:47.400 --> 00:46:49.860
+Rick Troth: In the smattering of cobalt that I've done. So we've
+
+432
+00:46:49.860 --> 00:46:50.190
+John Mertic: Got
+
+433
+00:46:50.220 --> 00:46:51.000
+Rick Troth: We've got some
+
+434
+00:46:52.740 --> 00:47:00.960
+Rick Troth: Some other platforms that are out there besides just the iOS and the IBM compiler. We've got a lot of cobalt stuff that's happening here. And one of the calls that we get
+
+435
+00:47:01.350 --> 00:47:02.760
+John Mertic: In my business with the data.
+
+436
+00:47:02.760 --> 00:47:03.660
+Rick Troth: Protection stuff.
+
+437
+00:47:03.720 --> 00:47:03.870
+Joe Devlin: That
+
+438
+00:47:04.020 --> 00:47:05.370
+Rick Troth: The stuff that I do is all
+
+439
+00:47:05.700 --> 00:47:12.480
+Rick Troth: format preserving encryption. I'm not actually in the cobalt business. So even though I'm talking about something from my employer, it's
+
+440
+00:47:13.110 --> 00:47:22.590
+Rick Troth: Which kind of sounds a little self serving. I think there's just a huge opportunity to get some of the micro focus people involved in this form that you're trying to start up I will find them. We already know.
+
+441
+00:47:22.980 --> 00:47:25.350
+Cameron Seay: Okay, Britain's micro focus
+
+442
+00:47:26.520 --> 00:47:26.760
+Cameron Seay: There.
+
+443
+00:47:26.970 --> 00:47:30.600
+Rick Troth: Okay, okay. Yeah, he's one I would mention. Great. Okay. You got him already good
+
+444
+00:47:30.720 --> 00:47:35.220
+Cameron Seay: at math. Yeah, he's he's he's all over to my Twitter feed the notes on here.
+
+445
+00:47:35.490 --> 00:47:42.570
+Cameron Seay: And that's pretty much all I had. I don't want to take up too much time with this, but, um, you know, I have this fleshed out for people that are interested in what we're doing.
+
+446
+00:47:42.840 --> 00:47:43.590
+Cameron Seay: On the site.
+
+447
+00:47:43.920 --> 00:47:49.440
+Cameron Seay: Of there's a lot more information about you know what we're doing. But we want to provide skills and training and I'm working with.
+
+448
+00:47:50.070 --> 00:48:05.850
+Cameron Seay: Some harshness arm of IBM who has the cobalt Fridays tightly coupled with her so that we don't work at cross purposes. So we want people we want to get it back into schools and anybody walking in off the street and wants to learn cobalt soup to nuts. That's what we want to provide
+
+449
+00:48:06.090 --> 00:48:08.370
+Cameron Seay: We also want to see what the conduit or the industry.
+
+450
+00:48:09.750 --> 00:48:14.760
+Cameron Seay: We hear all these companies are using cobalt, but I don't see them ever
+
+451
+00:48:15.000 --> 00:48:19.020
+Cameron Seay: Asked for jobs. I mean, I don't see jobs come and I know everybody uses cobalt
+
+452
+00:48:19.350 --> 00:48:27.600
+Cameron Seay: So I want to make sure that we know what industry is doing in industries onboarding process for cobalt skills.
+
+453
+00:48:27.930 --> 00:48:30.150
+John Mertic: So that's pretty much all I have a man I'm I'm open for
+
+454
+00:48:30.150 --> 00:48:36.150
+Cameron Seay: Any questions, but that's pretty much in a nutshell, the, the, the GitHub repo will be updated as soon as possible.
+
+455
+00:48:36.390 --> 00:48:38.640
+Bob Dahlberg (VCU): Yep, kiss. If we don't start trading cobalt
+
+456
+00:48:38.670 --> 00:48:42.900
+Bob Dahlberg (VCU): Programmers what's going to happen is they're going to take the Cold War programmers that we do produce
+
+457
+00:48:42.960 --> 00:48:44.190
+Bob Dahlberg (VCU): To convert cobalt
+
+458
+00:48:44.220 --> 00:48:46.500
+Cameron Seay: To some other application. Exactly.
+
+459
+00:48:47.370 --> 00:48:49.320
+Joe Devlin: So I really like what you're doing.
+
+460
+00:48:49.320 --> 00:48:51.660
+Bob Dahlberg (VCU): Here and you know i i wish.
+
+461
+00:48:51.900 --> 00:48:53.340
+Bob Dahlberg (VCU): I don't know. I've heard more
+
+462
+00:48:54.780 --> 00:48:55.470
+Bob Dahlberg (VCU): Movement.
+
+463
+00:48:55.530 --> 00:48:56.550
+John Mertic: And processing.
+
+464
+00:48:56.640 --> 00:48:57.300
+phil tully: In this
+
+465
+00:48:57.390 --> 00:48:59.670
+Bob Dahlberg (VCU): Cobalt project that I have in the education.
+
+466
+00:48:59.670 --> 00:49:01.170
+phil tully: prod project, which
+
+467
+00:49:01.200 --> 00:49:02.670
+Bob Dahlberg (VCU): Is kind of disconcerting to me.
+
+468
+00:49:04.050 --> 00:49:05.010
+phil tully: But one of the things
+
+469
+00:49:05.040 --> 00:49:09.600
+Bob Dahlberg (VCU): You mentioned high school and other things I've been working with
+
+470
+00:49:10.710 --> 00:49:13.980
+Bob Dahlberg (VCU): The Virginia cyber range, which is a system.
+
+471
+00:49:14.010 --> 00:49:17.250
+Bob Dahlberg (VCU): For that all universities.
+
+472
+00:49:17.460 --> 00:49:18.900
+John Mertic: Community colleges
+
+473
+00:49:19.200 --> 00:49:21.540
+Bob Dahlberg (VCU): High schools and grade schools can use for cyber
+
+474
+00:49:21.540 --> 00:49:22.170
+Bob Dahlberg (VCU): Security
+
+475
+00:49:22.980 --> 00:49:24.840
+Bob Dahlberg (VCU): One of the things I found is that
+
+476
+00:49:24.870 --> 00:49:27.360
+Bob Dahlberg (VCU): There's nothing for computer science. And I kind of feel like
+
+477
+00:49:27.360 --> 00:49:27.480
+John Mertic: They're
+
+478
+00:49:27.510 --> 00:49:29.610
+Bob Dahlberg (VCU): Putting the horse before the cart.
+
+479
+00:49:29.640 --> 00:49:30.240
+John Mertic: Actually
+
+480
+00:49:30.390 --> 00:49:31.050
+Bob Dahlberg (VCU): We are now.
+
+481
+00:49:31.080 --> 00:49:33.180
+Bob Dahlberg (VCU): Involved in a National Cyber
+
+482
+00:49:33.420 --> 00:49:34.050
+Bob Dahlberg (VCU): Range.
+
+483
+00:49:34.800 --> 00:49:38.160
+Bob Dahlberg (VCU): And we're developing content for cyber security now.
+
+484
+00:49:39.180 --> 00:49:40.410
+Bob Dahlberg (VCU): And we're working with NIST
+
+485
+00:49:40.440 --> 00:49:41.610
+Bob Dahlberg (VCU): To do some of this stuff.
+
+486
+00:49:42.150 --> 00:49:42.930
+Bob Dahlberg (VCU): I'm thinking
+
+487
+00:49:43.230 --> 00:49:45.540
+Bob Dahlberg (VCU): God, I'd like to do what they're doing.
+
+488
+00:49:47.130 --> 00:49:49.230
+John Mertic: In your space. In other words,
+
+489
+00:49:49.260 --> 00:49:52.650
+Bob Dahlberg (VCU): Get, get some high school people involved.
+
+490
+00:49:53.640 --> 00:49:54.390
+phil tully: Teachers
+
+491
+00:49:54.480 --> 00:49:56.670
+Bob Dahlberg (VCU): Get some community college people involved.
+
+492
+00:49:56.730 --> 00:49:58.170
+Bob Dahlberg (VCU): And do seminars with them.
+
+493
+00:49:58.170 --> 00:49:58.860
+John Mertic: In other words,
+
+494
+00:49:59.100 --> 00:50:00.090
+Bob Dahlberg (VCU): You know, work groups.
+
+495
+00:50:00.240 --> 00:50:02.310
+Bob Dahlberg (VCU): Because we do is we do work groups based
+
+496
+00:50:02.310 --> 00:50:02.820
+John Mertic: Upon
+
+497
+00:50:03.270 --> 00:50:04.740
+Bob Dahlberg (VCU): You know, a white paper that says
+
+498
+00:50:04.770 --> 00:50:06.240
+John Mertic: This is what industry needs.
+
+499
+00:50:06.750 --> 00:50:08.820
+Bob Dahlberg (VCU): And then we start creating content.
+
+500
+00:50:08.850 --> 00:50:10.890
+Bob Dahlberg (VCU): That not only one university can use
+
+501
+00:50:10.920 --> 00:50:12.360
+Bob Dahlberg (VCU): But multiple universities.
+
+502
+00:50:12.810 --> 00:50:14.310
+Bob Dahlberg (VCU): And we've got the sanction of
+
+503
+00:50:14.370 --> 00:50:15.420
+Bob Dahlberg (VCU): The State of Virginia.
+
+504
+00:50:15.480 --> 00:50:17.340
+Bob Dahlberg (VCU): To create a digital certificate
+
+505
+00:50:17.340 --> 00:50:17.790
+Bob Dahlberg (VCU): For
+
+506
+00:50:17.850 --> 00:50:18.900
+John Mertic: Cyber Security
+
+507
+00:50:19.140 --> 00:50:20.820
+Bob Dahlberg (VCU): It'd be nice to have something like that for
+
+508
+00:50:20.820 --> 00:50:22.080
+Bob Dahlberg (VCU): Cobalt as well.
+
+509
+00:50:23.580 --> 00:50:24.270
+Bob Dahlberg (VCU): So I got my
+
+510
+00:50:25.410 --> 00:50:25.770
+Cameron Seay: Boss.
+
+511
+00:50:26.490 --> 00:50:28.500
+Cameron Seay: And I really appreciate what you're doing at VCU.
+
+512
+00:50:28.860 --> 00:50:31.770
+Cameron Seay: Here's the thing though, we know the need is there.
+
+513
+00:50:32.310 --> 00:50:36.960
+Cameron Seay: For some reason industry like keeps this. It's like there's they have cobalt
+
+514
+00:50:37.620 --> 00:50:39.780
+Cameron Seay: Running on their on in the infrastructure.
+
+515
+00:50:40.230 --> 00:50:46.770
+Cameron Seay: I don't know why that is. But I asked him. I mean, Bank of America has like 50 million cobalt money. That's a lot of cool
+
+516
+00:50:47.040 --> 00:50:48.090
+Bob Dahlberg (VCU): Actually, I have
+
+517
+00:50:48.270 --> 00:50:52.080
+Bob Dahlberg (VCU): A Bank of America with their, their national data center is enrichment.
+
+518
+00:50:52.410 --> 00:50:57.090
+Bob Dahlberg (VCU): And we've got context with them. I will approach them to see if I can't come up with a list of
+
+519
+00:50:57.540 --> 00:51:00.330
+Bob Dahlberg (VCU): Cobo related topics that they need education.
+
+520
+00:51:00.330 --> 00:51:00.510
+phil tully: In
+
+521
+00:51:00.540 --> 00:51:01.890
+Bob Dahlberg (VCU): And I'll approach them on that.
+
+522
+00:51:02.610 --> 00:51:03.960
+Bob Dahlberg (VCU): So I can, I can get them.
+
+523
+00:51:04.380 --> 00:51:05.520
+Cameron Seay: That's what we need, because what I
+
+524
+00:51:05.520 --> 00:51:06.420
+Cameron Seay: Found is
+
+525
+00:51:07.020 --> 00:51:07.500
+Cameron Seay: You know,
+
+526
+00:51:07.650 --> 00:51:16.470
+Cameron Seay: You and I were strict instructors, if we really knew anything, we'd be making some real money instead of teaching it. But the institute from the students perspective.
+
+527
+00:51:16.890 --> 00:51:24.570
+Cameron Seay: But you let a hiring manager at Bank of America fidelity say exactly the same thing that we said 100 times
+
+528
+00:51:25.260 --> 00:51:28.590
+Cameron Seay: Didn't get resonance dinner. Dinner resonance
+
+529
+00:51:28.980 --> 00:51:32.670
+Bob Dahlberg (VCU): And actually I don't I don't work for money anymore because my time is too.
+
+530
+00:51:32.670 --> 00:51:34.770
+Cameron Seay: Valuable hahaha. I like it.
+
+531
+00:51:35.010 --> 00:51:35.400
+Cameron Seay: I like
+
+532
+00:51:37.050 --> 00:51:37.740
+Cameron Seay: I like that.
+
+533
+00:51:39.120 --> 00:51:40.290
+phil tully: Awesome, awesome.
+
+534
+00:51:40.560 --> 00:51:43.050
+Cameron Seay: To tell them that you know we've all done this week.
+
+535
+00:51:43.110 --> 00:51:46.230
+Cameron Seay: We did it because we enjoy teaching more than doing that before.
+
+536
+00:51:46.830 --> 00:51:48.990
+Cameron Seay: But we've actually always have actually done
+
+537
+00:51:49.140 --> 00:51:49.410
+phil tully: What we
+
+538
+00:51:50.250 --> 00:51:52.170
+Cameron Seay: Do, but we enjoy this.
+
+539
+00:51:52.410 --> 00:51:54.630
+Cameron Seay: Week more qualms
+
+540
+00:51:55.980 --> 00:51:56.670
+Cameron Seay: Then you know
+
+541
+00:51:56.970 --> 00:51:58.500
+Cameron Seay: What you should go. I'm sorry.
+
+542
+00:51:58.950 --> 00:52:00.630
+Bob Dahlberg (VCU): And then maybe the thing is not just
+
+543
+00:52:00.630 --> 00:52:01.410
+To teach the
+
+544
+00:52:03.090 --> 00:52:04.200
+Bob Dahlberg (VCU): Students but teach the
+
+545
+00:52:04.200 --> 00:52:05.280
+Cameron Seay: Teachers. Yeah.
+
+546
+00:52:05.520 --> 00:52:08.430
+Bob Dahlberg (VCU): Because I think there's I know in university levels, there's
+
+547
+00:52:09.030 --> 00:52:10.680
+Bob Dahlberg (VCU): A FEAR OF mainframe.
+
+548
+00:52:10.710 --> 00:52:11.910
+Bob Dahlberg (VCU): And of course,
+
+549
+00:52:12.450 --> 00:52:16.020
+Bob Dahlberg (VCU): You know when you bring up mainframe. They go over. We need 15
+
+550
+00:52:16.530 --> 00:52:17.610
+phil tully: You know your
+
+551
+00:52:17.730 --> 00:52:19.680
+phil tully: Old technology, you know,
+
+552
+00:52:19.740 --> 00:52:21.540
+Bob Dahlberg (VCU): So I think it's a matter of
+
+553
+00:52:22.290 --> 00:52:23.700
+Bob Dahlberg (VCU): You know, focusing the people
+
+554
+00:52:23.760 --> 00:52:24.720
+phil tully: On the fact that
+
+555
+00:52:24.750 --> 00:52:25.830
+Bob Dahlberg (VCU): You know, this is still
+
+556
+00:52:26.580 --> 00:52:28.590
+Bob Dahlberg (VCU): A viable and yeah
+
+557
+00:52:28.650 --> 00:52:29.520
+Bob Dahlberg (VCU): I always tell him.
+
+558
+00:52:29.550 --> 00:52:32.160
+Bob Dahlberg (VCU): It's not old technology. Yes, mature technology.
+
+559
+00:52:32.340 --> 00:52:33.750
+John Mertic: Right. Right. Yeah.
+
+560
+00:52:34.020 --> 00:52:35.820
+Bob Dahlberg (VCU): But I'll take that as an action item to
+
+561
+00:52:35.910 --> 00:52:37.020
+Bob Dahlberg (VCU): You know, get with because
+
+562
+00:52:38.070 --> 00:52:39.360
+Bob Dahlberg (VCU): My deans and
+
+563
+00:52:39.990 --> 00:52:40.950
+Bob Dahlberg (VCU): My foundation
+
+564
+00:52:40.980 --> 00:52:42.810
+John Mertic: Are working very closely with Bank of
+
+565
+00:52:42.810 --> 00:52:43.470
+phil tully: America.
+
+566
+00:52:43.860 --> 00:52:46.080
+Bob Dahlberg (VCU): For this stuff. And I'll add this as a topic.
+
+567
+00:52:46.410 --> 00:52:47.100
+Cameron Seay: Please do. Thank
+
+568
+00:52:47.970 --> 00:52:48.390
+God
+
+569
+00:52:49.980 --> 00:52:50.490
+John Mertic: Awesome.
+
+570
+00:52:50.580 --> 00:52:57.870
+phil tully: Awesome. Well, thank you so much for this camp. I just started trying to get a temperature here with
+
+571
+00:52:58.800 --> 00:53:12.210
+phil tully: This group here. It sounds like cam you're in a position where you would you say you're in a position where you have the proposal together that you would be looking for the tactic consider at this point as a formal Working Group, I do.
+
+572
+00:53:12.270 --> 00:53:19.560
+Cameron Seay: I mean it's what's required for them to make a decision is what is in the GitHub repository. I have that
+
+573
+00:53:20.190 --> 00:53:20.850
+Cameron Seay: I have that
+
+574
+00:53:21.450 --> 00:53:29.940
+Cameron Seay: Now there's more, you know, just let me know what else I need, but I mean, I've got, I've got read the documentation. I just don't want to over. I know you're busy.
+
+575
+00:53:30.210 --> 00:53:31.290
+Cameron Seay: And busy.
+
+576
+00:53:31.620 --> 00:53:35.190
+Bob Dahlberg (VCU): But I, I like to see this as a project or a work group.
+
+577
+00:53:35.220 --> 00:53:38.280
+Bob Dahlberg (VCU): Because I think this could be a prototype for how educate the
+
+578
+00:53:38.280 --> 00:53:39.570
+Bob Dahlberg (VCU): Education Project would
+
+579
+00:53:39.570 --> 00:53:40.290
+Bob Dahlberg (VCU): Go forward.
+
+580
+00:53:40.410 --> 00:53:40.770
+Bob Dahlberg (VCU): You know,
+
+581
+00:53:40.800 --> 00:53:43.830
+Bob Dahlberg (VCU): And it's something moving forward I you know I
+
+582
+00:53:43.890 --> 00:53:47.520
+Bob Dahlberg (VCU): Like I said, we approve the education.
+
+583
+00:53:48.150 --> 00:53:49.350
+Bob Dahlberg (VCU): Project. I think what
+
+584
+00:53:49.410 --> 00:53:51.390
+Bob Dahlberg (VCU): Two three meetings ago
+
+585
+00:53:51.870 --> 00:53:53.370
+Bob Dahlberg (VCU): But I haven't heard anything from them.
+
+586
+00:53:53.370 --> 00:53:54.000
+phil tully: Since
+
+587
+00:53:54.750 --> 00:53:56.040
+Bob Dahlberg (VCU): But this seems like something that
+
+588
+00:53:56.040 --> 00:53:57.570
+Bob Dahlberg (VCU): would fit into that or
+
+589
+00:53:57.600 --> 00:53:59.070
+Bob Dahlberg (VCU): Maybe be separate, but it's
+
+590
+00:53:59.400 --> 00:54:00.510
+John Mertic: The same look and feel.
+
+591
+00:54:00.870 --> 00:54:03.540
+Bob Dahlberg (VCU): And I'd like to see some process move forward and
+
+592
+00:54:03.630 --> 00:54:04.440
+phil tully: It seems like
+
+593
+00:54:05.220 --> 00:54:06.480
+Bob Dahlberg (VCU): We've got something going here.
+
+594
+00:54:06.840 --> 00:54:10.140
+Cameron Seay: It can be a model. Yeah, it could be a model for what the academics should be doing.
+
+595
+00:54:10.560 --> 00:54:14.790
+Cameron Seay: Yep. But john me more. I mean, you know, I, you know, I'll give you whatever you need. I just
+
+596
+00:54:15.510 --> 00:54:16.290
+Cameron Seay: Following the two
+
+597
+00:54:16.890 --> 00:54:18.510
+Cameron Seay: Pretty meticulous I yeah
+
+598
+00:54:19.020 --> 00:54:21.000
+John Mertic: No, no worries. No worries. I guess I'm looking
+
+599
+00:54:22.050 --> 00:54:22.980
+John Mertic: For the moods and the
+
+600
+00:54:23.250 --> 00:54:25.020
+John Mertic: From the attack here, Phil.
+
+601
+00:54:25.500 --> 00:54:34.680
+John Mertic: What are your thoughts. Do you think we should bring those quotes is just a just consider approve the concepts of doing work in groups and also this cabal working group.
+
+602
+00:54:36.300 --> 00:54:37.110
+John Mertic: That's fine.
+
+603
+00:54:37.140 --> 00:54:45.240
+phil tully: I mean, we've been talking about working group for a while. So this is not a bad idea to kick in with this one is the inaugural
+
+604
+00:54:46.890 --> 00:54:48.360
+Joe Devlin: Since it has been
+
+605
+00:54:49.080 --> 00:54:50.070
+phil tully: Already done around it.
+
+606
+00:54:51.990 --> 00:54:52.410
+phil tully: Yeah.
+
+607
+00:54:52.470 --> 00:54:56.130
+John Mertic: That's it's good to do stuff sort of with the windy are back here, for sure.
+
+608
+00:54:57.660 --> 00:55:01.140
+John Mertic: I'll take that as a motion to approve the working groups program.
+
+609
+00:55:02.250 --> 00:55:08.220
+John Mertic: And co the Kobo working group as a working group there. I hear a second
+
+610
+00:55:13.980 --> 00:55:14.370
+phil tully: Then
+
+611
+00:55:19.230 --> 00:55:22.770
+John Mertic: We'll try this vote thing again here. I'm all in favor eyes.
+
+612
+00:55:24.390 --> 00:55:25.410
+phil tully: Jai Jai
+
+613
+00:55:28.680 --> 00:55:33.660
+Len Santalucia: Jai Radha. I didn't know if I should have seconded or voted, so I didn't do you want me to
+
+614
+00:55:34.950 --> 00:55:41.190
+John Mertic: Just attack members. So yeah, that's right, yeah. So you're. Yeah, you're fine. You're fine. Any oppose abstain.
+
+615
+00:55:43.860 --> 00:55:48.780
+John Mertic: Alright, congratulations cam. You're the first working group in MP
+
+616
+00:55:53.160 --> 00:55:56.340
+John Mertic: Worthy worthy honored one I'm
+
+617
+00:55:57.540 --> 00:56:05.700
+John Mertic: Awesome. I know we're getting towards the bottom end of the meeting here. I think those are the two honking big ones just sort of spinning through a few of the other items here.
+
+618
+00:56:05.820 --> 00:56:11.190
+John Mertic: And then maybe opening up the tapes. The thing for any other projects that want to provide updates.
+
+619
+00:56:12.600 --> 00:56:19.620
+John Mertic: The adding plugins. I did see some discussion over the email list that there is a new maintainer interested in taking over.
+
+620
+00:56:20.670 --> 00:56:28.530
+John Mertic: I'm just waiting to see and hear feedback. And when that transition happens. So it sounds like maybe we
+
+621
+00:56:29.610 --> 00:56:33.300
+John Mertic: sit back and wait to see where that goes.
+
+622
+00:56:34.650 --> 00:56:36.900
+John Mertic: In terms of terms of decompress
+
+623
+00:56:37.920 --> 00:56:42.420
+John Mertic: Peter, I think you were looking to follow up, did you end up hearing anything from that group, Peter.
+
+624
+00:56:44.970 --> 00:56:45.960
+No I did not.
+
+625
+00:56:47.100 --> 00:56:47.430
+Peter Fandel: Okay.
+
+626
+00:56:48.600 --> 00:56:57.600
+John Mertic: Um, I don't know, in terms of the tack of how we want to proceed if if we want to search for a new maintain or put a search ads there for a new
+
+627
+00:56:57.600 --> 00:57:05.940
+John Mertic: maintainer. If we want to put this into a narrative or sort of pointless to a future meeting. I don't know where Phil, what do you think
+
+628
+00:57:08.850 --> 00:57:12.450
+phil tully: I don't see if there's someone actually interested in doing the maintaining
+
+629
+00:57:13.530 --> 00:57:16.500
+phil tully: I mean, unless there's some pushback against them.
+
+630
+00:57:19.620 --> 00:57:19.890
+phil tully: Or
+
+631
+00:57:20.340 --> 00:57:27.930
+phil tully: I guess. Wait, you know what, since we should probably ask publicize it says anyone else looking to do it, but
+
+632
+00:57:28.560 --> 00:57:36.840
+phil tully: That's. I mean, that's really it. It's, it's going to fall on the wayside and but somebody's willing to do it, then they should do so.
+
+633
+00:57:40.140 --> 00:57:41.100
+Practical perfect
+
+634
+00:57:42.240 --> 00:57:43.470
+John Mertic: They want to do it, they can do it.
+
+635
+00:57:45.120 --> 00:57:46.290
+phil tully: Okay, um,
+
+636
+00:57:46.380 --> 00:57:56.100
+John Mertic: So maybe we'll put a note out there that the projects, looking for a maintainer and see we can do. I know there's been a couple pull request that attainment lately and I know they've been kind of sitting there, so
+
+637
+00:57:58.320 --> 00:58:02.760
+John Mertic: We'll try to figure that out. So I'll put a note out to the list and see if there's interest.
+
+638
+00:58:04.200 --> 00:58:06.360
+John Mertic: The zero incubation renewal.
+
+639
+00:58:07.890 --> 00:58:17.760
+John Mertic: I know we had kind of push this a little bit forward here and I see we have here in on the call. I believe as well here in a you are you still on the line. Yes, I am. And
+
+640
+00:58:20.100 --> 00:58:30.840
+John Mertic: I don't know if you've had any more additional progress. I know there is a few things you brought to the tax in a previous call is there been any progress on on getting new folks engaged and sort of where everything fits
+
+641
+00:58:31.650 --> 00:58:32.760
+Hiren Shah: Oh, I don't have
+
+642
+00:58:33.750 --> 00:58:33.930
+John Mertic: But
+
+643
+00:58:33.990 --> 00:58:36.150
+Hiren Shah: I got one new member
+
+644
+00:58:36.180 --> 00:58:37.110
+Hiren Shah: Joining the
+
+645
+00:58:38.130 --> 00:58:51.480
+Hiren Shah: The group. So I, I have one additional person in the group now. But other than that, no not not like the way we were hoping for, like, having with a community participating in, you know,
+
+646
+00:58:52.590 --> 00:58:54.150
+phil tully: Collaborating with the workflows.
+
+647
+00:58:54.420 --> 00:58:55.500
+Hiren Shah: But I am seeing
+
+648
+00:58:56.430 --> 00:58:59.100
+Hiren Shah: More people getting it from the
+
+649
+00:59:00.660 --> 00:59:11.640
+Hiren Shah: workflows from the horizontal repository. Right, so maybe they're not collaborating, but they, they are just learning from what we have put it into. So, so far.
+
+650
+00:59:12.600 --> 00:59:13.680
+Hiren Shah: But I have seen
+
+651
+00:59:15.750 --> 00:59:16.620
+Hiren Shah: But other than that.
+
+652
+00:59:17.760 --> 00:59:19.890
+Hiren Shah: I have still a few things on my plate.
+
+653
+00:59:19.920 --> 00:59:20.700
+Hiren Shah: To follow
+
+654
+00:59:20.850 --> 00:59:25.830
+Hiren Shah: Follow me. I was out last week. So we have cancer. Last week's meeting.
+
+655
+00:59:26.310 --> 00:59:27.510
+So for the next week.
+
+656
+00:59:29.400 --> 00:59:32.640
+Hiren Shah: Project meeting, we will we will continue having this discussion.
+
+657
+00:59:32.640 --> 00:59:33.240
+phil tully: About zero
+
+658
+00:59:34.650 --> 00:59:35.640
+phil tully: Adoption. Okay.
+
+659
+00:59:37.590 --> 00:59:53.610
+John Mertic: I guess in terms of the task here. I know. The question was, renewing the incubation status. Is that something that the tax at this point would want to consider, or what I guess, Phil, I guess I keep looking at you or the chairperson, what are you
+
+660
+00:59:56.190 --> 00:59:57.570
+phil tully: If you haven't noticed I'm pretty
+
+661
+00:59:58.860 --> 01:00:04.500
+phil tully: Relaxed on this, if somebody's wanting to do it. They should continue to do it so
+
+662
+01:00:06.960 --> 01:00:11.460
+phil tully: I let somebody others in the tech take a different approach to this.
+
+663
+01:00:12.570 --> 01:00:13.950
+phil tully: I just, I would renew them.
+
+664
+01:00:15.210 --> 01:00:15.480
+John Mertic: All right.
+
+665
+01:00:17.670 --> 01:00:23.760
+John Mertic: I think that sounds reasonable dude right here. A second from anybody on the tack wanting for a renewal.
+
+666
+01:00:27.990 --> 01:00:31.020
+Bob Dahlberg (VCU): It sounds to me like they need some more time to
+
+667
+01:00:32.220 --> 01:00:34.500
+Bob Dahlberg (VCU): You know, gain some momentum. Right.
+
+668
+01:00:35.730 --> 01:00:38.670
+phil tully: Right, yeah. So that's why I'm suggesting
+
+669
+01:00:40.110 --> 01:00:42.510
+John Mertic: That they run at their pace. Yeah.
+
+670
+01:00:42.750 --> 01:00:50.430
+Bob Dahlberg (VCU): So the renewal of an incubation just means they're still getting their their their their momentum right so
+
+671
+01:00:50.580 --> 01:00:51.990
+Bob Dahlberg (VCU): Yeah, it's not like they're a formal
+
+672
+01:00:51.990 --> 01:00:52.980
+John Mertic: Project yet so
+
+673
+01:00:53.010 --> 01:00:54.570
+Bob Dahlberg (VCU): I i would i would make
+
+674
+01:00:54.810 --> 01:00:55.410
+John Mertic: It was a
+
+675
+01:00:55.800 --> 01:00:55.980
+Mess.
+
+676
+01:00:58.080 --> 01:01:01.290
+John Mertic: Yeah, well I'm gonna call Phil thing. It's a good ideas.
+
+677
+01:01:02.490 --> 01:01:02.850
+John Mertic: Okay.
+
+678
+01:01:04.050 --> 01:01:04.410
+John Mertic: All right.
+
+679
+01:01:04.470 --> 01:01:04.680
+phil tully: Then
+
+680
+01:01:04.980 --> 01:01:06.000
+Bob Dahlberg (VCU): I'll second that them.
+
+681
+01:01:07.650 --> 01:01:14.400
+John Mertic: Awesome. Alright, so for the third incubation renewal, do I. All in favor. Aye.
+
+682
+01:01:19.080 --> 01:01:20.940
+John Mertic: Any opposed, or abstain.
+
+683
+01:01:24.840 --> 01:01:28.860
+John Mertic: Motion carries. There you have another year. Thank you.
+
+684
+01:01:33.720 --> 01:01:35.130
+Hiren Shah: Here in the team if
+
+685
+01:01:35.160 --> 01:01:35.700
+Hiren Shah: They have
+
+686
+01:01:35.940 --> 01:01:39.300
+Hiren Shah: Ideas, they want to participate, they're familiar with the CEOs.
+
+687
+01:01:40.500 --> 01:01:43.890
+Hiren Shah: Operations and and they want to contribute and join
+
+688
+01:01:44.640 --> 01:01:46.050
+Hiren Shah: The activity or here, I
+
+689
+01:01:47.250 --> 01:01:53.820
+Hiren Shah: Welcome them and if you have any questions just reach out to me and we can work it out how to make progress.
+
+690
+01:01:55.890 --> 01:01:56.760
+Awesome. Thank you.
+
+691
+01:01:59.190 --> 01:01:59.820
+Len Santalucia: So last
+
+692
+01:02:00.060 --> 01:02:05.640
+John Mertic: Night of the agenda. And then on the project with dates and I saw Mike freezing agree you updated to get an issue in the back end.
+
+693
+01:02:06.210 --> 01:02:15.450
+John Mertic: Around enabling GitHub actions for own P hosted projects that looks like that still moving forward on fail long not really any news to report yet, but hopefully for the next tech meeting.
+
+694
+01:02:18.630 --> 01:02:19.920
+John Mertic: So that sounds
+
+695
+01:02:21.060 --> 01:02:22.710
+John Mertic: Awesome. Awesome. Thank you.
+
+696
+01:02:24.660 --> 01:02:37.290
+John Mertic: Let's do a quick round of just project updates, maybe let's start with the graduated with Zoe and mentorship and then see if we have time, we can get also into the Miss other incubation any updates from Zoe.
+
+697
+01:02:46.830 --> 01:02:56.610
+Peter Fandel: We had already. This is already said last week we had a good day successful program increment meeting cross-links cross, but that was great.
+
+698
+01:03:02.100 --> 01:03:02.370
+phil tully: Okay.
+
+699
+01:03:03.540 --> 01:03:03.960
+phil tully: Awesome.
+
+700
+01:03:05.910 --> 01:03:07.320
+John Mertic: Awesome, any questions on. Sorry.
+
+701
+01:03:12.990 --> 01:03:17.760
+John Mertic: All right, let's go to mentorship Bob any updates from that.
+
+702
+01:03:19.980 --> 01:03:20.130
+John Mertic: Hold on.
+
+703
+01:03:21.030 --> 01:03:23.010
+Bob Dahlberg (VCU): A minute. No, I guess.
+
+704
+01:03:23.100 --> 01:03:23.850
+John Mertic: No, I can hear you.
+
+705
+01:03:24.300 --> 01:03:25.830
+Bob Dahlberg (VCU): Okay, good. Um,
+
+706
+01:03:26.190 --> 01:03:27.630
+Bob Dahlberg (VCU): Let's see, we're
+
+707
+01:03:28.530 --> 01:03:32.490
+Bob Dahlberg (VCU): Going to have a meeting for the midterms tomorrow morning at eight o'clock.
+
+708
+01:03:34.680 --> 01:03:38.730
+Bob Dahlberg (VCU): Let's see, we've, it seems that things are going well, but
+
+709
+01:03:39.210 --> 01:03:39.540
+Bob Dahlberg (VCU): I know
+
+710
+01:03:39.570 --> 01:03:47.610
+Bob Dahlberg (VCU): We have one who's completed all their mid, mid term deliverables and we're going to release step into that one student
+
+711
+01:03:48.060 --> 01:03:52.560
+Bob Dahlberg (VCU): The other students. We're going to make sure that they understand what the deliverables are
+
+712
+01:03:53.880 --> 01:03:58.260
+Bob Dahlberg (VCU): We did that at the kickoff, but it's, it's, they may have questions in more detail.
+
+713
+01:03:59.580 --> 01:04:06.060
+Bob Dahlberg (VCU): One of the things that we're looking at in the mentorship program is to we have 11 projects right now.
+
+714
+01:04:07.350 --> 01:04:08.640
+Bob Dahlberg (VCU): We, we have
+
+715
+01:04:10.020 --> 01:04:12.930
+Bob Dahlberg (VCU): That there's been a couple VCU is looking for
+
+716
+01:04:13.050 --> 01:04:14.160
+Bob Dahlberg (VCU): Projects for the
+
+717
+01:04:15.990 --> 01:04:17.760
+Bob Dahlberg (VCU): Next academic year. And I think there's
+
+718
+01:04:17.760 --> 01:04:18.960
+Bob Dahlberg (VCU): Another one or two.
+
+719
+01:04:19.020 --> 01:04:21.810
+Bob Dahlberg (VCU): Universities are also looking for projects.
+
+720
+01:04:22.320 --> 01:04:25.260
+Bob Dahlberg (VCU): So we thought we do is set up a
+
+721
+01:04:26.910 --> 01:04:27.540
+John Mertic: In the
+
+722
+01:04:28.020 --> 01:04:28.800
+John Mertic: Get hub.
+
+723
+01:04:29.220 --> 01:04:31.230
+Bob Dahlberg (VCU): For resources where we identify
+
+724
+01:04:31.230 --> 01:04:33.570
+Bob Dahlberg (VCU): What projects are in play and what are
+
+725
+01:04:34.440 --> 01:04:37.710
+Bob Dahlberg (VCU): With the past ones where I'm going to start collecting
+
+726
+01:04:38.850 --> 01:04:41.430
+Bob Dahlberg (VCU): Projects as they come up. And as you think about them.
+
+727
+01:04:41.610 --> 01:04:45.750
+Bob Dahlberg (VCU): From your sponsoring organ projects or organizations.
+
+728
+01:04:46.170 --> 01:04:47.610
+phil tully: So that we have a list of
+
+729
+01:04:47.610 --> 01:04:50.640
+Bob Dahlberg (VCU): Projects that people can prop.
+
+730
+01:04:51.180 --> 01:04:52.320
+Bob Dahlberg (VCU): Academics
+
+731
+01:04:52.350 --> 01:04:55.500
+Bob Dahlberg (VCU): And other people could use if they're interested in doing a
+
+732
+01:04:55.500 --> 01:04:59.550
+Bob Dahlberg (VCU): Project. So with that, I'm looking for things like
+
+733
+01:04:59.670 --> 01:05:00.990
+A tiny little project.
+
+734
+01:05:02.190 --> 01:05:03.270
+Bob Dahlberg (VCU): You know the sponsoring
+
+735
+01:05:03.510 --> 01:05:05.880
+Bob Dahlberg (VCU): Project that would be our organization.
+
+736
+01:05:06.090 --> 01:05:07.560
+John Mertic: sponsoring the project.
+
+737
+01:05:07.860 --> 01:05:11.460
+Bob Dahlberg (VCU): With the mentors could possibly be what their availabilities are
+
+738
+01:05:12.780 --> 01:05:13.860
+Bob Dahlberg (VCU): You know and and
+
+739
+01:05:14.370 --> 01:05:16.350
+Bob Dahlberg (VCU): Then what we would do is identify
+
+740
+01:05:16.620 --> 01:05:17.970
+Bob Dahlberg (VCU): That these are available for
+
+741
+01:05:18.000 --> 01:05:19.110
+Bob Dahlberg (VCU): Either academic
+
+742
+01:05:19.110 --> 01:05:20.730
+phil tully: Years or for mentor.
+
+743
+01:05:21.540 --> 01:05:26.430
+Bob Dahlberg (VCU): summer internships. So the idea here is we want a stable of projects.
+
+744
+01:05:26.700 --> 01:05:27.990
+Bob Dahlberg (VCU): As we go forward.
+
+745
+01:05:28.020 --> 01:05:31.620
+Bob Dahlberg (VCU): Instead of, you know, we have every year we go into
+
+746
+01:05:32.100 --> 01:05:34.590
+Bob Dahlberg (VCU): Looking for projects for the summer.
+
+747
+01:05:35.130 --> 01:05:38.310
+Bob Dahlberg (VCU): And we get a piecemeal and stuff but
+
+748
+01:05:38.550 --> 01:05:39.810
+phil tully: That that's the nature of it.
+
+749
+01:05:40.350 --> 01:05:41.400
+Bob Dahlberg (VCU): So I'm going to try to
+
+750
+01:05:41.400 --> 01:05:44.820
+Bob Dahlberg (VCU): Collect it and put out broadcast messages.
+
+751
+01:05:44.820 --> 01:05:47.490
+Bob Dahlberg (VCU): Everyone to identify how you can
+
+752
+01:05:47.550 --> 01:05:49.020
+phil tully: Update and
+
+753
+01:05:49.650 --> 01:05:50.610
+phil tully: Create projects.
+
+754
+01:05:51.660 --> 01:05:54.540
+Bob Dahlberg (VCU): So that's we we want an ongoing
+
+755
+01:05:56.190 --> 01:05:57.180
+phil tully: We call
+
+756
+01:06:00.270 --> 01:06:00.720
+Bob Dahlberg (VCU): Pipeline.
+
+757
+01:06:02.250 --> 01:06:04.680
+John Mertic: So that's where we are with the mentorship.
+
+758
+01:06:07.530 --> 01:06:08.820
+John Mertic: Any questions. Awesome.
+
+759
+01:06:14.370 --> 01:06:15.420
+phil tully: Awesome. Thank you.
+
+760
+01:06:16.530 --> 01:06:32.550
+John Mertic: Um, we got two minutes left of the incubating prod projects. We didn't touch on. Um, I don't know if any of you who are the lead to that when a jump up, go ahead. Len. Yes.
+
+761
+01:06:33.000 --> 01:06:38.850
+Len Santalucia: Bob, what about the capstone and RAM. Next thing you're going to talk about here.
+
+762
+01:06:42.990 --> 01:06:45.780
+Bob Dahlberg (VCU): Actually I was gonna talk to. Yeah, sorry. I was on mute.
+
+763
+01:06:46.170 --> 01:06:47.550
+Bob Dahlberg (VCU): I was going to talk to the
+
+764
+01:06:48.420 --> 01:06:49.890
+Bob Dahlberg (VCU): Marketing Committee about that.
+
+765
+01:06:50.940 --> 01:06:53.910
+Bob Dahlberg (VCU): The idea, but the idea behind that was that.
+
+766
+01:06:54.300 --> 01:06:57.300
+Bob Dahlberg (VCU): Ran hacks is asked us to sponsor that
+
+767
+01:06:58.320 --> 01:06:59.100
+Bob Dahlberg (VCU): It's the second
+
+768
+01:07:00.330 --> 01:07:03.150
+Len Santalucia: Yeah, that makes more sense for the Marketing Committee, I
+
+769
+01:07:04.170 --> 01:07:11.280
+Len Santalucia: agree with you on that. And then the same with the capstone. Same thing, because it's kind of more marketing oriented.
+
+770
+01:07:11.280 --> 01:07:13.350
+John Mertic: Is than it is here. Correct. Well, that's what I thought.
+
+771
+01:07:13.350 --> 01:07:16.710
+Len Santalucia: Yeah, you're right. No, no problem.
+
+772
+01:07:18.150 --> 01:07:19.260
+Bob Dahlberg (VCU): So, back to you. JOHN
+
+773
+01:07:21.210 --> 01:07:21.750
+Len Santalucia: Awesome.
+
+774
+01:07:21.780 --> 01:07:35.490
+John Mertic: We're right up here at the hour. If anybody or one minute to the hour. If anybody who's leading and incubating product project when to give a few seconds on your project, feel free to jump in. Now, or just drop a note to the email list if that's easier.
+
+775
+01:07:42.480 --> 01:07:49.560
+Len Santalucia: One of the ones we're talking about for the continuous pipeline this continuous pipeline Bob that you're looking for was
+
+776
+01:07:50.940 --> 01:07:53.250
+Len Santalucia: A mix, but that
+
+777
+01:07:56.910 --> 01:07:57.660
+Len Santalucia: Might be
+
+778
+01:07:58.320 --> 01:08:04.320
+Len Santalucia: A good one to we could talk about that some, I just wanted to mention real quick here before we ended the call.
+
+779
+01:08:05.370 --> 01:08:09.570
+Bob Dahlberg (VCU): Okay, let's get together and put a proposal together and
+
+780
+01:08:09.930 --> 01:08:11.460
+phil tully: I'll put that out there. I mean, that
+
+781
+01:08:12.000 --> 01:08:15.870
+Bob Dahlberg (VCU): Because I like I said I need one for the academic year.
+
+782
+01:08:16.680 --> 01:08:18.270
+Bob Dahlberg (VCU): You know, got nine months and I got
+
+783
+01:08:18.510 --> 01:08:19.920
+Bob Dahlberg (VCU): Four students that would work.
+
+784
+01:08:19.920 --> 01:08:22.680
+Bob Dahlberg (VCU): On and it wouldn't call it you know because
+
+785
+01:08:24.120 --> 01:08:26.070
+Bob Dahlberg (VCU): The Linux Foundation is a
+
+786
+01:08:26.760 --> 01:08:27.750
+Bob Dahlberg (VCU): Nonprofit
+
+787
+01:08:27.840 --> 01:08:28.590
+Bob Dahlberg (VCU): You know, there's no
+
+788
+01:08:28.650 --> 01:08:30.900
+Bob Dahlberg (VCU): There's no money involved. It's, it's
+
+789
+01:08:31.080 --> 01:08:32.430
+Bob Dahlberg (VCU): The students would get a grade for it.
+
+790
+01:08:35.460 --> 01:08:35.850
+phil tully: Thank you.
+
+791
+01:08:38.910 --> 01:08:41.010
+John Mertic: Awesome conversation should
+
+792
+01:08:41.010 --> 01:08:43.980
+Len Santalucia: Include Vinnie and Alex to so you know
+
+793
+01:08:46.590 --> 01:08:46.890
+Len Santalucia: Okay.
+
+794
+01:08:47.400 --> 01:08:48.690
+Bob Dahlberg (VCU): Make sure they're invited to
+
+795
+01:08:55.260 --> 01:08:57.510
+John Mertic: Awesome, any other
+
+796
+01:08:58.800 --> 01:09:01.380
+John Mertic: Anything, anything else before we break today.
+
+797
+01:09:07.290 --> 01:09:18.480
+John Mertic: All right. Well, thank you very much everyone for your time. Congratulations to the new project and working group and our next meeting will be in August.
+
+798
+01:09:23.700 --> 01:09:27.390
+John Mertic: 13, I believe, yes. Take care. Thanks. Thanks.
+
+799
+01:09:28.200 --> 01:09:28.470
+Bye.
+
+800
+01:09:30.000 --> 01:09:30.300
+John Mertic: Bye.
+
