@@ -22,7 +22,7 @@ This is a checklist for TSC's to review as part of the intake process. The TSC s
 - New Project Goverance
   - [x] TSC members identified
   - [x] First TSC meeting held
-  - [ ] TSC meeting cadence set and added to project calendar
+  - [x] TSC meeting cadence set and added to project calendar
 - Current tools
   - [x] Source Control (Github, GitLab, something else )
 	- [x] Issue/feature tracker (JIRA, GitHub issues)
@@ -40,12 +40,12 @@ This is a checklist for TSC's to review as part of the intake process. The TSC s
 	- [x] Trademarks/mark ownership rights. None.
 - Outreach
   - [x] New project announcement done ( https://github.com/openmainframeproject/foundation/issues/79  See Marketing Section below for steps )
-  - [ ] Project added to Open Mainframe Project website and Open Mainframe Project landscape
+  - [x] Project added to Open Mainframe Project website and Open Mainframe Project landscape
 - Graduation
   - [ ] CII Badge achieved ( apply at https://bestpractices.coreinfrastructure.org/en )
   - [ ] Committer Diversity established
-  	- [ ] Add project to [OMP Dev Analytics](https://lfanalytics.io/projects/open-mainframe-project) ( create [issue on foundation repo] to trigger )
-	- [ ] Commit/Contribution growth during incubation
+  	- [ ] Add project to [OMP Dev Analytics](https://lfanalytics.io/projects/open-mainframe-project) ( create [issue on foundation repo] to trigger ) (opened issue 9/3/2020)
+	- [x] Commit/Contribution growth during incubation
 	- [x] Committers defined in the project	( [COMMITTERS.csv](COMMITTERS.csv) or [COMMITTERS.yml](COMMITTERS.yml) )
   - [x] TAC representative appointed
   - [x]	License scan completed and no issues found.  Process established going forward as code is released.
@@ -56,12 +56,12 @@ The following are additions to the TSC template from other items for the project
 
 - Marketing Steps to Launch (from: https://github.com/openmainframeproject/foundation/issues/79)
   - [x] Provision GitHub repo
-  - [ ] Send out questionnaire ( new project )
-  - [ ] Create Landscape entry ( https://github.com/openmainframeproject/omp-landscape/ )
-  - [ ] Received completed questionnaire
+  - [x] Send out questionnaire ( new project )
+  - [x] Create Landscape entry ( https://github.com/openmainframeproject/omp-landscape/ )
+  - [x] Received completed questionnaire
   - [ ] Build announcement and get approval
   - [ ] Schedule announcement and social promotion ( provide date )
-  - [ ] Push Landscape entry live ( https://github.com/openmainframeproject/omp-landscape/ )
+  - [x] Push Landscape entry live ( https://github.com/openmainframeproject/omp-landscape/ )
 - Active Stage Criteria: (from https://github.com/openmainframeproject/tac/blob/master/process/project_stages.md#active-stage)  To graduate from Incubation Stage, or for a new project to join as an Active Stage project, a project must:
   - [ ] Complete the proposal process plus
   - [ ] Have committers from at least two organizations.
