@@ -1,0 +1,73 @@
+Meeting notes from the TSC Infrastructure  held on Tuesday 22 Sep, 2020. All interested in GenevaERS development are welcome to join.
+
+Agenda
+
+Conference call details
+Join Zoom Meeting https://zoom.us/j/94966206199
+Meeting ID: 949 6620 6199
+
+Attendance
+Voting member rollcall:
+[x ] Randall Ness, IBM (RN)
+[ ] Jeff Horner, IBM
+[x] Gillian Hannington, IBM
+[x] Ian Cunningham, IBM (IC)
+[x] Eugene Morrow, IBM
+[x] Bob McCormack, IBM
+[x] Kip Twitchell, IBM (KT)
+
+Other Attendees
+Sandy Peresie 
+Minutes
+
+Agenda Item
+using Semantic Versioning
+
+Agenda Item
+FLOSS tooling for builds and Hello World sample
+
+This meeting began as a follow on meeting from our GENEVAERS TSC meeting
+
+Semantic Versioning
+
+After listing the agenda, the first discussion centered on using semantic versioning and each genevaers repo to have there own major/minor/path version
+and should any incompatibility arise it should be noted in a release.md file for that repo.
+
+It follows as requested by Kip that an action item exists for bob to deploy release.md files to each repo that requires them.
+
+For perforomance engine (a repo that is yet to be created) that assembler macro GVBEYE be used to imbed the version information.
+This is currently being done for the gvblib repo with a 0.0.0 value. Will change to 1.0.0 when repo is complete.
+
+FLOSS
+
+Discussion centered on using GRADLE and ZOWE. Ian postulated that a Visual Studio (VS)  environment would allow developers to
+operate in a productive manner from building from GIT repos and a GUI interface to z/OS. Bob indicated current status using Gradle
+and Zowe CLI to deploy from GIT onto Windows and commence a build on z/OS.
+
+One aspect discussed was community involvement on using FLOSS tooling here.  Bob and Ian would webex later to synch up on their
+work with their tooling work. Ian was very complimentary on GRADLE operation inside VS
+
+Randall aked if any IP could be salvaged from our Build Forge build projects. Bob indicated that only project steps could be used as a guide
+due to the high propriety software use under the covers.
+
+REPO relocation
+
+Kip indicated POC repo in IBMSAFR had been scanned and asked Bob to move to the equivalent geneveers repo
+
+Hello World
+
+Sandy raised an issue about build and validation. Ian would like a repo for the test framework which could in theory be a HELLO WORLD
+application deployable/built from Git. Some discussion followed and it was  thought some community involvement might be a good thing in ths area.
+But the aspect of coverage by a hello world application  was a consideration along with what FLOSS tooling was available for GUI testing.
+
+Source Types
+
+Kip was worried that by deploying the SPARK POC to genevaers would skew the software source type statistics. But as the recent OMP conference
+has passed  his concern may have abated.
+
+Miscellaneous
+
+Bob would despatch copyright templates to Ian and Eugene for their deployment
+
+
+
