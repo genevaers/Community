@@ -1,17 +1,16 @@
 # TODO: 'schedules' will need to be updated to coincide with the meeting frequency
 
-name: Schedule TSC meetings
+name: Create TSC meeting agenda from items tagged meeting-agenda
 on:
-  schedule:
-    - cron: '0 0 * * *'
+  workflow_dispatch:
 jobs:
   build:
     runs-on: ubuntu-latest
     steps:
-    - uses: wesleytodd/meeting-maker@v0
+    - uses: pkgjs/meet@v0
       with:
         token: ${{ secrets.GITHUB_TOKEN }}
-        schedules: 2020-07-30T09:00:00.0Z/P4W
+        schedules: 2020-07-30T09:00:00.0Z/P1D
         createWithin: P1D
         issueTitle: "TSC Meeting <%= date.toFormat('yyyy-MM-dd') %>"
         agendaLabel: meeting-agenda
