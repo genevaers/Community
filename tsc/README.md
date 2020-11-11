@@ -59,12 +59,12 @@ The following are additions to the TSC template from other items for the project
   - [x] Send out questionnaire ( new project )
   - [x] Create Landscape entry ( https://github.com/openmainframeproject/omp-landscape/ )
   - [x] Received completed questionnaire
-  - [ ] Build announcement and get approval
-  - [ ] Schedule announcement and social promotion ( provide date )
+  - [x] Build announcement and get approval
+  - [x] Schedule announcement and social promotion ( provide date )
   - [x] Push Landscape entry live ( https://github.com/openmainframeproject/omp-landscape/ )
 - Active Stage Criteria: (from https://github.com/openmainframeproject/tac/blob/master/process/project_stages.md#active-stage)  To graduate from Incubation Stage, or for a new project to join as an Active Stage project, a project must:
   - [ ] Complete the proposal process plus
-  - [ ] Have committers from at least two organizations.
+  - [x] Have committers from at least two organizations.
   - [ ] Have achieved and maintained a Core Infrastructure Initiative Best Practices Badge.
   - [ ] Explicitly define a project governance and committer process.
   - [ ] Have a public list of project adopters for at least the primary repo (e.g., ADOPTERS.md).
