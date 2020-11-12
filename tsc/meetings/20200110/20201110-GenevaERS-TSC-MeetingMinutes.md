@@ -1,90 +1,85 @@
-# Agenda
-## Issues
-* Access requests #66 and #67
-* Issue #64 - John's suggestions
-* If time other open issues
+Meeting notes from the TSC held on November 10, 2020. All interested in GenevaERS development are welcome to join.
 
-### Workbench Update - Ian, 3rd item
+## Conference call details
 
-### Performance Engine Update - Gill
+Join Zoom Meeting
+https://zoom.us/j/94966206199
 
-### Infrastructure Update - Bob
+Meeting ID: 949 6620 6199
 
-### Recruiting Update - Sandy
+### Attendance
+Voting member rollcall:  
+[X] Randall Ness, IBM (RN)  
+[X] Jeff Horner, IBM  
+[X] Gillian Hannington, IBM  
+[X] Ian Cunningham, IBM (IC)  
+[ ] Eugene Morrow, IBM  
+[X] Bob McCormack, IBM  
+[X] Kip Twitchell, IBM (KT)  
 
-## Infrastructure
+### Other Attendees
+Andrea Orth, Sandy Peresie, Jim Hladyshewsky, Neil Beesley 
 
-### GIT to RTC synchronization
+## Minutes
 
-### GIT Clone on VICOM
+### Mainframe Environment
+Kip and Randall have been having discussions with Vicom Infinity. Vicom has a history of supporting Open Mainframe Project (OMP)and currently is hosting 6 out 7 OMP efforts.
 
-### GVBLIB Merge done and we wait on a SPM PTF for HLASM Toolkit
+The size of our effort and the timeline is not something Vicom can support on their system for the duration of our project.At this time, it is not yet clear how long Vicom will host GenevaERS and what features they are comfortable in letting use. They will still setup a Linux on Z environment.
 
-### Use of SPARK
+A gap was identified. The number of mainframe system programmers is shrinking. These system programmers understand how to manage mainframe environment setups.
 
-### Spacer on VICOM and World Data
+Kip is having discussions within IBM regarding the need for these kinds of projects to have access to a mainframe. An idea is to suggest a new OMP project with the mainframe as a Platform As A Service (PAAS) model. This would reduce the need for system programmers. Parameters could be set regarding what could be installed and used. Which resources can be consumed. Security and platform stability.
 
-## mainframe Environment, first topic
-Kip & randall. Vicom infinity. has 6 or 7 omp projects on their system
-kip discussing with ibm regarding the need for these kinds of projects for the mainframe. gap - the # of system programmers is a gap. this aspect of shared environments in people, touches a nerve in some people. what's needed is to perhaps suggest another opm project with PAAS - mainframe as a service which would reduce the need for system programmers. parameters can be sent regarding what can be isntalled and used, what resources can be consumed, security, and platform stability. 
+Another gap was identified. Tom from Vicom asked for some documentation regarding the OMP designation as he wasn't sure if the GenevaERS software should be on this machine. Currently, there is no information publicly available. Action item could be to make updates to the GenevaERS.org site and the wikipedia entry.
 
-size of our effort along with timeframe is not something vicom alone can handle. a bit of limbo for how much and how long vicom can handle.
+### Prograss on data
+Sandy has been working on getting the reference data files up the the Vicom mainframe. She's run into an issue that they are mac files and Sandy does not own a mac. Sandy has been trying to mount a drive on her ubuntu instance to try to move data from unix to dos and vice versa
 
-tom was hoping we could provide some documentation for the opm software designation, wasn't sure if he should even have the software on his machine. could add clarity on website. "we are an official open source project..." it someone goes to genevaers.org make more clear also wikipedia entry update. tom is interested in seeing what kind of synergy we can provide vicom.
+Sandy inquired if Bob had been having the same problem. He had not. Bob brought files down to windows, then GitHub, then USS than converted for Z. The data looks like it's comma separated. 
 
-no clarity oin what they can provide us and what they are comfortable allowing us to use
+There was a wider discussion regarding the differences between how mac handles end of line versus windows such as carriage return and line feed. This difference makes the reference file present as one record.
 
-linux on z will still be stood up
+Per Kip, in USS, you can set an ISO coding parm on an ISO structure. He has a link to a webx video that he can share with Sandy.
 
-## Progress on data  - Sandy, 2nd item
-getting one of the reference data files up to the mainframe. they are mac files and sandy has a windows machine, not a mac. Sandy is trying to mount a drive on her ubuntu instance to try to unix to dos and vice versa
+### Workbench Update 
+Going well. He has a postgres workbench that will accept workbench XML. Views can be created and activated. He's also creating some postgres SQL scripts so the database on the linux machine can be setup and used with the new workbench. Exporting from this database into workbench XML may have a case sensitivity issue and Ian is not sure that would be accepted. If not, this can be resolved
 
-Bob, hadn't had issues moving to github site. does not have mac either. moving from github to z, a converstion is on place for data and members of a repository. per sandy, the virginia data is in mac format. bob brought it down to windows, then github, then uss, than converted to zos with a converstion parameter. looked like comma separated. it's the end of the line, such as carrage return / line feed. all the reference file comes off as 1 record. kip - in uss, you can set an iso coding parm on an iso structure. he has a link to a webx video that he can share with Sandy.
+People can log in and create new things using this postgres version of the workbench. Ian needs some people to try it out and log defects
 
-## workbench update - ian
-going well. he has a postgress bench that will accept wkbench xml and create views and activate them. also creating some postgress sql scripts so the dbase on the linux machine can be setup and used with the new wkbench. exporting from this dbase into bench xml may have a case sensitivity issue and ian is not sure that would be accepted
+Kip asked if people can set this up on their own machine with a local postgre database. Yes, Ian can give people a deployable java executable. Ian can walk people through setup after postgres is installed locally. He's setting it up so it can be ran via cmd line and have the postgres database ready
 
-can log in and create new things
+Kip on sharing the executable. Can use Box or via the IBMSAFR repository
 
-ian needs people trying it out - good first 
+Ian also needs to remove the db2 release path. 
 
-kip, can people set this up on their own machine with local postgress? ian can give a deployable java executable. ian can walk people thru how to setup after postrgress installed. he's setting it up so it can be ran via cmd line and have the postgress dbase would be ready.
+Issues found with the new workbench will be opened in the yet to be created Workbench repo. We need a new issue opened with the repos and committers, Community can be modeled off of
 
-kip - sharing the executable. via box or on ibmsafr eval copy executables.
+We can use IBMSAFR for install instructions and issues. When ready, the code would need to be scanned and put into GENEVAERS Community.
 
-ian needs to remove the db2 release path. kip to randall,
+Sandy spent a couple of mornings with Ray. The onboarding document is ready to be forked into the repository and added to website. 
+This document will go in the Community repo. Can add a link to the document in the README.md or maybe replace the CONTRIBUTING.md
+Sandy will also send the onboarding document to Fatima for review.
 
-send ian an email with a time for install
+Also, Neil and Ray are not members in Community. This is another discussion with john.
 
-issues will be opened under workbench repo, which needs to be created
+### Performance Engine Update 
+Still working on testing changes for 64 bit support. Focusing on customer exits which need to be upgrade for 64 bit support.  
 
-we need a new issue opened with repos and committers, see community. we can use ibmsafr for install instructions and issues. when it's ready, code would need to be scanned and put into community
+The new extract report is quite a bit different than the report used in pervious versions of the performance engine. Gill will be working on documentation explaning the new report along with the parms available when the extract job runs.
 
-github issues as we find them.
+Neil on DB2 VSAM. How to leverage reading the DB2 VSAM files is something that IBM no longer provides public information on. An alternative is to use a high speed database unload that can be leverage. We could latch onto an exit and feed the data into memory. MRDV could be replaced with the unload utility based on what the customer whould need.
 
-not to self, install postgress
+Also, longterm, the code for DB2 VSAM utilization needs to be removed from the code base so it's not in the open source version of the product. Short term work around is to remove DB2 VSAM from the CODETABLE which would prevent selection in the workbench
 
-Sandy spent a coouple morning with Ray. it's ready to be forked into the repository and added to website. this is the onboarding document. and go in community repo. can add a link to the doc in the readme, maybe replace the contrubuting.md. she will also send to fatima for review.
+### Infrastructure Update 
+Bob set up git with RTC at the workspace level. He copied from his git repository clone to RTC and vice versa. No conversion issues occured and data looks like it did within GitHub
 
-seq to an issue, neil and ray are not in the community project. if you look under project then people, neil is not there. another discussion with john.
+The GVBLIB repo in GENEVAERS is not merged into master.
 
-## PE update - Gill
-still wking on testing changes for 64 bit spt. focusing on customer exits shich need to be upgraded for 64 bit spt. there are quite
-the ext rpt you get generated is significantly changed since previous vers. she will be working on documentation explaning it and ext job parms. knowledge transfer regarding a member that is retiring. 
+SPARK issue. SPARK used to be bundled into the base mainframe product. It is now a priced IBM product. Bob sent Kip the name of the product owner within IBM for SPARK. We need to find out if there was a way that SPARK could feasible on the Vicom system
 
-neil, we could do diff things. like a high speed dbase unload can be leveraged. we could latch onto the exit and feed the data into memory. replace mrdv with the unload utility of your choice based on what a customer would have / need - longterm vision
-per randall, we do want to extract the code regarding dv2 vsam so it's not in open src. short term would be to remove from codetable so people could not select it. 
+Bob is working with Randall on how much space would be needed on the Vicom system. Did a trial of pulling data from Data Work to windows than MVS with a utility conversion subparameter. There is over 10GB of data
 
-## bob - infrastructure update
-per randalls instructions, sync up git with rtc at the wkspace level. copied from clone of git repo to rtc and vice versa. no conversino issues and data looks like it did within github scm instance. gvblib repo in genevaers is not merged into master. 
-spark - was discontinued with ibm and now bundled with a priced ibm product, zed? bob sent kip the name of the product owner
-spark itself is open src. bob and kip discussed an approach with product owner. trying to drive experimentation on the mainframe, what was ibm hoping to achieve. 
-spark processing - large amt of data, wking with randall how much space would be needed on vicom system. did a trial of dataworld to windows than to mvs with a utility with a covnerstion subparameter. +10gb of data. but would need to lknow if spark on z would be feasible on vicom systme
-
-ahve a ptf for hi level assembler toolkip which would allow for ur30 on vicom
-
-kip in conclusion
-great acticity, the issues running into are things we want to solve 
-
-
-sandy attended zowe tsc today and they offerred a walk thru of what they are doing. they had brought up a couple of packages they are planning on using for their code. sonar, sonarcube,coverity, snik? spot errors might be like coverity which runs as part of the build pipeline
+### Misc.
+Sandy attended zowe TSC today and they offerred a walk thru of what they are doing. They had brought up a couple of packages they are planning on using for their code; Sonarqube, Coverity, Snyk. These are code scanning products
