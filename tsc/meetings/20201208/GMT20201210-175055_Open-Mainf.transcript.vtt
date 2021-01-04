@@ -1,0 +1,2514 @@
+WEBVTT
+
+1
+00:06:25.980 --> 00:06:26.580
+Kip Twitchell: Hey john can
+
+2
+00:06:27.960 --> 00:06:29.340
+Kip Twitchell: You hear me. Yep.
+
+3
+00:06:29.400 --> 00:06:30.630
+John Mertic: I can hear you. Kip, how's it going
+
+4
+00:06:31.650 --> 00:06:31.980
+Good.
+
+5
+00:06:34.620 --> 00:06:36.180
+Kip Twitchell: Dropped the link to the
+
+6
+00:06:36.180 --> 00:06:37.890
+John Mertic: Doctor in the chat here.
+
+7
+00:06:39.360 --> 00:06:43.260
+Kip Twitchell: I got a network issue. So I'm just on my phone today.
+
+8
+00:06:43.920 --> 00:06:44.970
+Okay, no worries.
+
+9
+00:06:47.970 --> 00:06:50.580
+Kip Twitchell: I can talk you through my email is that agenda item.
+
+10
+00:06:53.160 --> 00:07:01.860
+John Mertic: Yeah yeah we that agenda item is on there. I think it is the Second on the list today.
+
+11
+00:07:02.640 --> 00:07:02.970
+Kip Twitchell: Thank you.
+
+12
+00:07:03.210 --> 00:07:04.470
+Kip Twitchell: So we should be able to be good.
+
+13
+00:07:08.100 --> 00:07:08.760
+Kip Twitchell: And
+
+14
+00:07:08.790 --> 00:07:14.640
+John Mertic: I'll actually I'll share the since you're just on your phone, I'll share the running Google doc with you.
+
+15
+00:07:15.930 --> 00:07:21.240
+John Mertic: For some of the meeting notes everything in the background is your IBM address okay for that or is there another one that's
+
+16
+00:07:21.240 --> 00:07:23.670
+Kip Twitchell: Preferred yeah that's fine. Yeah. IBM
+
+17
+00:07:27.960 --> 00:07:29.490
+Kip Twitchell: And sure, no problem.
+
+18
+00:07:30.150 --> 00:07:31.140
+Hey Peter, and Greg.
+
+19
+00:07:32.550 --> 00:07:33.000
+John Mertic: Michael
+
+20
+00:07:37.290 --> 00:07:37.800
+Gregory MacKinnon: Hi john
+
+21
+00:07:39.180 --> 00:07:39.750
+John Mertic: How's it going,
+
+22
+00:07:40.110 --> 00:07:41.460
+Gregory MacKinnon: Okay, how about with you.
+
+23
+00:07:42.060 --> 00:07:43.530
+John Mertic: Ah, not too bad.
+
+24
+00:07:43.680 --> 00:07:44.220
+Too bad.
+
+25
+00:07:45.270 --> 00:07:46.320
+John Mertic: Towards the end of the year here.
+
+26
+00:07:46.650 --> 00:07:47.040
+Yeah.
+
+27
+00:07:50.850 --> 00:08:05.100
+John Mertic: I put a link to the meeting notes doc in the chat. If you want to pop in there, feel free to you can add your name into the agenda at your name on the attendees list if
+
+28
+00:08:07.020 --> 00:08:08.100
+John Mertic: If you'd like
+
+29
+00:08:09.990 --> 00:08:19.260
+John Mertic: And at the same time, I'll be looking for anyone interested in doing notes for today. I'll let you all kind of have a few minutes to
+
+30
+00:08:20.160 --> 00:08:29.790
+John Mertic: Reflect if that's something you're interested in. I we've tried doing it. We last time we did it as a Google Doc, and it seemed like it made it a little bit easier. So that way, in case. Others want to jump in and help
+
+31
+00:08:29.790 --> 00:08:30.270
+Peter Fandel: That's
+
+32
+00:08:31.200 --> 00:08:31.770
+Easy to do
+
+33
+00:08:37.020 --> 00:08:38.580
+Peter Fandel: We're starting to get a few folks in
+
+34
+00:08:43.830 --> 00:08:47.190
+John Mertic: Here. Hey Mark, and Matt and Mike and Randall.
+
+35
+00:08:48.780 --> 00:08:49.530
+Mark K Post: Oh hello.
+
+36
+00:08:55.710 --> 00:08:58.350
+John Mertic: We're just not even quite to the hour yet so
+
+37
+00:08:58.380 --> 00:09:00.120
+John Mertic: We're already getting a good crowd. So it's a positive
+
+38
+00:09:00.120 --> 00:09:00.480
+Side.
+
+39
+00:09:21.900 --> 00:09:23.280
+Matt Hogstrom: Hey john. Can you hear me OK.
+
+40
+00:09:23.850 --> 00:09:27.360
+John Mertic: I can, I can. Good to hear from you make your maps. Sorry.
+
+41
+00:09:30.180 --> 00:09:31.950
+Matt Hogstrom: A little while. Lots of shuffling
+
+42
+00:09:32.460 --> 00:09:35.430
+John Mertic: Yes, it has. Since it's good to good to have you back involved.
+
+43
+00:09:37.650 --> 00:09:37.980
+Matt Hogstrom: To be here.
+
+44
+00:09:41.070 --> 00:09:44.520
+John Mertic: Let's see, see Dan Hey Dan,
+
+45
+00:09:47.220 --> 00:09:47.580
+Dan Horák: Oh,
+
+46
+00:09:57.420 --> 00:09:58.260
+John Mertic: Jordan shot.
+
+47
+00:09:59.280 --> 00:10:04.350
+John Mertic: Canto from Broadcom or you can do from Broadcom high church.
+
+48
+00:10:12.150 --> 00:10:16.860
+John Mertic: We're just one minute after the hour here so we'll give folks, some time to pop in
+
+49
+00:10:19.350 --> 00:10:20.790
+John Mertic: If you can, I'm going to just
+
+50
+00:10:20.820 --> 00:10:24.270
+John Mertic: Re share the document link.
+
+51
+00:10:25.740 --> 00:10:33.450
+John Mertic: In the chat. It's a Google Doc, if you wouldn't mind bopping in there and under the other attendees if you want
+
+52
+00:10:33.450 --> 00:10:49.860
+John Mertic: To add your name to the list of other attendees. That would be fantastic for voting members, I'll kind of take you off at the top and at the same time, if anybody be interested in putting notes in are taking notes for today. That would be most appreciated.
+
+53
+00:10:52.080 --> 00:10:54.900
+John Mertic: Maybe right here in this doc. So hopefully that makes it a little bit easier.
+
+54
+00:11:09.720 --> 00:11:14.190
+John Mertic: Remember to see if we get a few more voting members. I don't see
+
+55
+00:11:15.450 --> 00:11:15.900
+John Mertic: Let's see.
+
+56
+00:11:17.040 --> 00:11:20.550
+John Mertic: Mike, because if Dino Phil's able to join today, or if you had spoken with him.
+
+57
+00:11:27.150 --> 00:11:27.450
+Michael MacIsaac: Okay.
+
+58
+00:11:29.880 --> 00:11:36.900
+John Mertic: And I don't see any you on the line. I don't know if if if you know she's available today.
+
+59
+00:11:47.970 --> 00:11:49.920
+John Mertic: And I just saw about gullberg join in.
+
+60
+00:11:53.520 --> 00:11:57.750
+John Mertic: I'm gonna put the link again here in the chat.
+
+61
+00:11:59.730 --> 00:12:02.490
+John Mertic: So this is the running Google Doc minutes
+
+62
+00:12:03.960 --> 00:12:15.060
+John Mertic: If you don't mind marking your name under the other attendees. If you could jump in there. That would be wonderful. So we can record you as a part of today's meeting.
+
+63
+00:12:24.510 --> 00:12:28.020
+John Mertic: And we do have enough votes.
+
+64
+00:12:28.050 --> 00:12:29.250
+Peter Fandel: For corn it
+
+65
+00:12:29.280 --> 00:12:38.970
+John Mertic: Appears so I'm gonna, I don't see Phil the line, but I'm going to change right no for dinner. Phil Hillier and say let's go ahead and get going. Is that good with everyone.
+
+66
+00:12:39.960 --> 00:12:42.450
+Peter Fandel: Yep, and John's Peter. I'm happy to represent
+
+67
+00:12:43.500 --> 00:12:46.800
+Peter Fandel: For representation in both directions to the Zoe.
+
+68
+00:12:47.550 --> 00:12:48.510
+Peter Fandel: Okay, he'll see
+
+69
+00:12:49.350 --> 00:12:50.520
+John Mertic: Awesome. Awesome. Thank you.
+
+70
+00:12:52.380 --> 00:13:00.720
+John Mertic: So agenda for today. I'll just drop it in the chat here as well. And it is in the Google Doc. In addition,
+
+71
+00:13:02.040 --> 00:13:10.770
+John Mertic: We're going to look at. We've opened the OMB ambassador program we've had some applications come in and I guess I should share my screen here as well.
+
+72
+00:13:12.090 --> 00:13:28.290
+John Mertic: I think there's a few open questions on timing and selection. And so I think that's something for the tack to consider today hope everyone can see my screen here, it says tech meeting 1210
+
+73
+00:13:30.780 --> 00:13:31.290
+Mike Friesenegger: Yes.
+
+74
+00:13:31.500 --> 00:13:32.310
+Okay, perfect.
+
+75
+00:13:34.350 --> 00:13:45.930
+John Mertic: So we have that in the agenda today we have a proposal around a public clouds EOS enablement and then we have Kim to a trial trial in the line here to discuss that.
+
+76
+00:13:46.500 --> 00:13:54.180
+John Mertic: And then we're going to catch up on a few items that have been on the list for a little bit and get some updates Debian S3 90 export from our last meeting.
+
+77
+00:13:55.170 --> 00:14:10.860
+John Mertic: Tears decompress incubation renewal and I think we've had some progress there that we can share and hopefully we can be in a good place to consider renewing the incubation, and the GitHub actions for hosted projects as well and
+
+78
+00:14:12.060 --> 00:14:16.590
+John Mertic: Outside of that, and then we'll just run a quick run around the table here for Project updates.
+
+79
+00:14:17.700 --> 00:14:22.590
+John Mertic: Anything anyone would like us to add to the agenda today that we missed
+
+80
+00:14:28.650 --> 00:14:37.410
+John Mertic: Perfect. And I'll just drop in the chat. Again, for those of you later arriving, if you want to. If you look in the chat.
+
+81
+00:14:37.770 --> 00:14:46.860
+John Mertic: There's a link to a Google Doc, if you wouldn't mind going under the other attendees just kind of dropping your name in there so that we can capture you as a part of today's meeting.
+
+82
+00:14:48.390 --> 00:14:52.680
+John Mertic: And also if. Do I have a volunteer someone who would want to
+
+83
+00:14:53.790 --> 00:14:58.770
+John Mertic: Take the notes for today, or maybe a couple of people. If you want to tag team on it.
+
+84
+00:15:01.110 --> 00:15:06.210
+Matt Hogstrom: Yeah, I'm happy to throw some notes in but if there's other people that want to do that as well that would help.
+
+85
+00:15:07.500 --> 00:15:15.360
+John Mertic: Yeah, absolutely. However, Matt, thank you for taking the lead there and anyone else who wants to help out along the way, you'll have it right so
+
+86
+00:15:16.410 --> 00:15:16.980
+Go crazy
+
+87
+00:15:19.350 --> 00:15:34.740
+John Mertic: All right, first on the agenda is a looking at wimpy mentorship applications. So we have had a number of applications already come through. And if you recall at the last meeting.
+
+88
+00:15:35.640 --> 00:15:47.730
+John Mertic: Was the first time that we had a, you know, formally approved doing the program, as we can see today here. There's a couple that have got duplicated here, but I think we have nine open applications.
+
+89
+00:15:48.300 --> 00:15:55.890
+John Mertic: And I wanted to, you know, consider with attack here of, you know, a just a timeline for when applications.
+
+90
+00:15:56.640 --> 00:16:10.860
+John Mertic: Could be accepted through and then be sort of a timeline and when the tack would want to, you know, work through an approval process and sort of where the scope is if I look at from past discussions.
+
+91
+00:16:12.000 --> 00:16:17.730
+John Mertic: For much of my understanding the and I guess. Anyone here chime in if if I'm missing notes from before.
+
+92
+00:16:18.870 --> 00:16:27.570
+John Mertic: The intention was for year one to kind of cap it potentially around 10 number. And that was sort of just arbitrary to make sure that there's
+
+93
+00:16:28.020 --> 00:16:36.420
+John Mertic: Enough. It's a small enough number that it's easy to manage and we can also make sure we're driving good benefits and everything and then expanding that over time.
+
+94
+00:16:37.740 --> 00:16:46.830
+John Mertic: And also ensuring the candidates have tie backs to various projects so they can help the representation from that and making sure the ambassador class has some
+
+95
+00:16:48.360 --> 00:16:53.370
+John Mertic: You know, various amounts of diversity representing different areas.
+
+96
+00:16:54.600 --> 00:17:03.870
+John Mertic: But I don't think we really decided about how long application should be open for and then just sort of when the timeline to accept them. So I don't know.
+
+97
+00:17:05.070 --> 00:17:10.200
+John Mertic: For me, the voting tech members. I don't know if y'all have any thoughts on what a good way to move forward with that would be
+
+98
+00:17:15.540 --> 00:17:21.000
+Gregory MacKinnon: I think initially you know john you said maybe through the end of the year, but with the holiday, you know, with for
+
+99
+00:17:21.510 --> 00:17:33.300
+Gregory MacKinnon: Applicants and all that, but with the holidays. Is that still a good deadline for applications or do you think it should be pushed out or I don't know what your thoughts are around kind of how long to let the applications come in.
+
+100
+00:17:34.980 --> 00:17:48.300
+John Mertic: It's a good question. Yes, certainly the holidays coming up in that either has one of two things. It's either everything slows down and people have time to pay attention to it or everybody wanders away and doesn't have time to pay attention to it. So,
+
+101
+00:17:50.070 --> 00:17:55.110
+John Mertic: Would you know the next tech meeting after the new year, I believe, is the 14th.
+
+102
+00:17:56.640 --> 00:18:02.370
+John Mertic: Would it make sense to keep the applications. Open up till that meeting time
+
+103
+00:18:04.440 --> 00:18:06.030
+John Mertic: So maybe close them the day before.
+
+104
+00:18:16.050 --> 00:18:18.960
+Matt Hogstrom: Are you planning on voting at that meeting john or would that
+
+105
+00:18:19.440 --> 00:18:23.010
+Matt Hogstrom: Really get tougher for another month before you actually got to the voting process.
+
+106
+00:18:23.730 --> 00:18:26.130
+John Mertic: Um, you know, I think that would be a consideration of attack.
+
+107
+00:18:26.460 --> 00:18:27.420
+Peter Fandel: Certainly if there's a
+
+108
+00:18:27.450 --> 00:18:29.190
+John Mertic: You know, it was a reasonable set of candidates. I think the
+
+109
+00:18:29.190 --> 00:18:39.840
+John Mertic: Cat could vote and make the decisions at that point I think we'd want to consider the best way to move forward on the the voting process there.
+
+110
+00:18:41.340 --> 00:18:44.880
+John Mertic: But I don't see any reason why the selections could not happen at that meeting.
+
+111
+00:18:51.480 --> 00:18:56.160
+Gregory MacKinnon: There's a stake in the ground in the 14th and the voting would happen then most likely
+
+112
+00:18:57.030 --> 00:19:01.380
+John Mertic: I think that's pretty reasonably I do we want to close it this the day before, just so we can
+
+113
+00:19:01.410 --> 00:19:03.600
+Peter Fandel: Make sure we have a fully prepared blessed or
+
+114
+00:19:04.650 --> 00:19:05.100
+Peter Fandel: Like the
+
+115
+00:19:05.160 --> 00:19:08.820
+John Mertic: Day before midnight or something so that way. The next day, that will have the full list.
+
+116
+00:19:10.620 --> 00:19:12.450
+Matt Hogstrom: Well, you're the guy that has to correlate it right
+
+117
+00:19:16.320 --> 00:19:20.070
+John Mertic: This is true, this is true. So yeah, so maybe we close it.
+
+118
+00:19:20.130 --> 00:19:20.610
+Peter Fandel: Um,
+
+119
+00:19:20.700 --> 00:19:22.590
+John Mertic: You know, midnight. The night before Eastern
+
+120
+00:19:23.400 --> 00:19:25.680
+John Mertic: And then we can correlate the list from there.
+
+121
+00:19:26.550 --> 00:19:27.300
+Matt Hogstrom: Would be a
+
+122
+00:19:27.810 --> 00:19:31.980
+Matt Hogstrom: Can we say 1201 and I sat on the 14th or the 13th.
+
+123
+00:19:33.780 --> 00:19:36.060
+John Mertic: So the meeting is on the 14th.
+
+124
+00:19:36.360 --> 00:19:37.230
+So,
+
+125
+00:19:38.910 --> 00:19:47.010
+John Mertic: It would probably mean I guess if we want to get into the nuances. This is either 11:59pm on the 13th or 12:01am on the 14th.
+
+126
+00:19:48.120 --> 00:19:49.590
+Matt Hogstrom: So as far as just picking a
+
+127
+00:19:50.070 --> 00:19:53.490
+Matt Hogstrom: Weird time so midnight wasn't able to us. Yep.
+
+128
+00:19:53.520 --> 00:19:53.850
+Yep.
+
+129
+00:19:55.830 --> 00:20:12.780
+John Mertic: So like 12 11:59pm and 59 seconds on the 13th will call for the deadline and Rome Allah make announcements out through a bunch of our channels as well. And again, feel free to socialize this through your channels. We've had a lot of folks.
+
+130
+00:20:12.780 --> 00:20:13.830
+John Mertic: Step forward already which
+
+131
+00:20:13.830 --> 00:20:15.360
+John Mertic: Is great.
+
+132
+00:20:16.830 --> 00:20:21.450
+John Mertic: And so hopefully we can get a really nice program off the ground here.
+
+133
+00:20:24.480 --> 00:20:29.220
+John Mertic: Any questions or anything else we need to, you know, discuss around the ambassador program at this point.
+
+134
+00:20:43.380 --> 00:20:43.890
+John Mertic: Awesome.
+
+135
+00:20:46.020 --> 00:20:54.780
+John Mertic: Well, let's move to the next item on the list public cloud Z OS enablement, and this was a
+
+136
+00:20:54.810 --> 00:20:56.310
+Peter Fandel: Project idea that kip had
+
+137
+00:20:56.310 --> 00:20:58.440
+John Mertic: Proposed Kip, I don't know if you want to
+
+138
+00:20:59.160 --> 00:21:00.960
+John Mertic: Kind of present a little bit of what you're thinking.
+
+139
+00:21:00.960 --> 00:21:01.200
+Here.
+
+140
+00:21:06.930 --> 00:21:08.670
+John Mertic: I don't know if your audio is I think you might be muted.
+
+141
+00:21:24.510 --> 00:21:26.130
+Kip Twitchell: Thank you. There we
+
+142
+00:21:28.590 --> 00:21:35.070
+Kip Twitchell: got lost on my phone there for a second. Thanks everybody for your time here and john space here. I'm, I'm the
+
+143
+00:21:36.000 --> 00:21:56.490
+Kip Twitchell: Technical the chair of the technical steering committee for the Geneva year as project and coming into the own pee in July, has been instructive for us about the impediments that I think we're facing on open source on iOS specifically
+
+144
+00:21:58.080 --> 00:22:01.950
+Kip Twitchell: And so I've had a number of discussions with other
+
+145
+00:22:03.660 --> 00:22:09.480
+Kip Twitchell: Oh NP projects and since I've worked for IBM some internal IBM discussions as well.
+
+146
+00:22:11.190 --> 00:22:25.980
+Kip Twitchell: About what could we do to make public cloud zero s possible now I can't can't solve all the problems, but one thing because particularly like hardware.
+
+147
+00:22:26.370 --> 00:22:33.180
+Kip Twitchell: Is something that's needed to run NGOs and that's dependent upon people that have made investments in the hardware.
+
+148
+00:22:33.780 --> 00:22:46.140
+Kip Twitchell: And their willingness to contribute, but there we have seen from the GDP heroes project. There are organizations that are willing to dedicate some hardware capacity to on p projects.
+
+149
+00:22:46.920 --> 00:23:00.930
+Kip Twitchell: One of the things that we noted for our through our process, though, is a next impediment. We often run into is around open around to see programmers because there. If you take all of the CEOs.
+
+150
+00:23:02.460 --> 00:23:16.350
+Kip Twitchell: Resources that knows EOS you know system programmers or even a smaller more valuable slice of that and with the shared environment, the NGOs is administering for
+
+151
+00:23:18.390 --> 00:23:28.110
+Kip Twitchell: Or a community becomes a burden to these organizations. So what kind of through the discussions here, a number of months.
+
+152
+00:23:29.190 --> 00:23:40.140
+Kip Twitchell: You know, it seems to me that there's a need or developing some tools and capabilities that would help enable a company if they have
+
+153
+00:23:41.490 --> 00:23:55.500
+Kip Twitchell: Environment that they or capacity resource that they would like to commit to open source projects as EOS enabling them to do it easier. That may allow more companies.
+
+154
+00:23:56.310 --> 00:24:08.070
+Kip Twitchell: To contribute resources in some way if if they weren't able to do. So this is a critical thing for growing, you know, skills, NGOs, because I'm in charge of a number of consultants.
+
+155
+00:24:08.640 --> 00:24:18.360
+Kip Twitchell: And the experience the training that these people need. They don't need cam training they need experiential environments to be able to
+
+156
+00:24:19.410 --> 00:24:32.610
+Kip Twitchell: Play around with tools and develop connections and it's it's often the same thing we see people coming into open new environments wanting to learn, they want to learn by experimentation.
+
+157
+00:24:33.390 --> 00:24:44.280
+Kip Twitchell: And without that sort of capability, instead of very locked down programmatic things were inhibiting new people coming into the platforms and contributing in various ways.
+
+158
+00:24:45.150 --> 00:24:54.900
+Kip Twitchell: So one of the ideas that I had was we had the eye. And all of this is written in the issue that I opened on the attack community.
+
+159
+00:24:56.130 --> 00:25:08.100
+Kip Twitchell: If there was the ability to create tooling that would allow an organization to download this tooling to use NGOs that specifies
+
+160
+00:25:08.580 --> 00:25:18.150
+Kip Twitchell: How much resource this organization and what time for this organization would be able to dedicate to an open source community, what sorts of things that
+
+161
+00:25:18.750 --> 00:25:28.320
+Kip Twitchell: Can can individuals make their own health partners or sign up for an out part. What sort of tooling. Are they available to install in those environments.
+
+162
+00:25:29.970 --> 00:25:41.130
+Kip Twitchell: You know, when would the system be available. How does it. How can we limit the myths that are used, so that it doesn't send it over for our rolling average and increase their
+
+163
+00:25:41.730 --> 00:25:58.800
+Kip Twitchell: Their payout and have impact on other places. It's not an easy problem to solve. But by having the discussion and bringing the other community members in an open source community. I think that we can make some traction on this, which would help enable and bring forward the club.
+
+164
+00:26:00.690 --> 00:26:11.820
+Kip Twitchell: Instability. So what's needed in the community would be. We need people that are system programmers that understand what these constraints are intent and vision what automation might help.
+
+165
+00:26:12.420 --> 00:26:19.320
+Kip Twitchell: Them alleviate these kinds of problems would also be we need to know owners of these systems.
+
+166
+00:26:20.010 --> 00:26:28.950
+Kip Twitchell: That would be willing to dedicate what sorts of things would be the constraints that they'd have to be part of this community. We also need Knowledge of
+
+167
+00:26:29.610 --> 00:26:36.660
+Kip Twitchell: Inside of IBM on any Z OS cloud initiatives that are going on so that we're working in tandem and complimentary to those
+
+168
+00:26:37.380 --> 00:26:49.890
+Kip Twitchell: And then other own team members that that have gone through this, how they solve problems, how they worked around these kinds of things. That's what the proposal is some feedback. I'm hoping to get today from this group.
+
+169
+00:26:54.240 --> 00:26:55.260
+Matt Hogstrom: He said one
+
+170
+00:26:55.470 --> 00:26:56.280
+Matt Hogstrom: One thing that
+
+171
+00:26:57.780 --> 00:26:58.890
+Matt Hogstrom: You didn't mention it.
+
+172
+00:27:00.570 --> 00:27:18.360
+Matt Hogstrom: Was two types of hardware right basically some way to host the 390 right either emulation mode and help our mode. In fact, our systems programmer switches more deeply integrated component. And I think there's also software licensing.
+
+173
+00:27:18.840 --> 00:27:21.630
+Kip Twitchell: That you would need. So obviously, IBM would have to
+
+174
+00:27:21.630 --> 00:27:28.620
+Matt Hogstrom: Somehow license or have some agreement for CEOs and related component tree but companies like Broadcom have
+
+175
+00:27:29.460 --> 00:27:39.510
+Matt Hogstrom: Compliment or a replacement or alternative security managers, right. So there'll be rack as the IBM stack Broadcom has ACM to a top secret so
+
+176
+00:27:40.170 --> 00:27:50.070
+Matt Hogstrom: I think there's a kind of a whole additional set of items that need to be done in terms of kind of software donations or licensing for the development community.
+
+177
+00:27:51.180 --> 00:27:57.240
+Kip Twitchell: That's a good. That's a good ad and I'd had considered that under the hardware. It's an extension of the hardware to those licenses.
+
+178
+00:27:57.960 --> 00:28:10.470
+Kip Twitchell: One thing, though, that even, even if we were if we eliminated the need. There are instances where people could use very simple open source capabilities on a base zero s system.
+
+179
+00:28:11.430 --> 00:28:26.130
+Kip Twitchell: That may be useful in some limited instances for experimentation and development but but your points well taken all of that would have to be part of it. I'm not trying to solve that resource allocation issue. I'm trying to enable
+
+180
+00:28:27.180 --> 00:28:32.520
+Kip Twitchell: Make it easier, that if someone's willing to contribute, they could contribute. I can't make sense.
+
+181
+00:28:33.660 --> 00:28:42.270
+Hiren Shah: So have you looked at z PDT. Also, is there any specific reason that we need the real cus hardware.
+
+182
+00:28:42.300 --> 00:28:43.110
+Or see hardware.
+
+183
+00:28:44.220 --> 00:28:55.860
+Kip Twitchell: Yeah. So, good question. I have used I am to the US, the PDP this year and I found it very difficult to be honest with you to attempt to use
+
+184
+00:28:57.150 --> 00:29:13.110
+Kip Twitchell: Just not that it may be around that we could go looking, but I think there's an issue there probably with resources. If I were to guess I'm in the consulting division of IBM, so I don't speak for IBM in in the CEOs space, just to be clear.
+
+185
+00:29:14.760 --> 00:29:22.530
+Kip Twitchell: But you know for for the teams that are maintaining that when I think about cost of maintaining and trying to open that up for the open source community.
+
+186
+00:29:23.250 --> 00:29:31.650
+Kip Twitchell: If there's a if there were additions added to the PDP that made it easier. That would be helpful for example on the PDP the installation.
+
+187
+00:29:32.220 --> 00:29:43.920
+Kip Twitchell: The basic installation starts on page 106 of the 300 page manual, but it's very deep before you get there. How did you get started and an open source community.
+
+188
+00:29:44.430 --> 00:29:53.820
+Kip Twitchell: That contributes a giving a quick start guide could be helpful in making the PDP. The other thing is the hardware constraint on the token that's needed
+
+189
+00:29:55.200 --> 00:29:58.770
+Kip Twitchell: Is there some way so that we could make that more accessible.
+
+190
+00:29:59.280 --> 00:30:08.310
+Kip Twitchell: So we're not requiring a hardware token that becomes a constraint for people to experiment and get started if we can make that easier for them to get to
+
+191
+00:30:08.610 --> 00:30:15.990
+Kip Twitchell: That would be helpful, but all of that part of your questions have a valid place could be part of this discussion and sent me to make sure that
+
+192
+00:30:16.500 --> 00:30:19.200
+Hiren Shah: It's not limited to real the hardware de de de
+
+193
+00:30:20.190 --> 00:30:20.970
+Hiren Shah: de de de paz
+
+194
+00:30:22.620 --> 00:30:27.720
+Kip Twitchell: The development of test systems as the D amp D AMP T systems can also be part of that as well.
+
+195
+00:30:28.200 --> 00:30:31.950
+Matt Hogstrom: Yeah, the DNA. Just, just for a reference point.
+
+196
+00:30:31.950 --> 00:30:36.060
+Matt Hogstrom: kick in. So we, we had a we had a server.
+
+197
+00:30:36.600 --> 00:30:46.830
+Matt Hogstrom: Out. It is part of the Zoe infrastructure, I think it was river so we.org and we ran up to five instances of CDT on that.
+
+198
+00:30:47.460 --> 00:30:58.500
+Matt Hogstrom: And we use that before we move to Maris as part of the build process, so there's less of a need for it, but we ran those as Docker containers. And so the setup and installation was actually pretty simple.
+
+199
+00:30:59.520 --> 00:31:12.720
+Matt Hogstrom: Given that we had a docker image that already been customized that people could just say stand up for me and it was kind of boom, boom, boom, you'd have a system, you know, within 10 minutes or so.
+
+200
+00:31:13.080 --> 00:31:14.700
+Kip Twitchell: And we use those two
+
+201
+00:31:15.000 --> 00:31:19.140
+Matt Hogstrom: And those out to some of the insurance or working so they have to work on.
+
+202
+00:31:20.700 --> 00:31:21.180
+Matt Hogstrom: Last year,
+
+203
+00:31:22.200 --> 00:31:31.500
+Kip Twitchell: Right right there if we if you have that code isolated that did that function. You've got to feed for an open source community right there off of that code base. Right.
+
+204
+00:31:32.790 --> 00:31:43.110
+Kip Twitchell: And maybe it isn't a full solution, but those kinds of things, bringing us together. I think would be helpful to make those available to other teams that are going through this
+
+205
+00:31:44.400 --> 00:31:45.390
+Kip Twitchell: And other individuals.
+
+206
+00:31:49.980 --> 00:32:01.740
+Bob Dahlberg (VCU): Dog and I really like what you're talking about here because this is something on at being an educator something I'm very interested in. But I think too that way if you talk about having some you know some things for
+
+207
+00:32:03.060 --> 00:32:19.500
+Bob Dahlberg (VCU): People for potential systems programmers or existing systems programmers to hone their skills there. There are so many different, diverse areas and Assistant Program, or does you know there's installs there's maintenance. There's configuration. There's exit writing
+
+208
+00:32:20.730 --> 00:32:24.810
+Bob Dahlberg (VCU): You know there's there's all kinds of stuff like that. And I'm wondering
+
+209
+00:32:25.830 --> 00:32:36.480
+Bob Dahlberg (VCU): You know, maybe what we could do is identify the functionality we need or functional our processes that we already have that already.
+
+210
+00:32:37.890 --> 00:32:50.790
+Bob Dahlberg (VCU): Enables the functionality that that people could use so that we can make sure that we've not saying let's just for systems programming, but here are the functions of assistance program or that we can we can support or we need to support
+
+211
+00:32:52.140 --> 00:32:57.270
+Bob Dahlberg (VCU): The project perspective, you know, it'd be a nice way to break it down into bite sized pieces of liquid
+
+212
+00:32:57.480 --> 00:32:57.720
+Yes.
+
+213
+00:32:58.890 --> 00:33:13.980
+Kip Twitchell: Very good, Bob. Thought you trigger there for me, right, is that, let's start with that vanilla flavor that has no other software licenses involved that maybe just for like cobalt development against flat files.
+
+214
+00:33:15.270 --> 00:33:27.390
+Kip Twitchell: You know that that uses something that simple. How can we make creating that environment. Now it will get so simple, then it becomes something that is, you know, you really only have a
+
+215
+00:33:27.990 --> 00:33:38.850
+Kip Twitchell: Developer needing to be added into an LP or that's a, you know, I'm not. I don't want to be so simplistic that we cut ourselves off from more sophistication, later on, but
+
+216
+00:33:41.100 --> 00:33:42.390
+Kip Twitchell: I can take an inventory of what we
+
+217
+00:33:42.390 --> 00:33:46.350
+Bob Dahlberg (VCU): Can do now and what we need to do, you know, because you know there's DCM, you don't mean
+
+218
+00:33:46.560 --> 00:33:47.700
+Bob Dahlberg (VCU): We used to use the same
+
+219
+00:33:47.700 --> 00:33:49.980
+Kip Twitchell: All the time, because there was no license.
+
+220
+00:33:50.040 --> 00:33:50.490
+And additional
+
+221
+00:33:51.510 --> 00:33:52.230
+Kip Twitchell: CEOs.
+
+222
+00:33:53.730 --> 00:33:54.960
+Bob Dahlberg (VCU): So, but yeah.
+
+223
+00:33:54.990 --> 00:34:05.910
+Bob Dahlberg (VCU): Yeah, then we can start thinking about how we can create a a live simulated environment that's air gapped out from the rest of the system.
+
+224
+00:34:08.610 --> 00:34:21.930
+Kip Twitchell: And I think having this conversation in a technical steering committee on a bi weekly basis, you know, twice a month or something. It's a started down the road of doing that is what I'm thinking. Yeah, because it kind of broad
+
+225
+00:34:22.230 --> 00:34:36.960
+Bob Dahlberg (VCU): And I'm working on the Education Project, too. And I think this would be great because you know we could come up with all kinds of things we need to do in the education systems. But unlike you said unless there's a hands on. You can't teach computer computing systems without computers.
+
+226
+00:34:38.040 --> 00:34:48.900
+Kip Twitchell: Know, and we have new developers, we saw, you know, Fanny breezy and our group has just done a great job on outreach to new people interested in open mainframe projects as part of the summit and such.
+
+227
+00:34:49.650 --> 00:34:55.680
+Kip Twitchell: And a number of those people coming in for LinkedIn New College people looking for jobs in this go over there.
+
+228
+00:34:56.730 --> 00:35:06.450
+Kip Twitchell: You know, how do I, how do I grow experiment, how do I start by getting a login in place so that I can do something, it's a it's a real inhibitor
+
+229
+00:35:06.990 --> 00:35:07.710
+Kip Twitchell: Yeah yeah
+
+230
+00:35:07.740 --> 00:35:09.270
+Kip Twitchell: I agree. And, you know,
+
+231
+00:35:09.300 --> 00:35:19.470
+Bob Dahlberg (VCU): The way I learned was made by getting on a system development system. And after we got our education, you would turn loose to experiment that's, that's how you got good at.
+
+232
+00:35:21.150 --> 00:35:31.350
+Meredith stowell: So this is Meredith when I think that while they're there is a significant amount of introductory access to the systems that are that are currently available.
+
+233
+00:35:31.440 --> 00:35:31.860
+Meredith stowell: So if
+
+234
+00:35:31.920 --> 00:35:34.020
+Meredith stowell: You want to get started today, you can
+
+235
+00:35:34.110 --> 00:35:35.190
+Meredith stowell: Go get your login and
+
+236
+00:35:35.220 --> 00:35:36.210
+Try everything out.
+
+237
+00:35:38.250 --> 00:35:51.300
+Meredith stowell: There is that need for once you get to the more intermediate and advanced levels of system administration specifically have this need for for that individual environment.
+
+238
+00:35:52.920 --> 00:35:54.360
+Meredith stowell: If but if they want to get on today and
+
+239
+00:35:54.690 --> 00:35:55.770
+Kip Twitchell: Try something they can
+
+240
+00:35:55.830 --> 00:35:57.930
+Meredith stowell: They can do that today in multiple places and
+
+241
+00:35:59.220 --> 00:36:01.410
+Kip Twitchell: So forth. Even little them entire cobalt
+
+242
+00:36:01.410 --> 00:36:03.510
+Bob Dahlberg (VCU): Application. Yeah, yeah, I think.
+
+243
+00:36:05.160 --> 00:36:11.610
+Bob Dahlberg (VCU): It'd be good to add to identify the skills that you can do today, as opposed to what we still need work.
+
+244
+00:36:12.810 --> 00:36:19.530
+Kip Twitchell: Yeah. And to that point. Meredith, many of those are very good because they're targeted towards specific learning tracks.
+
+245
+00:36:20.370 --> 00:36:34.080
+Kip Twitchell: When I come at it from my experience mainframe developer, I got I'm in charge of education training for 100 consultants NGOs. Well, those, those people need experimentation spaces that they can
+
+246
+00:36:34.590 --> 00:36:37.620
+Meredith stowell: Exactly. It's once you get beyond that. It's once you get beyond that.
+
+247
+00:36:37.680 --> 00:36:51.750
+Meredith stowell: Okay. Now, I understand that. I understand that I have the basics. Now I want to go play. Beyond that, I think that's a good exercise to say here's what we have today where the, where the gaps and then what
+
+248
+00:36:51.960 --> 00:36:53.010
+Kip Twitchell: what's feasible. What could we
+
+249
+00:36:53.010 --> 00:36:58.470
+Matt Hogstrom: Do as I say, if you're if you're dealing with systems programming and you want to be able to
+
+250
+00:36:58.860 --> 00:37:06.780
+Matt Hogstrom: Get that skill out there. You want something that they can basically shoot themselves in the foot quickly start over, as opposed to scheduling.
+
+251
+00:37:07.710 --> 00:37:07.980
+Matt Hogstrom: You know,
+
+252
+00:37:08.250 --> 00:37:10.350
+Matt Hogstrom: Image that might have other people
+
+253
+00:37:12.510 --> 00:37:16.980
+Kip Twitchell: So, and you've spoken right to the Raspberry Pi philosophy.
+
+254
+00:37:17.070 --> 00:37:27.510
+Kip Twitchell: Right. How successful with Raspberry Pi, because you can tear it down and restart when you when you go to the edge of things with experimentation enhancements on the edge of things where things are dangerous.
+
+255
+00:37:28.290 --> 00:37:33.810
+Kip Twitchell: I'd like to have an L part dangerous that allows me to break it and throw it away. I'm trying again.
+
+256
+00:37:36.090 --> 00:37:36.720
+John Mertic: So,
+
+257
+00:37:37.200 --> 00:37:39.510
+John Mertic: I kind of just wondering on the steps forward here, what
+
+258
+00:37:39.510 --> 00:37:46.080
+John Mertic: I think what I'm hearing is there's definitely interest in moving this forward in some form.
+
+259
+00:37:47.340 --> 00:37:59.910
+John Mertic: You know, Kip is your brought it forward. I think you had it under the auspices of a project I'm just sort of wondering would you think the auspice of having a working group that is focused in this area is that sort of where your head's at. For maybe a next step.
+
+260
+00:38:01.110 --> 00:38:11.010
+Kip Twitchell: I I'm open to the direction right I'm doesnt sit under the Geneva ERS project. It's a little too narrow. It's a little too broad for us to tackle in that space.
+
+261
+00:38:11.430 --> 00:38:23.040
+Kip Twitchell: So I'm open to suggestions as to how we take this forward. But I do think there's a real need here. I think the discussion is useful, I think we could get others to in this discussion, because there is passionate around this.
+
+262
+00:38:23.910 --> 00:38:25.500
+John Mertic: One. Yeah, I can definitely hear that
+
+263
+00:38:26.370 --> 00:38:30.390
+Matt Hogstrom: Since marathon call one solution that would be
+
+264
+00:38:30.960 --> 00:38:43.620
+Matt Hogstrom: I think would be a huge win would be if say IBM was able to say for educational open source purposes grant do and he already to run a license server.
+
+265
+00:38:44.340 --> 00:38:50.580
+Matt Hogstrom: That had, you know, ended up to 15 specific whatever that number is right. That's, I could be variable is all configurable.
+
+266
+00:38:51.420 --> 00:39:03.120
+Matt Hogstrom: And you took like a key route because the LF also owns x86 infrastructure to host those dr, eyes, nose, and then you would already have the basis. We started working it. I think if
+
+267
+00:39:04.200 --> 00:39:13.470
+Matt Hogstrom: I think it's very doable to get z systems CPM and dedicated staff around that. But I think that's a longer pole in the tent.
+
+268
+00:39:14.010 --> 00:39:15.840
+Matt Hogstrom: And you might spend more time trying to get that off.
+
+269
+00:39:15.840 --> 00:39:17.790
+Matt Hogstrom: The ground. Well, let me
+
+270
+00:39:18.030 --> 00:39:25.200
+Kip Twitchell: Let me your actor, though. One thing I do want to be careful of in this initiative is it. It is something that's easy for us to say
+
+271
+00:39:25.650 --> 00:39:33.810
+Kip Twitchell: Would be great if IBM made public. The EOS systems available to everyone, but there are places today, murder, you know, other colleges and other
+
+272
+00:39:34.530 --> 00:39:47.220
+Kip Twitchell: Service providers that are hosting some some open source projects today. So where I was trying to go on. This is, I would like to make it available for anyone that's willing
+
+273
+00:39:48.270 --> 00:40:01.920
+Kip Twitchell: At some level, yes, there's the the PDT which would be one way of doing this, or the the D AMP T. But another one would be if someone has an unused map is very perishable.
+
+274
+00:40:03.180 --> 00:40:14.220
+Kip Twitchell: And if there's capacity on machines at particular times and people are willing to dedicate some of that capacity. I'd like to make it so that it's available on for anyone to
+
+275
+00:40:14.700 --> 00:40:23.940
+Kip Twitchell: Host these kinds of things we broaden the community that can support and dedicate the resources available to test if we do if we approach it that way.
+
+276
+00:40:24.840 --> 00:40:30.450
+Matt Hogstrom: Yeah, maybe tainted tip. So you have to forgive me, we've been talking about this for almost two or three years now.
+
+277
+00:40:31.350 --> 00:40:46.560
+Matt Hogstrom: And so far, I'm not sure how we shape the trees to get the resources. But so far, we haven't we haven't taken one of those perishable myths and gotten into the community, apart from Maris as a means of doing that.
+
+278
+00:40:47.190 --> 00:40:47.520
+John Mertic: So,
+
+279
+00:40:47.550 --> 00:40:48.570
+Matt Hogstrom: May I have another
+
+280
+00:40:50.160 --> 00:40:51.840
+John Mertic: As I say, just in the interest of sort
+
+281
+00:40:51.840 --> 00:40:55.470
+John Mertic: Of where the time is, it sounds like. Definitely. There's a lot of conversation here. And I have a
+
+282
+00:40:55.470 --> 00:41:04.470
+John Mertic: Feeling this conversation could go on for quite some more time where I guess what I'm hearing is is the interest in forming a working group that would tackle this.
+
+283
+00:41:06.030 --> 00:41:15.630
+John Mertic: Is that, is that something from the I see we have a quorum of voting TAC members, you know, Phil. Greg, Peter, Mark, Bob. Is that something you think would be a good step forward for this group.
+
+284
+00:41:18.300 --> 00:41:18.600
+Gregory MacKinnon: What
+
+285
+00:41:19.140 --> 00:41:24.930
+Gregory MacKinnon: It sounds like it but what, what would the outcome of the working group. What would the expect expectation be there.
+
+286
+00:41:27.930 --> 00:41:30.840
+John Mertic: So if I look at them. Oh, go ahead. Tip. What would you
+
+287
+00:41:31.440 --> 00:41:38.370
+Kip Twitchell: Think I would propose that we to coming up with the charter for an incubation project. Working Group maybe only a short lived thing.
+
+288
+00:41:39.210 --> 00:41:50.040
+Kip Twitchell: But become a incubation project that we want to actually get the code. Here's what we want. I think on this show. Okay, so there's a code component to in addition to the resources component
+
+289
+00:41:50.040 --> 00:41:51.240
+Kip Twitchell: Yeah. Yep.
+
+290
+00:41:51.630 --> 00:41:52.080
+Good.
+
+291
+00:41:55.950 --> 00:41:57.600
+Kip Twitchell: Greg. Does that answer your question. Well,
+
+292
+00:41:58.800 --> 00:42:00.090
+Kip Twitchell: I guess, I guess, all I'm saying.
+
+293
+00:42:00.090 --> 00:42:05.610
+Gregory MacKinnon: Is that I'd like to see where the work. I'm not saying there's not a good idea here. But I'd like to see where the working group, you know,
+
+294
+00:42:05.970 --> 00:42:14.280
+Gregory MacKinnon: We know where it led what the outcome was, you know, before you know just just to explore and see where it takes us before we get ahead of ourselves in terms of
+
+295
+00:42:14.640 --> 00:42:24.930
+Gregory MacKinnon: You know, going and incubation and stuff like that. So I. That's all I'm saying. I think the working group might be a good way to explore it and and and flush it out some and that that that the ideas and all that sort of thing.
+
+296
+00:42:25.800 --> 00:42:27.600
+Kip Twitchell: So maybe as an action here.
+
+297
+00:42:27.720 --> 00:42:41.580
+John Mertic: kip would be to maybe, you know, we can. I can help you coordinate some calls here or you know setting meetings with interested parties and part of that you could put together at least a little bit of the Charter of what the working group would be and then sort of come back to
+
+298
+00:42:41.580 --> 00:42:42.960
+John Mertic: The tack at that point with that makes
+
+299
+00:42:42.960 --> 00:42:47.010
+Kip Twitchell: Sense. Yeah, I could do that. But JOHN Let me just react here. Oh, sure.
+
+300
+00:42:48.390 --> 00:42:58.110
+Kip Twitchell: That the you know the original death of the mainframe by one prognosticator was made it. He said it was gonna be turned off on
+
+301
+00:42:59.460 --> 00:43:07.710
+Kip Twitchell: March 15 1996 well let's do something for March 15 2021 25 years later.
+
+302
+00:43:08.940 --> 00:43:13.500
+Kip Twitchell: So let's do the working group for a couple months. And let's make our March meeting.
+
+303
+00:43:14.130 --> 00:43:28.230
+Kip Twitchell: Have incubation project for how we're going to go solve this issue. Anyway, that's just an idea to put some energy behind it. We can do something to celebrate the continuing life of mainframe. And there's a lot here.
+
+304
+00:43:28.680 --> 00:43:29.940
+What was the date of that, by the way.
+
+305
+00:43:31.200 --> 00:43:42.930
+Kip Twitchell: It was March 15 1996 I'll Stewart Alsop predicted in 1993 the blast mainframe is going to be turned off and info world.
+
+306
+00:43:44.880 --> 00:43:51.060
+Kip Twitchell: And an info world addition I have that on my blog entry didn't choose march 15 because of
+
+307
+00:43:51.120 --> 00:43:54.990
+Peter Fandel: The day there was assassinated. I, I think it was an arbitrary
+
+308
+00:43:55.050 --> 00:44:05.010
+Kip Twitchell: Date. It was part of a panel discussion. And unfortunately, I'd like to get I'd like to have an interview with the guy because he probably made a lot of other predictions. The word good
+
+309
+00:44:05.580 --> 00:44:22.560
+Kip Twitchell: Unfortunately, his Wikipedia page only remember one of his career, and that was this decision this this announcement spur the moment right let's get him on on something, talk to him about that date and celebrate him in some way to say, man, I was wrong, the mainframe is continuing to live.
+
+310
+00:44:23.730 --> 00:44:25.440
+Len Santalucia: Like a symbolism, I
+
+311
+00:44:25.620 --> 00:44:25.980
+Len Santalucia: You know,
+
+312
+00:44:26.040 --> 00:44:27.570
+Len Santalucia: We could almost call this project, the
+
+313
+00:44:27.570 --> 00:44:28.140
+Phoenix.
+
+314
+00:44:29.850 --> 00:44:36.870
+John Mertic: I mean, it's actually good because we are looking for a time to do our Q1 momentum announcement. So now you've given us a date kip that's
+
+315
+00:44:36.870 --> 00:44:38.640
+Kip Twitchell: Great al
+
+316
+00:44:38.700 --> 00:44:47.520
+Len Santalucia: L asap was also found in another article eating his words off the plate with a fork and spoon and play.
+
+317
+00:44:49.140 --> 00:44:56.580
+Len Santalucia: A little short time afterwards when they when he finally found out the mainframes weren't going away, like you said on the date.
+
+318
+00:44:57.750 --> 00:44:58.230
+Kip Twitchell: So,
+
+319
+00:44:59.070 --> 00:45:02.700
+Matt Hogstrom: Here I've seen that he actually looks like junk le
+
+320
+00:45:03.960 --> 00:45:04.140
+Matt Hogstrom: In
+
+321
+00:45:05.820 --> 00:45:15.090
+Kip Twitchell: The 25 year anniversary, we should be doing something around while this is not going. This is not dying. This is living for a lot of years to come.
+
+322
+00:45:16.080 --> 00:45:16.650
+John Mertic: Like that.
+
+323
+00:45:18.120 --> 00:45:21.600
+John Mertic: So maybe we can get going and and I don't know if next week.
+
+324
+00:45:21.600 --> 00:45:23.430
+Kip Twitchell: Is is a good timing.
+
+325
+00:45:23.490 --> 00:45:25.200
+John Mertic: I can maybe get a doodle out today.
+
+326
+00:45:26.070 --> 00:45:39.900
+John Mertic: To the open to the everyone in the NP technical list. And if you're interested in participating, you know, provide your availability and we can schedule it for next week. Does that is that time, good for timing kept moving forward.
+
+327
+00:45:39.960 --> 00:45:43.380
+Kip Twitchell: Yeah, I'm, I'm ready to go. Okay, awesome.
+
+328
+00:45:45.810 --> 00:45:54.270
+John Mertic: Awesome. Well, we will do that. Thank you so much for kicking us off. This is obviously a huge need in this community for a while and appreciate your leadership.
+
+329
+00:45:58.560 --> 00:46:09.780
+John Mertic: Next on the agenda. This is some more of just updates. Um, there's the discussion of the Debian S3 90 X support a it
+
+330
+00:46:10.620 --> 00:46:13.440
+Len Santalucia: I've not seen, too.
+
+331
+00:46:13.470 --> 00:46:21.300
+John Mertic: Much movement here outside of the discussion in the last call. I don't know Ingo maybe, I don't know if you have any insight to where some of the stands.
+
+332
+00:46:23.580 --> 00:46:25.470
+Ingo Adlung: And could you please repeat I'm
+
+333
+00:46:25.590 --> 00:46:29.010
+John Mertic: Oh, my apologies. The Debbie and S3 90 X support.
+
+334
+00:46:29.700 --> 00:46:30.240
+No.
+
+335
+00:46:32.070 --> 00:46:33.870
+Ingo Adlung: We had been had been
+
+336
+00:46:34.950 --> 00:46:38.160
+Ingo Adlung: Looking for back for feedback from the from
+
+337
+00:46:39.900 --> 00:46:41.640
+Ingo Adlung: Canonical exec.
+
+338
+00:46:46.110 --> 00:46:46.290
+Ingo Adlung: If
+
+339
+00:46:46.980 --> 00:46:49.830
+Ingo Adlung: There was any response have you seen any
+
+340
+00:46:50.100 --> 00:46:54.150
+John Mertic: I haven't, I haven't on my notes to I have a reminder to check in.
+
+341
+00:46:54.810 --> 00:46:56.580
+John Mertic: On that thread. So maybe I'll poke at that
+
+342
+00:46:56.580 --> 00:46:59.370
+Kip Twitchell: Thread as well and see what's going on. So,
+
+343
+00:46:59.430 --> 00:47:00.960
+phil tully: Yeah, I didn't, I didn't see any
+
+344
+00:47:01.020 --> 00:47:02.340
+phil tully: Emails either so
+
+345
+00:47:05.190 --> 00:47:06.540
+phil tully: The day after that last meeting.
+
+346
+00:47:07.200 --> 00:47:07.500
+John Mertic: Okay.
+
+347
+00:47:07.950 --> 00:47:10.770
+John Mertic: Well, I will poke at the thread then and see what's going on.
+
+348
+00:47:13.830 --> 00:47:16.830
+John Mertic: Uh, next on the list is tears decompress
+
+349
+00:47:16.860 --> 00:47:17.460
+Len Santalucia: So,
+
+350
+00:47:17.520 --> 00:47:21.840
+John Mertic: The good news is from speaking. I just got an email from
+
+351
+00:47:22.710 --> 00:47:25.530
+John Mertic: Andrew, I think it was yesterday. Maybe the day
+
+352
+00:47:25.530 --> 00:47:28.470
+John Mertic: Before that he is interested in taking over this project.
+
+353
+00:47:29.910 --> 00:47:35.040
+John Mertic: And he's agreed to be the maintainer. And so we're going to work to help provide him.
+
+354
+00:47:36.360 --> 00:47:43.950
+John Mertic: All of the maintainer access to the code. He's done a lot of work already. So a lot of his work. He just went to upstream and he has some ideas to drive it forward.
+
+355
+00:47:45.270 --> 00:47:55.560
+John Mertic: Andrew is based in Australia, so I don't believe he's on the call today. I know this was sort of one of the questions on renewing the incubation. I don't know if the tack at this
+
+356
+00:47:55.560 --> 00:47:57.330
+John Mertic: Point. There's a maintainer would want to
+
+357
+00:47:57.360 --> 00:47:59.730
+John Mertic: renew the incubation. At this point, or would want to
+
+358
+00:48:00.270 --> 00:48:01.200
+John Mertic: You know wait until
+
+359
+00:48:01.260 --> 00:48:05.070
+John Mertic: A little bit of motion has happened after Andrew takes over.
+
+360
+00:48:06.690 --> 00:48:08.310
+Matt Hogstrom: Just a quick question, though. Yeah.
+
+361
+00:48:08.430 --> 00:48:10.530
+Matt Hogstrom: In a non voting member but is my input.
+
+362
+00:48:10.920 --> 00:48:20.940
+Matt Hogstrom: How many candidates have been actually made for that project was originally moved over because this last time I looked at it, it had been moved and there hasn't been any activity.
+
+363
+00:48:21.300 --> 00:48:31.500
+John Mertic: Exactly. That's this is sort of with the, the group had been sort of wrestling with is that same concern that it came in and then it, it kind of fell off the vine.
+
+364
+00:48:33.660 --> 00:48:40.560
+John Mertic: And this is actually where it was about ready to find its way into an emeritus status.
+
+365
+00:48:41.010 --> 00:48:52.170
+John Mertic: And then there was someone from the community that had rose up and said that they had done some work on it and they were potentially wanting to see if they could upstream pieces of it and and that's sort of where the conversation started.
+
+366
+00:48:52.260 --> 00:49:02.550
+John Mertic: Of, you know if if that individual which was Andrew would want to consider taking over the maintainer ship and I know Ingo it connected some resources with him the background.
+
+367
+00:49:04.110 --> 00:49:05.970
+John Mertic: Which was helpful to a degree.
+
+368
+00:49:07.140 --> 00:49:19.740
+John Mertic: It's that's where it's at. But I guess the answer to your main question is outside of the initial commits, there really hasn't been but then we saw this individual raise up in the community and looking to do some additional work on here.
+
+369
+00:49:21.330 --> 00:49:27.780
+Gregory MacKinnon: It is it is it possible like to sort of defer that you know renewal commitment until we see whether there is, you know, a sort of a
+
+370
+00:49:29.190 --> 00:49:31.620
+Gregory MacKinnon: New infusion of energy here from
+
+371
+00:49:31.650 --> 00:49:38.850
+John Mertic: Absolutely. Yeah, absolutely. Absolutely. I was just more raising it, it just if the tack wanted to make a decision, but that's that's certainly within the tax.
+
+372
+00:49:39.120 --> 00:49:41.610
+phil tully: Asked, I don't think, I don't think we want to
+
+373
+00:49:44.400 --> 00:49:48.360
+phil tully: Especially since we have to wait till he really takes over control.
+
+374
+00:49:48.870 --> 00:49:49.860
+Gregory MacKinnon: Yeah yeah
+
+375
+00:49:51.180 --> 00:49:51.360
+phil tully: Yeah.
+
+376
+00:49:54.300 --> 00:49:55.410
+John Mertic: I think it's pretty reasonable.
+
+377
+00:49:55.740 --> 00:49:55.980
+Yeah.
+
+378
+00:49:57.390 --> 00:49:57.840
+Gregory MacKinnon: I think so.
+
+379
+00:50:02.760 --> 00:50:04.230
+Matt Hogstrom: I don't know who Andrew is
+
+380
+00:50:05.400 --> 00:50:07.530
+Matt Hogstrom: Is, is he a fellow member
+
+381
+00:50:09.120 --> 00:50:09.450
+Matt Hogstrom: Four.
+
+382
+00:50:10.770 --> 00:50:24.870
+John Mertic: I'm Andrew. So, his name is Andrew. Andrew Raleigh. He is with I'd have to look at my email. He's with a group and Australia.
+
+383
+00:50:27.660 --> 00:50:31.800
+John Mertic: Good. If you have any more background, other than what I shared blackmail software.
+
+384
+00:50:33.420 --> 00:50:46.590
+John Mertic: So I think it's a kind of a small outfit I think based out of Australia. I don't have any additional background on him personally. Other than that, other than he had reached out to the project to potentially upstream some code.
+
+385
+00:50:47.250 --> 00:50:56.130
+Ingo Adlung: Because he was already in Australia that that explains that he did that stuff that he didn't attend any any meetings that I scheduled
+
+386
+00:50:57.390 --> 00:51:02.010
+Ingo Adlung: But he didn't. He didn't remind me. That's, that's just was sitting in the middle of his night or so.
+
+387
+00:51:04.770 --> 00:51:12.870
+Ingo Adlung: He should he should have connected with us going the other way over, over the pond instead
+
+388
+00:51:14.130 --> 00:51:14.970
+John Mertic: Okay, yeah.
+
+389
+00:51:15.090 --> 00:51:15.720
+John Mertic: Well, here's the
+
+390
+00:51:15.780 --> 00:51:18.450
+John Mertic: Website here just of the organization. He's with
+
+391
+00:51:20.460 --> 00:51:23.100
+Matt Hogstrom: Okay, so I just my my two cents.
+
+392
+00:51:24.180 --> 00:51:45.810
+Matt Hogstrom: Is I'm reminded of a node project that got it was kind of done. It's used in software all over the world and the originator updated quite some time. And some guy offered to maintain it. And the guy said here gave him right access and over client. He deployed a bitcoin wallet fighter.
+
+393
+00:51:47.130 --> 00:51:55.110
+Matt Hogstrom: That got deployed worldwide. It was basically all malicious code. I'm not saying Andrews and malicious guy, but I think
+
+394
+00:51:55.920 --> 00:52:07.290
+Matt Hogstrom: Someone needs to be paired with him to. You don't just get a sense of who he is and what changes are going in, etc. So that we maintain kind of our due diligence in terms of quality of awkward.
+
+395
+00:52:08.280 --> 00:52:14.790
+John Mertic: Absolutely, yeah. I mean, typically all the incubation projects. Do you have a sponsor from the tack that is involved.
+
+396
+00:52:15.540 --> 00:52:17.220
+John Mertic: With each of the projects so
+
+397
+00:52:18.090 --> 00:52:22.890
+John Mertic: I don't know if if somebody went to, you know, step for me, engage in that regard.
+
+398
+00:52:42.570 --> 00:52:52.170
+John Mertic: And i don't know i i know the timezone situation doesn't work out great for you in Go. But I know you might have some of the better connections. I know you've already been on threads with him.
+
+399
+00:52:52.950 --> 00:53:03.780
+Ingo Adlung: Oh, Australia, it's not a problem. Actually, I can, I can do easily in the morning, my morning hours and it's done. The afternoon in Australia. It's, it's, it's only more challenging to get
+
+400
+00:53:04.200 --> 00:53:07.620
+Ingo Adlung: The US, Australia and Europe is in the middle.
+
+401
+00:53:08.340 --> 00:53:09.690
+John Mertic: Oh, got it, got it. Okay.
+
+402
+00:53:11.490 --> 00:53:18.240
+John Mertic: Well Ingo, would you mind working with Andrew and just kind of sort of being eyes and ears of the tack on this one.
+
+403
+00:53:20.640 --> 00:53:23.640
+Ingo Adlung: Yeah, I can do so. OK. That'd be great.
+
+404
+00:53:36.300 --> 00:53:40.140
+John Mertic: And hopefully, this doesn't turn into a bitcoin network.
+
+405
+00:53:43.980 --> 00:53:47.760
+Matt Hogstrom: Comment on him. I just since we were using so much note and Zoe.
+
+406
+00:53:48.090 --> 00:53:56.400
+Matt Hogstrom: Yeah, as a real huge concern of ours to ensure that all packages that we had were, you know, properly vetted, etc. And I think that
+
+407
+00:53:57.600 --> 00:54:03.960
+Matt Hogstrom: I can actually find a link to an article about it. If you guys aren't familiar with it, but it was was incredibly disruptive to
+
+408
+00:54:04.530 --> 00:54:05.280
+John Mertic: The local community.
+
+409
+00:54:06.360 --> 00:54:07.140
+John Mertic: Yep, definitely.
+
+410
+00:54:07.290 --> 00:54:09.270
+Bob Dahlberg (VCU): It was a great anecdotal example.
+
+411
+00:54:10.290 --> 00:54:10.860
+John Mertic: Yes.
+
+412
+00:54:12.390 --> 00:54:16.680
+Matt Hogstrom: Well, you can rely on me Bob to always come up with the most bizarre areas.
+
+413
+00:54:20.250 --> 00:54:21.990
+Bob Dahlberg (VCU): Next, you can find the article.
+
+414
+00:54:22.050 --> 00:54:24.180
+Bob Dahlberg (VCU): Man, I'd really like to read it.
+
+415
+00:54:24.420 --> 00:54:24.690
+Maybe
+
+416
+00:54:26.130 --> 00:54:27.630
+Bob Dahlberg (VCU): I'll show it to my students to
+
+417
+00:54:28.290 --> 00:54:32.070
+Kip Twitchell: Show them the pitfalls of open source sometimes
+
+418
+00:54:33.120 --> 00:54:33.660
+I hope
+
+419
+00:54:35.100 --> 00:54:38.730
+John Mertic: I hope that project that didn't have a CI best practices badger else that broke the
+
+420
+00:54:38.730 --> 00:54:38.970
+Host
+
+421
+00:54:42.840 --> 00:54:43.710
+Matt Hogstrom: Will find out
+
+422
+00:54:43.950 --> 00:54:44.550
+Yes.
+
+423
+00:54:46.170 --> 00:54:48.300
+John Mertic: Last meet item on the agenda, we go to some project.
+
+424
+00:54:48.300 --> 00:54:50.550
+John Mertic: Updates on the enabling GitHub actions for own
+
+425
+00:54:50.550 --> 00:55:01.080
+John Mertic: P hosted projects, the one big hang up. I think that was on here from before was the ability to
+
+426
+00:55:02.490 --> 00:55:04.560
+John Mertic: Leverage the GitHub secrets.
+
+427
+00:55:05.580 --> 00:55:18.150
+John Mertic: As a part of a pull requests coming from a fork, and I believe we tracked down a fixed to that and communicated that out to the fail long team.
+
+428
+00:55:18.840 --> 00:55:26.160
+John Mertic: And I think from I understand that was one of the last blockers, at least in the GitHub actions point. But I also know Mike in
+
+429
+00:55:26.850 --> 00:55:35.640
+John Mertic: My present acre and kip I know both of your projects have been using this to a degree, don't see Jerry on the line. I don't know if you have any updates on where any this stands
+
+430
+00:55:37.710 --> 00:55:38.370
+Mike Friesenegger: I just
+
+431
+00:55:40.260 --> 00:55:48.780
+Mike Friesenegger: And I don't as well. Either the person within failing project DOESN'T JOIN didn't join today, so I don't have an uptick but I'll send them an email.
+
+432
+00:55:49.320 --> 00:56:00.840
+John Mertic: Okay, yeah, it would be good just to see a little bit where we're at. And maybe I can, we can help sort of close the loop and even get a little bit of a documentation together for other projects that might be looking down the same path.
+
+433
+00:56:05.100 --> 00:56:16.440
+John Mertic: So last but certainly not least is around a pot project updates. We have about a little over 10 minutes or so left here. Maybe we could do just a quick around the room here.
+
+434
+00:56:17.640 --> 00:56:22.560
+John Mertic: Will start in the incubation and start with the a's and B2C. Is there any I'd see Joe is on the line.
+
+435
+00:56:22.980 --> 00:56:25.350
+Joe Bostian: Yeah. Um, so we
+
+436
+00:56:26.430 --> 00:56:38.580
+Joe Bostian: We only had one TASC meeting in November, for the project at that one. We accepted a new a new proposed sub project.
+
+437
+00:56:39.600 --> 00:56:41.070
+Joe Bostian: To do some work.
+
+438
+00:56:42.300 --> 00:56:58.800
+Joe Bostian: To to map control blocks using Markup Language. Um, I just created a repository for that recently and there's going to be a pull request for that soon. So we'll see some code that that comes into the project for that on the horizon. There's a new tool.
+
+439
+00:56:59.310 --> 00:57:03.480
+Joe Bostian: that someone's going to propose it the next meeting about
+
+440
+00:57:04.200 --> 00:57:17.820
+Joe Bostian: That's oriented around handling bite order problems and source code. So I look forward to seeing you know what that's all about and how that works. So, and that's kind of the activity and in the project for that.
+
+441
+00:57:19.350 --> 00:57:24.750
+John Mertic: Awesome. That's awesome. That sounds like some things are coming together there. Any questions for anybody that
+
+442
+00:57:27.450 --> 00:57:32.880
+Matt Hogstrom: Is part of what you said, Joe, just go to the Google doc and add your update their fantastic
+
+443
+00:57:33.450 --> 00:57:33.720
+Okay.
+
+444
+00:57:37.980 --> 00:57:51.810
+John Mertic: Right, we don't have anyone from the Adam project on the line. I don't believe we have anybody from the CB T tape project on the line, either a. Do we have any rep buddy representing the Cabal Programming course.
+
+445
+00:57:59.250 --> 00:58:05.640
+John Mertic: For the education. I know I received an update via email from
+
+446
+00:58:06.810 --> 00:58:11.220
+John Mertic: Lauren Valentini and I can share that with the group as well here.
+
+447
+00:58:12.300 --> 00:58:21.210
+John Mertic: Her note here was that they're moving forward, they've had some productive community meetings and they're working on a Phase one of just sort of topics that are needed.
+
+448
+00:58:22.080 --> 00:58:30.210
+John Mertic: And they're hoping to start sharing these out with the community in the next couple weeks. I know, Bob, you're been a part of those meetings. I don't know if there's anything you wanted to add
+
+449
+00:58:34.680 --> 00:58:36.930
+Bob Dahlberg (VCU): Oh no, where we've been making some headway.
+
+450
+00:58:38.610 --> 00:58:45.480
+Bob Dahlberg (VCU): I've been having problem attending the last couple because read into semester but I'm on the hook for adding those topics to the
+
+451
+00:58:47.010 --> 00:58:51.540
+To get help. So that'll be forthcoming in the next couple of weeks, like you said,
+
+452
+00:58:53.580 --> 00:58:57.570
+We meet weekly so it's it's hopefully now that
+
+453
+00:58:58.620 --> 00:59:01.350
+Bob Dahlberg (VCU): The semester is over. I'll be able to spend a lot more time on
+
+454
+00:59:05.580 --> 00:59:06.330
+John Mertic: Any questions.
+
+455
+00:59:06.390 --> 00:59:06.900
+On that
+
+456
+00:59:09.930 --> 00:59:13.140
+John Mertic: Alright, next is failing Matt or Mike. Sorry.
+
+457
+00:59:13.710 --> 00:59:14.190
+Mike Friesenegger: No problem.
+
+458
+00:59:14.580 --> 00:59:20.490
+Mike Friesenegger: Today, exactly. Hi, everyone. Might freeze an anchor. So we had a fail on call today.
+
+459
+00:59:21.360 --> 00:59:42.540
+Mike Friesenegger: Actually we today was a great day we demonstrated the developer environments. So if I come infinity has donated some of their Z infrastructure and we have to second levels, the VM Southern ones environments guests that are running in there's EBS environment.
+
+460
+00:59:42.930 --> 01:00:00.480
+Mike Friesenegger: And and we have failed long running and interacting with the directory and demonstrated that today. So now it's now let's open up the floodgates and let developers request access and and start being able to commit or
+
+461
+01:00:01.470 --> 01:00:08.700
+Mike Friesenegger: Contribute to the failing project. So that's where we're at. And our next call is really to talk about those next steps of how developers can can
+
+462
+01:00:08.730 --> 01:00:09.810
+Mark K Post: Get involved and
+
+463
+01:00:09.810 --> 01:00:12.300
+Mike Friesenegger: Start utilizing this infrastructure.
+
+464
+01:00:13.860 --> 01:00:17.550
+John Mertic: It's fantastic. It's been a long time coming. I knows that's fantastic to hear
+
+465
+01:00:18.060 --> 01:00:19.170
+Mike Friesenegger: Yes, it is. Thank you.
+
+466
+01:00:20.220 --> 01:00:22.560
+John Mertic: Any questions or comments from the group.
+
+467
+01:00:26.490 --> 01:00:28.230
+John Mertic: Alright, next Geneva ers.
+
+468
+01:00:30.990 --> 01:00:35.100
+Kip Twitchell: I'm going to turn it over to Randall here from our team to do the updates.
+
+469
+01:00:35.580 --> 01:00:36.720
+Kip Twitchell: Oh, thank you. Yeah.
+
+470
+01:00:37.170 --> 01:00:38.130
+Randall Ness: Hi john so
+
+471
+01:00:38.880 --> 01:00:41.430
+Randall Ness: So in the last month. We've had a
+
+472
+01:00:41.490 --> 01:00:45.450
+Randall Ness: Big achievement with our development for our workbench component
+
+473
+01:00:46.080 --> 01:00:58.620
+Randall Ness: We've been able to get that up and working with a Postgres database, which is part of our migration away from IBM centric type tooling like DB too, but over towards more open source type tool.
+
+474
+01:00:58.950 --> 01:01:09.330
+Randall Ness: So that's been a big success and we've now got that working with Postgres on people's individual systems. Now the next step is going to be working with Postgres on a shared system.
+
+475
+01:01:10.170 --> 01:01:21.660
+Randall Ness: But that's working very well, you know, we now currently have attracted five non IBM to our group, which is a good thing for becoming an open source type team.
+
+476
+01:01:22.350 --> 01:01:39.660
+Randall Ness: These are people coming in from various different areas. One of them we met through the open mainframe summit a couple months ago. So that was good and things are progressing well we're getting a good shared environment. So I think we're making good progress.
+
+477
+01:01:40.680 --> 01:01:41.490
+Randall Ness: Fantastic.
+
+478
+01:01:41.520 --> 01:01:42.150
+Randall Ness: That's great news.
+
+479
+01:01:42.180 --> 01:01:45.720
+John Mertic: Great to hear any questions or comments from the group.
+
+480
+01:01:50.370 --> 01:01:50.940
+John Mertic: Excellent.
+
+481
+01:01:51.270 --> 01:01:53.820
+John Mertic: Jerry could not join us today for probably. Secondly, he was
+
+482
+01:01:53.820 --> 01:02:00.990
+John Mertic: Also going to do a demo of some functionality. So we'll have that hopefully on the 14th as well.
+
+483
+01:02:02.370 --> 01:02:07.500
+John Mertic: Software discovery tool. Um, I know Elizabeth out, but I don't know Joe if you have
+
+484
+01:02:07.500 --> 01:02:08.550
+John Mertic: Anything to share their
+
+485
+01:02:08.580 --> 01:02:11.250
+Joe Bostian: Yeah i well i just i noticed this week.
+
+486
+01:02:11.700 --> 01:02:18.900
+Joe Bostian: Usually, well I just noticed this week that we didn't have anything on the calendar for a meeting for that. So I'm going to try to set something up for next week for
+
+487
+01:02:18.900 --> 01:02:19.620
+Randall Ness: Anybody who
+
+488
+01:02:20.430 --> 01:02:21.180
+Randall Ness: Is interested
+
+489
+01:02:21.240 --> 01:02:28.320
+Joe Bostian: But we'll just check point and see what our current statuses and figure out what the next steps are awesome. Awesome. Thank you.
+
+490
+01:02:29.040 --> 01:02:29.580
+Yes.
+
+491
+01:02:32.400 --> 01:02:38.670
+Len Santalucia: Randall Geneva ERS are all your user IDs and passwords all taken care of. Now,
+
+492
+01:02:40.140 --> 01:02:43.950
+Randall Ness: User IDs and passwords are all set for the mainframe system.
+
+493
+01:02:45.060 --> 01:02:46.590
+Len Santalucia: And I get. And I guess also
+
+494
+01:02:46.590 --> 01:02:48.420
+Randall Ness: The VPN ideas as well.
+
+495
+01:02:49.440 --> 01:02:51.840
+Randall Ness: Still waiting on the Linux instance
+
+496
+01:02:56.340 --> 01:02:58.080
+Kip Twitchell: Very helpful when thank you again.
+
+497
+01:02:58.680 --> 01:02:59.610
+Len Santalucia: Oh, you're welcome, guys.
+
+498
+01:03:00.720 --> 01:03:04.440
+Len Santalucia: And just on on behalf of Jerry john
+
+499
+01:03:06.360 --> 01:03:17.610
+Len Santalucia: Jerry had along all getting all of this working. It was quite challenging. But it's all working and that's why you want to demonstrate it today. Jenkins for z.
+
+500
+01:03:18.270 --> 01:03:28.740
+Len Santalucia: Is going to be hot stuff. So he's, he was going to do it today, but he had a work item pop up. So we're pulling piano postponed till next time.
+
+501
+01:03:30.330 --> 01:03:31.530
+Peter Fandel: No worries. I think we're all excited to
+
+502
+01:03:31.530 --> 01:03:33.390
+John Mertic: See that for sure. Yeah, yeah.
+
+503
+01:03:33.930 --> 01:03:35.550
+Len Santalucia: And you know your buddy over at
+
+504
+01:03:36.720 --> 01:03:37.500
+Len Santalucia: Your colleague
+
+505
+01:03:39.030 --> 01:03:39.450
+Len Santalucia: In
+
+506
+01:03:40.950 --> 01:03:41.490
+Len Santalucia: The
+
+507
+01:03:43.140 --> 01:03:47.070
+Len Santalucia: It group at the Linux Foundation at wanted Jenkins. Do you remember his name.
+
+508
+01:03:49.590 --> 01:03:51.300
+Randall Ness: Is
+
+509
+01:03:51.450 --> 01:03:51.780
+John Mertic: Mike
+
+510
+01:03:51.930 --> 01:03:54.330
+Len Santalucia: I know you were on the original. Yeah.
+
+511
+01:03:54.900 --> 01:04:00.570
+John Mertic: It might have been either Andrew Andy Greenberg or Eric
+
+512
+01:04:02.130 --> 01:04:02.880
+John Mertic: One of the two
+
+513
+01:04:04.080 --> 01:04:04.410
+John Mertic: Might have
+
+514
+01:04:06.870 --> 01:04:09.870
+Len Santalucia: Access to it. Yeah, that would be great. I will
+
+515
+01:04:10.050 --> 01:04:12.930
+John Mertic: I will let them know maybe just connect all the dots on an email.
+
+516
+01:04:13.110 --> 01:04:23.910
+Len Santalucia: Thread in case they want to see more. Yeah, that's great, one of the driving factors to getting networking. I don't want to hold you up any more because we're running out of time. Go ahead. No, no worries. No worries. Um,
+
+517
+01:04:24.630 --> 01:04:27.690
+John Mertic: Move forward here we have Alexander from the Tessier
+
+518
+01:04:27.690 --> 01:04:28.530
+John Mertic: Project so
+
+519
+01:04:28.560 --> 01:04:29.940
+Peter Fandel: Outside, are you going to give a quick update
+
+520
+01:04:31.050 --> 01:04:34.380
+Alexander Efremkin: Oh yeah, sure. Um, so we are moving through the
+
+521
+01:04:35.790 --> 01:04:51.360
+Alexander Efremkin: Incubation checklist and trying to find people who would want to represent DCA and steering committees and we also had a little bit of a hiccup for the presentation because for their press release. Sorry.
+
+522
+01:04:52.770 --> 01:04:53.280
+Alexander Efremkin: Because
+
+523
+01:04:55.050 --> 01:05:09.120
+Alexander Efremkin: We are trying to get management approval for the maybe specific audience or even just over that. So I'm not sure how would it go for a press release for these quarter, but I hope that we will resolve that soon enough.
+
+524
+01:05:10.710 --> 01:05:17.910
+John Mertic: I just heard context that we're planning to do our final momentum press release next week.
+
+525
+01:05:19.110 --> 01:05:24.630
+John Mertic: where we'd be announcing Tessie as a project and also some new project members and then
+
+526
+01:05:25.080 --> 01:05:28.980
+John Mertic: Some momentum updates and a few of our projects such as mentorship.
+
+527
+01:05:30.000 --> 01:05:33.390
+John Mertic: And we'll share that out with the technical community directly as well.
+
+528
+01:05:36.390 --> 01:05:41.520
+Ingo Adlung: Hey Alex, this is it goes. So if you've got any any any approval hiccups, just let me know.
+
+529
+01:05:42.540 --> 01:05:43.080
+Alexander Efremkin: Okay, thank you.
+
+530
+01:05:44.370 --> 01:05:49.980
+Len Santalucia: Hey john yeah when you do the newsletter. Are you able to
+
+531
+01:05:54.150 --> 01:05:54.810
+Len Santalucia: State.
+
+532
+01:05:55.860 --> 01:06:02.790
+Len Santalucia: In it, the groups of the projects that are now open for
+
+533
+01:06:04.710 --> 01:06:06.660
+Len Santalucia: Volunteers and contributors and so on.
+
+534
+01:06:09.030 --> 01:06:10.860
+John Mertic: Yeah, we could definitely make calls out
+
+535
+01:06:10.860 --> 01:06:16.350
+John Mertic: For if projects have things that they would want us to share out and we're absolutely happy to
+
+536
+01:06:18.540 --> 01:06:25.380
+Len Santalucia: Okay, so we could ask the Fei long you know Mike here and Randall and Jerry
+
+537
+01:06:26.730 --> 01:06:29.040
+Len Santalucia: To give you some verbiage to
+
+538
+01:06:30.120 --> 01:06:33.120
+Len Santalucia: Put in the newsletter on their behalf or something.
+
+539
+01:06:33.330 --> 01:06:34.530
+John Mertic: Yeah, I'd be happy to.
+
+540
+01:06:35.490 --> 01:06:46.350
+Len Santalucia: Yeah, they, I think that would be a good way to because I think a lot of people are starting to subscribe to that I'm sending a lot of people. That way we are, we have a pretty big subscription.
+
+541
+01:06:46.350 --> 01:06:56.580
+John Mertic: List, and we've got a lot of interest and even people responding to me directly, which is pretty good. So yeah, by all means, if any projects. Do you have plenty to work on that.
+
+542
+01:06:57.390 --> 01:07:06.690
+John Mertic: And have something kind of maybe in the next week timeline. So if you have anything you would want me to include on behalf of one of your projects. I'm happy to do that. It's pretty
+
+543
+01:07:08.400 --> 01:07:09.030
+Len Santalucia: Long Mike
+
+544
+01:07:09.360 --> 01:07:12.270
+Mike Friesenegger: I will. I'm already. Yep, by making a note of it right now.
+
+545
+01:07:13.230 --> 01:07:17.160
+Len Santalucia: Boy, boy, Randall you for Geneva ers.
+
+546
+01:07:22.560 --> 01:07:27.510
+Len Santalucia: Randall Randall. Okay. And I'll talk to Jerry about Polly stuff.
+
+547
+01:07:29.280 --> 01:07:31.020
+John Mertic: That's fantastic. Thank you. And great idea.
+
+548
+01:07:31.950 --> 01:07:32.130
+Hey,
+
+549
+01:07:33.810 --> 01:07:35.370
+Peter Fandel: Quick question, so I'm
+
+550
+01:07:36.420 --> 01:07:36.810
+Ingo Adlung: I'm
+
+551
+01:07:37.140 --> 01:07:39.060
+Peter Fandel: I'm not sure. So if
+
+552
+01:07:39.150 --> 01:07:40.470
+Ingo Adlung: If the announcement.
+
+553
+01:07:41.280 --> 01:08:01.170
+Ingo Adlung: Is something that is an old P announcement. I'm not sure why it would require any IBM legal approval at all it was. I joined a pretty if it was a child announcement, then the guess, I guess it needs to go through the IRB process as well but but if, if, if the geeky open sourcing as
+
+554
+01:08:01.170 --> 01:08:01.860
+Ingo Adlung: Such as
+
+555
+01:08:01.890 --> 01:08:04.560
+Ingo Adlung: It's approved in IBM and it is just about
+
+556
+01:08:05.670 --> 01:08:16.710
+Ingo Adlung: A an announcement text. And I think the team should be able to provide you something on which is then which then requires your approval, but not IBM
+
+557
+01:08:18.030 --> 01:08:24.090
+Alexander Efremkin: Yeah, that is exactly the question that we asked our product owner Holger and
+
+558
+01:08:25.410 --> 01:08:27.000
+Alexander Efremkin: He wasn't really sure that
+
+559
+01:08:27.240 --> 01:08:28.650
+Alexander Efremkin: We can do it, or like
+
+560
+01:08:28.710 --> 01:08:37.350
+Alexander Efremkin: Ourselves. So I wanted to go to upper management and describe like how's it going, Where's it going and what should be done.
+
+561
+01:08:37.830 --> 01:08:41.820
+Ingo Adlung: Yeah, so, so feel free involving me I can help you. Certainly. Yeah.
+
+562
+01:08:41.850 --> 01:08:42.750
+Peter Fandel: Thank you very much. Yeah.
+
+563
+01:08:44.220 --> 01:08:55.470
+John Mertic: Yes, and it is no MP announcement, just like all the normal one. So yeah, if you can help. They're going to be great. I know we're right at the hour here, but maybe one quick a 32nd zero
+
+564
+01:08:55.530 --> 01:08:56.790
+John Mertic: And then maybe a
+
+565
+01:08:57.330 --> 01:08:59.280
+John Mertic: couple seconds mentorship and Zoe.
+
+566
+01:09:02.700 --> 01:09:04.080
+John Mertic: Oh, maybe hearing. If you're on the line.
+
+567
+01:09:05.820 --> 01:09:10.020
+Hiren Shah: Yeah, I wasn't, I wasn't mute side but that so Zoho a new update
+
+568
+01:09:10.590 --> 01:09:14.010
+Hiren Shah: John had a couple of tech meeting, but no show
+
+569
+01:09:14.580 --> 01:09:29.850
+Hiren Shah: So I'm still wondering how we can get the traction on that like polycephalum is is probably another project that that might be related to what we are doing in zero, but I don't have any attendees in my tech meeting. Okay.
+
+570
+01:09:30.270 --> 01:09:32.310
+John Mertic: All right, well, maybe, maybe we can do this a topic.
+
+571
+01:09:33.060 --> 01:09:34.380
+Mark K Post: And try to help out there.
+
+572
+01:09:35.340 --> 01:09:38.670
+John Mertic: I'm Bob, do any quick updates on mentorship.
+
+573
+01:09:39.030 --> 01:09:39.870
+Bob Dahlberg (VCU): Well, actually I got
+
+574
+01:09:40.980 --> 01:09:43.440
+Bob Dahlberg (VCU): Yeah, I do. I need a call for help here too.
+
+575
+01:09:45.180 --> 01:09:47.310
+Bob Dahlberg (VCU): So we're getting ready to start up the
+
+576
+01:09:49.290 --> 01:09:55.980
+Bob Dahlberg (VCU): Organization of the summer internship. One of the things that's going to be different this year is we're going to coordinate the
+
+577
+01:09:55.980 --> 01:09:58.680
+Peter Fandel: Om P mentorship timetables and
+
+578
+01:09:59.010 --> 01:10:06.570
+Bob Dahlberg (VCU): Process to the rest of the Linux Foundation and take advantage of their marketing. So the applications are go out the marketing will be this.
+
+579
+01:10:06.900 --> 01:10:16.290
+Bob Dahlberg (VCU): Go out at the same time, they also have some training for mentees and mentors will take advantage of. And we'll also manage their timelines, which are pretty similar. It's a little shorter.
+
+580
+01:10:16.920 --> 01:10:25.080
+Bob Dahlberg (VCU): The one thing that we want to do this year also that's different is we want to have a brainstorming session sometime in January, I think, January 15
+
+581
+01:10:25.530 --> 01:10:37.050
+Bob Dahlberg (VCU): Has been thrown out. And the idea here is to get projects let let the mentors and mentees potential mentors and mentees kind of discuss different topics.
+
+582
+01:10:38.310 --> 01:10:39.210
+Bob Dahlberg (VCU): To come up with
+
+583
+01:10:39.270 --> 01:10:41.040
+Peter Fandel: The projects dynamically
+
+584
+01:10:41.100 --> 01:10:41.580
+Peter Fandel: So that
+
+585
+01:10:41.820 --> 01:10:42.630
+Bob Dahlberg (VCU): We get the
+
+586
+01:10:43.200 --> 01:10:50.340
+Bob Dahlberg (VCU): mentors and mentees involved early together and it also as you're doing that she'll be able to figure out what mentees and
+
+587
+01:10:50.490 --> 01:10:51.810
+Kip Twitchell: Mentors work well together.
+
+588
+01:10:52.110 --> 01:10:53.820
+Bob Dahlberg (VCU): So what I'm looking for right now.
+
+589
+01:10:54.360 --> 01:11:07.470
+Bob Dahlberg (VCU): And I need this pretty quickly is 10 topics. So for instance, Zoe, or maybe some other topics under Zoe, and I need someone to lead those discussions. So the idea here is we will have a dis an event.
+
+590
+01:11:08.220 --> 01:11:14.820
+Bob Dahlberg (VCU): Brainstorming event and will have ROOMS WHERE WILL are areas where we'll be able to put different people.
+
+591
+01:11:15.840 --> 01:11:26.520
+Bob Dahlberg (VCU): In the different topics, leading the topics and we'll record that so we can then have those for people who can't meet make the event in there. We want to have a short description.
+
+592
+01:11:26.550 --> 01:11:27.990
+Kip Twitchell: Someone to lead the discussion.
+
+593
+01:11:28.080 --> 01:11:29.010
+Kip Twitchell: For that topic.
+
+594
+01:11:29.580 --> 01:11:40.560
+Bob Dahlberg (VCU): Identify, you know, other edge areas where they can get education students can get education in our mentees are like podcasts or videos or readings or sometimes the badges.
+
+595
+01:11:40.560 --> 01:11:41.070
+Peter Fandel: Or anything
+
+596
+01:11:41.580 --> 01:11:42.030
+Kip Twitchell: So,
+
+597
+01:11:42.510 --> 01:11:43.800
+Please, please, if you
+
+598
+01:11:45.150 --> 01:11:58.710
+Bob Dahlberg (VCU): Have ideas for topics. When we can develop projects and then you may have projects that you bring to this thing to as part of the discussion to see if we get mentees and other mentors involved so
+
+599
+01:11:59.160 --> 01:12:04.980
+Matt Hogstrom: What those projects. But Bob and GitHub, or you have a Google Doc or how job.
+
+600
+01:12:05.250 --> 01:12:08.850
+Bob Dahlberg (VCU): I'll tell you what, I will, I will send out a link with
+
+601
+01:12:08.910 --> 01:12:10.320
+Peter Fandel: For Google or
+
+602
+01:12:10.350 --> 01:12:13.740
+Bob Dahlberg (VCU): One of those two after this meeting, so that we can collect that.
+
+603
+01:12:14.790 --> 01:12:16.980
+Bob Dahlberg (VCU): So I'll get that to you.
+
+604
+01:12:18.240 --> 01:12:20.520
+Bob Dahlberg (VCU): Will have access to the Minutes after this to
+
+605
+01:12:21.990 --> 01:12:22.590
+John Mertic: Yes.
+
+606
+01:12:22.710 --> 01:12:23.070
+Bob Dahlberg (VCU): Okay.
+
+607
+01:12:23.430 --> 01:12:25.110
+Bob Dahlberg (VCU): I put that in the medicine.
+
+608
+01:12:26.460 --> 01:12:27.960
+Kip Twitchell: Man Thank you. Awesome.
+
+609
+01:12:28.710 --> 01:12:35.550
+John Mertic: Awesome. Thank you. And if anybody's interested in on the working meetings or 11am Eastern on Monday. Just ping me I can add you to the invite.
+
+610
+01:12:37.980 --> 01:12:39.480
+John Mertic: And I know we're over time here but I
+
+611
+01:12:39.480 --> 01:12:41.490
+Matt Hogstrom: Comment anything that
+
+612
+01:12:43.200 --> 01:12:44.820
+Kip Twitchell: I was just gonna say, I think.
+
+613
+01:12:45.120 --> 01:12:52.620
+Matt Hogstrom: You know, Kip is going to start kicking off this, how do we get things set up to provide some infrastructure, but I think
+
+614
+01:12:53.130 --> 01:13:01.860
+Matt Hogstrom: That could actually be a project. It's not necessarily associated with existing project. Yeah, it's a whole set of work that has to be done. Well, this might be a really good opportunity.
+
+615
+01:13:01.980 --> 01:13:02.550
+Bob Dahlberg (VCU): I think that's
+
+616
+01:13:02.820 --> 01:13:10.110
+Bob Dahlberg (VCU): I think I was thinking the same thing that and actually, it doesn't have to be associated necessarily with projects. So we've had things like Blockchain
+
+617
+01:13:10.650 --> 01:13:11.280
+Matt Hogstrom: Projects.
+
+618
+01:13:11.310 --> 01:13:27.480
+Bob Dahlberg (VCU): And things like that. So anything anyone has a passion for please provide that as a topic. And if you want to leave that that discussion, that'd be great because I, you know, we want to get the students are the mentees and the mentors. Get, get the passion and the
+
+619
+01:13:28.020 --> 01:13:29.580
+Len Santalucia: You know juices flowing
+
+620
+01:13:32.670 --> 01:13:39.510
+Peter Fandel: Alright, so let's first of all let's go over these projects in reverse order. Every, every month, next time we over, you know, a
+
+621
+01:13:41.130 --> 01:13:50.910
+Peter Fandel: Good idea. Thank you. I was gonna. One thing I was gonna say just very quickly on Zoe, is that if you're interested in running Zoe on Docker.
+
+622
+01:13:51.630 --> 01:14:11.400
+Peter Fandel: We do have a pre release version, not in the community build yet, but we are looking for feedback if it runs fine on X86 and Linux on Z not yet on the CX but be looking for for full Docker support in the next quarter or two coming from so
+
+623
+01:14:14.070 --> 01:14:17.520
+John Mertic: Awesome, great news. Great stuff to close on here today.
+
+624
+01:14:19.260 --> 01:14:33.810
+John Mertic: I want to thank everyone for your time today. Sorry. We ran over. I hope you all have a wonderful holiday season and hopefully we're all taking some time off. And I just want to thank the tack and all of you for the amazing work in this community. We just about double the number
+
+625
+01:14:33.810 --> 01:14:35.760
+John Mertic: Of projects, again this year, which is
+
+626
+01:14:35.790 --> 01:14:47.820
+John Mertic: A fantastic achievement. And it's all thanks to the hard work and the everyone in these communities. I just want to thank everyone and I look forward to a great 21 and we'll be back together on the 14th.
+
+627
+01:14:52.200 --> 01:14:52.620
+Len Santalucia: Thank you.
+
+628
+01:14:53.070 --> 01:14:55.470
+Len Santalucia: Happy holidays everybody days.
+
