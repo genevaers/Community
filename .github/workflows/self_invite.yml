@@ -1,0 +1,18 @@
+on:
+  issue_comment:
+    types: [created]
+name: Invite a new collaborator
+
+jobs:
+  build:
+    name: Invite contributor to the Org
+    runs-on: ubuntu-latest     
+    steps:
+    - uses: actions/checkout@master
+    - name: invite-contributor
+      uses: bdougie/invite-based-on-comment@master
+      env:
+        GITHUB_TOKEN: ${{ secrets.GH_SECRET_IBC }}
+        TEAM_ID: 3942911
+        ORG: 'genevaers'
+        SELF_INVITE: false 
