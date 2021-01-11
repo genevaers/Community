@@ -13,6 +13,6 @@ jobs:
       uses: bdougie/invite-based-on-comment@master
       env:
         GITHUB_TOKEN: ${{ secrets.GH_SECRET_IBC }}
-        TEAM_ID: 3942911
+        TEAM_ID: 4418097
         ORG: 'genevaers'
         SELF_INVITE: false 
