@@ -10,7 +10,7 @@ jobs:
     steps:
     - uses: actions/checkout@master
     - name: invite-contributor
-      uses: jmertic/invite-based-on-comment@patch-1
+      uses: bdougie/invite-based-on-comment@master
       env:
         GITHUB_TOKEN: ${{ secrets.GH_SECRET_IBC }}
         TEAM_ID: 4418097
