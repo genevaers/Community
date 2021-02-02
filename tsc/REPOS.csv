@@ -1,12 +1,19 @@
 
-**Repositories**,,,,,,,,,,,,
-Name, Purpose , Abbreviation for Repo,IBM/ Transfer Repo Name,Status,,,,,,,,
-Community,Governance,Com,IBM/IBMSAFR,Active,,,,,,,,
-Spark-POC,Apache Spark and other tool integration,Spark,IBM/IBMSAFR-Spark,Active,,,,,,,,
-gvblib,GenevaERS View Builder Utility Library of functions,gvblib,IBM/IBMSAFR-gvblib,Imported,,,,,,,,
-Resources,Resources and scripts including DDL for WB and JCL for PE,Res,IBM/IBMSAFR-resource,Created,,,,,,,,
-Documentation ,GenevaERS documentation,Doc,,Created,,,,,,,,
-Performance Engine,GenevaERS Performance Engine which resolves GenevaERS Views,PE,,,,,,,,,,
-Run Control ,Performance Engine Run Control Generation GVBMR91,RC,,,,,,,,,,
-Workbench,GenevaERS Workbench in which users define GenevaERS Views,WB,,,,,,,,,,
-TestFramework,GenevaERS Testing Framework,Test,,,,,,,,,,
+**Repositories**,,,,
+Name, Purpose , Abbreviation for Repo,IBM/ Transfer Repo Name,Status
+Community,Governance,Com,IBM/IBMSAFR,Active
+Spark-POC,"Apache Spark and other tool integration, utilized with java and scala capabilitiesies",Spark,IBM/IBMSAFR-Spark,Active
+gvblib,"GenevaERS View Builder Utility Library of functions, contains two utility programs",gvblib,IBM/IBMSAFR-gvblib,Imported
+Resources,Resources and scripts including DDL for WB and JCL for PE. Db2 defintions and Stored procedures for z/OS. Job control samples to build and run Performance Engine,Res,IBM/IBMSAFR-resource,Created
+Documentation ,GenevaERS documentation,Doc,,Created
+Performance Engine,GenevaERS Performance Engine which resolves GenevaERS Views,PE,,
+Run Control ,"Performance Engine Run Control Generation GVBMR91,  this is processing of GenevaERS views prior to running",RC,,
+Workbench,"GenevaERS Workbench in which users define GenevaERS Views, a GUI tool operating in an ECLIPSE IDE.",WB,,
+TestFramework,"GenevaERS Testing Framework, invoke the Perfromance Engine and test a large number of  GenevaERS funcions",Test,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
