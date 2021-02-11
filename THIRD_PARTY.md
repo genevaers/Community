@@ -42,10 +42,7 @@ BIRT 4.4.2
 COMFYJ 2.6		                                                  
 ---->http://www.teamdev.com/comfyj/licensing/
 
-DB2 Connect
---> #Commercial
----> https://www.ibm.com/support/knowledgecenter/en/SSEPGG_10.5.0/com.ibm.db2.luw.apdv.cli.doc/doc/r0024162.html
-used to connect to Db2 running on z/OS
+
 
 ## Performance Engine
 IBM High Level Assembler and Toolkit V1R6M0
