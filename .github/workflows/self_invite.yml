@@ -11,6 +11,7 @@ jobs:
     - uses: actions/checkout@master
     - name: invite-contributor
       uses: jmertic/invite-based-on-comment@patch-1
+      if: contains(github.event.issue.labels.*.name, 'collaborator add')
       env:
         GITHUB_TOKEN: ${{ secrets.GH_SECRET_IBC }}
         TEAM_ID: 4418097
