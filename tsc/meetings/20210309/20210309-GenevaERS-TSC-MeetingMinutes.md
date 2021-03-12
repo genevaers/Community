@@ -7,38 +7,28 @@ https://zoom.us/j/94966206199
 
 Meeting ID: 949 6620 6199
 
-## Attendance
-* Randall Ness
-* Gillian Hannington
-* Ian Cunningham
-* Bob McCormack
-* Kip Twitchell
-* Andrea Orth
-* Sandy Peresie
-* Neil Beesley
- 
-# Minutes
+## Minutes
 
-## Blog Post for OMP
+### Blog Post for OMP
 OMP published a post on Linkedin referencing our blog entry on the Open Mainframe Project site.
 
 [View the Linkedin post](https://www.linkedin.com/posts/the-open-mainframe-project_openmainframe-genevaers-blog-activity-6773285910390849536-cG0h)
 
-## Issue 103 Mission Statement
+### Issue 103 Mission Statement
 
 As part of the LLC process, we need to come up with a mission / vision statement for the GenevaERS project 
 
 "If you had to explain what the project is and its purpose..."
 
 * We add value in batch processing
-* Kip preferred periodic processing to batch processsing
-* Removing unneccsary reads to make it faster 
+* Kip preferred periodic processing to batch processing
+* Removing unnecessary reads to make it faster 
 * Flexible, we automatically "rewrite" the systems
 * High efficiency
 
-Action Iems is to build up the mission statement over the next few weeks
+Action item is to build up the mission statement over the next few weeks
 
-## Issue 105 Automation for adding a new collaborator
+### Issue 105 Automation for adding a new collaborator
 
 There is a GitHub action which allows people to be added as collaborators to the project.
 
@@ -52,7 +42,7 @@ A suggestion is to add a label to the issue with the label triggering the automa
 
 It was decided that we would use a combination of .invite and a label to trigger the automation.
 
-## Issue 99 Password Removal
+### Issue 99 Password Removal
 
 More discussion on this issue has been taking place since the previous TSC meeting.
 
@@ -62,13 +52,13 @@ The workbench would validate that the user is a valid workbench user. The passwo
 
 This approach results in fewer lines of code for Ian to change. 
 
-Machael and Ian have been discussing this and Ian would like to try this approach (Ian was not available for this meeting)
+Michael and Ian have been discussing this and Ian would like to try this approach (Ian was not available for this meeting)
 
 This approach was approved.
 
 Kip placed a summary of the decision in the issue. When Ian is available, he can review the comment and close the issue
 
-## Product Documentation via Gatsby and Markdown
+### Product Documentation via Gatsby and Markdown
 
 Although Ian was not available to demo his proof of concept documentation site, Andrea got the site working locally following Ian's instructions in the poc's GitHub readme file
 
@@ -76,19 +66,19 @@ Andrea did a screen share so others could see the prototype. There is left pane 
 
 Next steps are to find out how much of Ian's work is prototype and if Ian would have to make changes to take the documentation site live
 
-Eugene is working on documentation?????????
+Eugene is working on a job aid documentation that contributors can use when creating new pages
 
-## Issue 71 Update SAFR Wikipedia Page
+### Issue 71 Update SAFR Wikipedia Page
 There is a SAFR page on Wikipedia. Kip looked into the requirements which now exist for pages on Wikipedia.
 
-The standards have tightened substantally since the page for SAFR went up
+The standards have tightened substantially since the page for SAFR went up
 
 The question was, should we create a new GenevaERS page, or update the existing SAFR page to reflect the open source GenevaERS project. Can we do either without triggering the new standards?
 
-## DITA vs Markdown
+### DITA vs Markdown
 In order to create documentation in DITA, someone has to learn DITA and tooling.
 
-DITA can cascade a change thoughout  documentation
+DITA can cascade a change throughout documentation
 
 Learning markdown is much simpler than learning DITA. Since markdown is just text, there are multiple editors one can use to create markdown files
 
