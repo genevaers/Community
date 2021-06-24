@@ -1,0 +1,32 @@
+TSC Meeting Tues 22nd June 2021 2000 hrs Chicago
+
+Chaired: Randall
+
+Attendees
+
+Bob
+Ian
+Sandy
+Gillian
+Neil
+Venkat
+Eugene
+Jeff
+
+Minutes
+Agenda from previous meeting adopted as agenda for current meeting
+Sandy noted activity in kanban board and following points came from that observation
+all the demo views are ready for review
+query was raised about when to capture XML along with capturing output views coupled with querying about 'small' means for data volume
+team felt it was better to await review of views first before proceeding along the capture approach
+some discussion about the number of XMLs being produced from 5 to one. Due the fact that any portion of the XML is tied to the whole, one xml file was decided uon to be the best course
+documentation and report outputs was then raised  after the views being reviewed, discussion flowed about currency and depth of content
+Gillian has a cheat sheet (proto doc) on this doc and capture process, she will update it and pass to Eugene
+Some considerations noted here were
+overall doc to include LR/PF/LR
+captire output reports but document wisely 
+conclusion was to get demo up and running along with minimum documentation to support it
+JCL to run this is in GEBT.DEMO.JCL as separate steps, Bob to supply a one job to combine all steps and notify Neil
+Randall inquired on best place to put installation jobs and documentation  i.e. which repo. It was decided by voices that the executable bundle be in DEMO repo, Workbench executable will be in the WB repo
+Bob to test storing this executable as a package in the DEMO repo.
+Ian provided an explanation on Test Framework works and discussion following noted difference between it and an Installation and Verification test.
