@@ -18,7 +18,7 @@ This is a checklist for TSC's to review as part of the intake process. The TSC s
   - [x] Governamce defined, outlining community roles and how decisions are made
   - [x] Contribution Policy defined ( CONTRIBUTING.md )
   - [x] Code of Conduct defined
-  - [ ] Release methodology defined ( RELEASE.md )
+  - [x] Release methodology defined ( RELEASE.md )
 - New Project Goverance
   - [x] TSC members identified
   - [x] First TSC meeting held
@@ -32,7 +32,7 @@ This is a checklist for TSC's to review as part of the intake process. The TSC s
     - [x] Slack
     - [x] Forums (Determined Not Applicable)
   - [x] Website.  See [GenevaERS](https://genevaers.org)
-  - [ ] CI/build environment
+  - [x] CI/build environment
 - Project assets
   - [x] Domain name	( create [issue on foundation repo] to setup/transfer
 	- [x] Social media accounts	to setup/transfer.  None held.
@@ -42,9 +42,9 @@ This is a checklist for TSC's to review as part of the intake process. The TSC s
   - [x] New project announcement done ( https://github.com/openmainframeproject/foundation/issues/79  See Marketing Section below for steps )
   - [x] Project added to Open Mainframe Project website and Open Mainframe Project landscape
 - Graduation
-  - [ ] CII Badge achieved ( apply at https://bestpractices.coreinfrastructure.org/en )
-  - [ ] Committer Diversity established
-  	- [ ] Add project to [OMP Dev Analytics](https://lfanalytics.io/projects/open-mainframe-project) ( create [issue on foundation repo] to trigger ) (opened issue 9/3/2020)
+  - [x] CII Badge achieved ( apply at https://bestpractices.coreinfrastructure.org/en )
+  - [x] Committer Diversity established
+  	- [x] Add project to [OMP Dev Analytics](https://lfanalytics.io/projects/open-mainframe-project) ( create [issue on foundation repo] to trigger ) (opened issue 9/3/2020)
 	- [x] Commit/Contribution growth during incubation
 	- [x] Committers defined in the project	( [COMMITTERS.csv](COMMITTERS.csv) or [COMMITTERS.yml](COMMITTERS.yml) )
   - [x] TAC representative appointed
@@ -63,12 +63,12 @@ The following are additions to the TSC template from other items for the project
   - [x] Schedule announcement and social promotion ( provide date )
   - [x] Push Landscape entry live ( https://github.com/openmainframeproject/omp-landscape/ )
 - Active Stage Criteria: (from https://github.com/openmainframeproject/tac/blob/master/process/project_stages.md#active-stage)  To graduate from Incubation Stage, or for a new project to join as an Active Stage project, a project must:
-  - [ ] Complete the proposal process plus
+  - [x] Complete the proposal process plus
   - [x] Have committers from at least two organizations.
-  - [ ] Have achieved and maintained a Core Infrastructure Initiative Best Practices Badge.
-  - [ ] Explicitly define a project governance and committer process.
-  - [ ] Have a public list of project adopters for at least the primary repo (e.g., ADOPTERS.md).
-  - [ ] Complete a code licensing scan to ensure licensing is inline with the OMP guidelines
+  - [x] Have achieved and maintained a Core Infrastructure Initiative Best Practices Badge.
+  - [x] Explicitly define a project governance and committer process.
+  - [x] Have a public list of project adopters for at least the primary repo (e.g., ADOPTERS.md).
+  - [x] Complete a code licensing scan to ensure licensing is inline with the OMP guidelines
   - [ ] Elect or appoint a project lead to represent the project on the TAC
   - [ ] Receive a supermajority vote from the TAC to move to accepted stage.
   - [ ] Projects start at the Active Stage if they can demonstrate sufficient maturity. Projects can remain in an Incubation Stage indefinitely, but they are normally expected to move to Active Stage within two years.
