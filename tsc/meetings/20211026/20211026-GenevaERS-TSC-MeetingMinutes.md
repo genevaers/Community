@@ -25,6 +25,7 @@ Kip did a podcast on the OZE effort. He does not know when it will be published
 The PowerPoint documents used for the old training videos has notes containing the text used in the videos. Kip has been trying to export the text, but so far has been unsuccessful
 
 * Randall suggested we use the alternate Tuesday 8 PM US time meetings for documentation instead of a separate Thursday meeting.
+* In addition, Randall suggested we no longer have a separate infrastructure meeting and instead fold infrastructure into our TSC meetings
 
 #### Workbench ####
 * Ian suggested we put a docker image out there for the postgres database. It worked on a Mac and a Windows machine
