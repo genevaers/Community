@@ -11,7 +11,7 @@
 
 # GenevaERS
 
-GenevaERS solves problem of efficiently reporting on large volumes of transactional data. It is a set of software components with previously patented technology embedded, and it may be customized for use with new or existing data extraction and reporting applications. Learn more about [GenevaERS](https://genevaers.org)
+GenevaERS solves problem of efficiently reporting on large volumes of transactional data. It is a set of software components with previously patented technology embedded, and it may be customized for use with new or existing data extraction and reporting applications. Learn more about [GenevaERS](https://genevaers.org) 
 
 ## The Code
 
@@ -37,7 +37,7 @@ You can connect with the community in a variety of ways...
 Anyone can contribute to the GenevaERS project - learn more at [CONTRIBUTING.md](CONTRIBUTING.md)
 
 ## Governance
-GenevaERS is a project hosted by the [Open Mainframe Project](https://openmainframeproject.org). This project has established it's own processes for managing day-to-day processes in the project at [GOVERNANCE.md](GOVERNANCE.md).
+GenevaERS is a project hosted by the [Open Mainframe Project](https://openmainframeproject.org). This project has established it's own processes for managing day-to-day processes in the project at [GOVERNANCE.md](GOVERNANCE.md).  Learn more at the GenevaERS [Charter](https://github.com/openmainframeproject/foundation/blob/main/project_charters/genevaers_charter.pdf)
 
 
 ## Reporting Issues
