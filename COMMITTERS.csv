@@ -1,5 +1,5 @@
 **Committers**,,,,,,,,,,,,,
-Name,Email,GitHub ID,Role,Com,Doc,Utility,Resources,R&D,PE,RC,WB,Test,Demo
+Name,Email,GitHub ID,Role,Com,Doc,Utilities,Resources,R&D,PE,RC,WB,Test,Demo
 Kip Twitchell,kip.twitchell@us.ibm.com,KipTwitchell,TSC Chair,X,X,,,X,,,,,
 Randall Ness,rhness@us.ibm.com,rhness,Solution architect,X,X,,,,X,,,,
 Bob McCormack,bobmcc@au1.ibm.com,bobmcc9,Build lead,X,X,X,X,X,X,X,X,X,X
@@ -8,6 +8,6 @@ Gill Hannington,ghannington2007@gmail.com,ghannington,Performance Engine lead,X,
 Ian Cunningham,blueham60@gmail.com,hammyau,Workbench lead,X,X,,X,,,X,X,X,
 Sandy Peresie,speresie1@yahoo.com,SaPeresi,Integration architect-OSS,X,X,,,X,,,,,
 Neil Beesley,neil.beesley@ibm.com,neilbeesley,R&D Lead,,X,X,,X,X,,,,X
-Jeff Horner,hornjeff@us.ibm.com,jhornert,Integration architect-WB and PE,,X,,,,,X,X,,
+Jeff Horner,hornjeff@us.ibm.com,jhornert,Integration architect-WB and PE,,X,X,,,,X,X,,
 Eugene Morrow,emorrow@au1.ibm.com,emorrow38,Documentation lead,,X,X,,,,,X,,
 John Mertic,,jmertic,OMP Admin,X,X,X,X,X,X,X,X,,
