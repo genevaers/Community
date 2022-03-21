@@ -1,5 +1,5 @@
 
-# Meeting notes TSC March 8, 2022 (US)
+# Meeting notes TSC March 22, 2022 (US)
 
 All interested in GenevaERS development are welcome to join.
 
@@ -11,22 +11,24 @@ https://zoom.us/j/2181293577 Meeting ID: 218 129 3577
 
 ## General Updates 
 
-### Badge Offering
-
-### Mentorship
-
 ## Website Updates
+- New Repo Needed
 
 ## Demo System Status
+- Docker Instance Progress
+- PE Documentation Progress (What the demo does)
 
 ## Documentation
+- Test Repo for Jekyl
 
-## Mew Build Process Progress
+## New Build Process Progress
 
 ## Workbench
 
 ## Performance Engine
 
 ## R&D Work
+- Meeting moved to 1 PM ET
+- Consider a calendar and e-mail list for the group
 
-## Misc
+## Issue Review
