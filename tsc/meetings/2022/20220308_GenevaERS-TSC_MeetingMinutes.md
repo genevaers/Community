@@ -43,7 +43,7 @@ With Gatsby, there's a markdown commit and a second "commit" to get an update pu
 
 Maybe there would be value in creating a second Jekyll site for community updates to documents
 
-## Mew Build Process Progress
+## New Build Process Progress
 Work continues on the new build process. Randall, Bob, and Gill will work on some issues after the TSC meeting. 
 For some modules, Randall would like to maintain a single code base between SAFR and GenevaERS.
 
