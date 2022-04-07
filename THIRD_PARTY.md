@@ -39,10 +39,6 @@ BIRT 4.4.2
 -->EPL                                 
 ---->https://www.eclipse.org/org/documents/epl-v10.php
 
-COMFYJ 2.6		                                                  
----->http://www.teamdev.com/comfyj/licensing/
-
-
 
 ## Performance Engine
 IBM High Level Assembler and Toolkit V1R6M0
