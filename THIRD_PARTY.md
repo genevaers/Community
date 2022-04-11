@@ -24,10 +24,6 @@ Eclipse Nebula 1.1.0
 ---->https://www.eclipse.org/org/documents/epl-v10.php
 
 
-
-
-
-
 ## Performance Engine
 IBM High Level Assembler and Toolkit V1R6M0
 --> #Commercial
