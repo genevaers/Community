@@ -8,24 +8,12 @@ Package (include version)
 -->License (version if applicable)    
 ---->URL for license statement
 
-zlib 1.2.8                  
--->Unique similar to BSD license       
----->http://zlib.net/zlib_license.html
-
 Xml4c 5.7                   
 -->Apache 2.0                          
 ---->https://w3.xml.ibm.com/support/index.html
 
 Xml Toolkit for z/OS, V1.10
 -->Apache 2.0
-
-ANTLR 2.7.7                 
--->Unique similar to BSD license       
----->http://www.antlr.org/license.html
-
-Hashing code                
--->Unique                              
----->http://burtleburtle.net/bob/index.html
 
 Eclipse RCP 4.4.2           
 -->EPL                                 
@@ -34,14 +22,6 @@ Eclipse RCP 4.4.2
 Eclipse Nebula 1.1.0        
 -->EPL                                 
 ---->https://www.eclipse.org/org/documents/epl-v10.php
-
-BIRT 4.4.2                  
--->EPL                                 
----->https://www.eclipse.org/org/documents/epl-v10.php
-
-COMFYJ 2.6		                                                  
----->http://www.teamdev.com/comfyj/licensing/
-
 
 
 ## Performance Engine

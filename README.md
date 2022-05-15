@@ -19,12 +19,12 @@ Try GenevaERS out by using the demo system.  [Access the demo here](https://gene
 
 ## The Code
 
-The team is working hard to release the code base and provide downloadable executables and sample JCL scripting.
+[Download the demo system](https://genevaers.github.io/demo/), and understand better what GenevaERS can do for you.
 
 
 ## Training
 
-Learn how to use GenevaERS with training videos and slides at [GenevaERS Training](https://genevaers.org/training-videos/)
+Learn how to use GenevaERS with from the [documentation](https://github.com/genevaers/doc) or us the training videos and slides at [GenevaERS Training](https://genevaers.org/training-videos/)
 
 ## News and Discussion
 
@@ -32,6 +32,7 @@ See the most recent activity on the project at [GenevaERS Activity](https://gene
 
 You can connect with the community in a variety of ways...
 
+- [How we work](https://genevaers.org/how-we-work/)
 - [GenevaERS mailing list](https://lists.openmainframeproject.org/g/genevaers-discussion)
 - [#GenevaERS channel on Open Mainframe Project Slack](https://slack.openmainframeproject.org)
 - After requesting access with the above link, look for the [GenevaERS channel](https://openmainframeproject.slack.com/archives/C01711931GA) 
