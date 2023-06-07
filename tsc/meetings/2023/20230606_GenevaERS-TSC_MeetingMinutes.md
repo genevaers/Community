@@ -30,3 +30,8 @@ https://zoom-lfx.platform.linuxfoundation.org/meeting/95522057563
 ## Demo
 
 ## R&D Work
+**Neil reports that he has installed GenevaERS at the data center for a potential user.**
+
+## Conferences 
+**Neil reports that we have received some interest from the SHARE organization.**
+
