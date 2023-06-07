@@ -1,4 +1,4 @@
-# Meeting notes TSC 2023-06-06 6pm Pacific Time (US)
+# Meeting notes TSC 2023-06-13 6pm Pacific Time (US)
 
 All interested in GenevaERS development are welcome to join.
 
@@ -9,12 +9,6 @@ All interested in GenevaERS development are welcome to join.
 https://zoom-lfx.platform.linuxfoundation.org/meeting/95522057563
 
 ## Administration
-- The Suggested Development Workflow has been merged into the Community repo.
-- The GUD Contributors Guide has been merged into the Community repo.
-  - Should it be in the Documentation repo instead?   
-    - **Leave it in the Community repo**
-- Should Randall be an approver for the Community repo? 
-- Should Randall approve his own minutes? 
 
 ## Infrastructure
 
@@ -30,8 +24,6 @@ https://zoom-lfx.platform.linuxfoundation.org/meeting/95522057563
 ## Demo
 
 ## R&D Work
-**Neil reports that he has installed GenevaERS at the data center for a potential user.**
 
 ## Conferences 
-**Neil reports that we have received some interest from the SHARE organization.**
 
