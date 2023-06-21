@@ -15,6 +15,11 @@ All interested in GenevaERS development are welcome to join.
 
 ## Administration
 
+## Workbench
+- RTC 22844: Workbench does not generate an error when a constant value is missing
+- RTC 23075: Compare Utility does not show LR differences
+- RTC 23125: Make coding a "Source-Record" view type more user-friendly
+
 ## Performance Engine
 - RTC 22485: Research using a hashing algorithm rather than a binary search tree
   - Until now, all of our in-memory reference file searches have used a binary search tree that is built at MR95 initialization time. 
@@ -38,9 +43,6 @@ All interested in GenevaERS development are welcome to join.
 ## Potential users (who may want support)
 - LPAR now available on Karl's machine.
 - Need read exit for Adabas.
-
-## Workbench
-- Make coding a "Source-Record" view type more user-friendly
 
 ## Demo
 
