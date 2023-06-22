@@ -1,4 +1,4 @@
-# Meeting notes TSC 2023-06-20 6pm Pacific Time (US)
+# Meeting notes TSC 2023-06-27 6pm Pacific Time (US)
 
 All interested in GenevaERS development are welcome to join.
 
@@ -6,20 +6,11 @@ All interested in GenevaERS development are welcome to join.
 
 ### Zoom Meeting
 
-- https://zoom-lfx.platform.linuxfoundation.org/meeting/95522057563
-  - Ask Andrea
-    - When users try this link, they get sent here: 
-      - https://zoom-lfx.platform.linuxfoundation.org/password-required
-    - We think we need to have a link with the password attached 
-      - If so, we should change the link on the https://genevers.org site.  
+https://zoom-lfx.platform.linuxfoundation.org/meeting/95522057563?password=a2cb4656-98bd-4f6e-9d48-2998457acf72
 
 ## Administration
 
 ## Workbench
-- RTC 22844: Workbench does not generate an error when a constant value is missing
-- RTC 23075: Compare Utility does not show LR differences
-- RTC 23125: Make coding a "Source-Record" view type more user-friendly
-  - **Change WE to generate an error and do not activate a view if a Source-Record layout view has columns.**
   
 ## Performance Engine
 - RTC 22485: Research using a hashing algorithm rather than a binary search tree
