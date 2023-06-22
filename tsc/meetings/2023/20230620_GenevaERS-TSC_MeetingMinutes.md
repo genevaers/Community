@@ -17,7 +17,9 @@ All interested in GenevaERS development are welcome to join.
 
 ## Workbench
 - RTC 22844: Workbench does not generate an error when a constant value is missing
+  - **We decided that WE will not check for a constant value. If a value is missing, WE will assign a space to alphanumeric constant and zero to a numeric constant.**
 - RTC 23075: Compare Utility does not show LR differences
+  - **We decided to put this on hold for now.**
 - RTC 23125: Make coding a "Source-Record" view type more user-friendly
   - **Change WE to generate an error and do not activate a view if a Source-Record layout view has columns.**
   
