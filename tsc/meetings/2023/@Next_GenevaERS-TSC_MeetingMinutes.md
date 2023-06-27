@@ -1,17 +1,20 @@
 # Meeting notes TSC 2023-06-27 6pm Pacific Time (US)
-
 All interested in GenevaERS development are welcome to join.
-
 ## Conference call details
-
 ### Zoom Meeting
-
 https://zoom-lfx.platform.linuxfoundation.org/meeting/95522057563?password=a2cb4656-98bd-4f6e-9d48-2998457acf72
-
 ## Administration
-
+- We will not be meeting next week on July 4, as that is the US Independence Day holiday.  
+- What do we want to accomplish before our annual OMP review in August? 
+  - Publish repos  
+    - Performance-Engine 
+    - Performance-Engine-R-and-D
+    - Workbench
+    - Test-Framework
+      - Split out from the current Java repo 
+    - DevOps (PE build process)
+  - Anything else?  
 ## Workbench
-  
 ## Performance Engine
 - RTC 22485: Research using a hashing algorithm rather than a binary search tree
   - Until now, all of our in-memory reference file searches have used a binary search tree that is built at MR95 initialization time. 
