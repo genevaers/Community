@@ -6,12 +6,13 @@ https://zoom-lfx.platform.linuxfoundation.org/meeting/95522057563?password=a2cb4
 ## Administration
 - We will not be meeting next week on July 4, as that is the US Independence Day holiday.  
 - What do we want to accomplish before our annual OMP review in August? 
-  - Publish repos  
-    - Performance-Engine 
-    - Performance-Engine-R-and-D
+  - Publish repos in public GitHub
     - Workbench
     - Test-Framework
       - Split out from the current Java repo 
+    - Run-Control-Utilities
+    - Performance-Engine 
+    - Performance-Engine-R-and-D
     - DevOps (PE build process)
   - Anything else?  
 ## Workbench
