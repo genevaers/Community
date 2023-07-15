@@ -15,11 +15,11 @@ GenevaERS solves problem of efficiently reporting on large volumes of transactio
 
 ## The Demo System
 
-Try GenevaERS out by using the demo system.  [Access the demo here](https://genevaers.github.io/demo/) 
+Try GenevaERS out by using the demo system.  [Access the demo here](https://genevaers.github.io/Demo/) 
 
 ## The Code
 
-[Download the demo system](https://genevaers.github.io/demo/), and understand better what GenevaERS can do for you.
+[Download the demo system](https://genevaers.github.io/Demo/), and understand better what GenevaERS can do for you.
 
 
 ## Training
