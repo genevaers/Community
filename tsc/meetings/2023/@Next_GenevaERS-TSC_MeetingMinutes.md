@@ -1,4 +1,4 @@
-# Meeting notes TSC 2023-07-18 6pm Pacific Time (US)
+# Meeting notes TSC 2023-07-25 6pm Pacific Time (US)
 All interested in GenevaERS development are welcome to join.
 ## Conference call details
 ### Zoom Meeting
@@ -7,23 +7,19 @@ https://zoom-lfx.platform.linuxfoundation.org/meeting/95522057563?password=a2cb4
 - What do we want to accomplish before our annual OMP review in August? 
   - Publish repos in public GitHub
     - Workbench
-    - Test-Framework
-      - Split out from the current Java repo 
-        - **Maybe not.**
-    - Run-Control-Utilities
+    - Run-Control-Apps
     - Performance-Engine 
     - Performance-Engine-R-and-D
     - DevOps (PE build process)
   - Anything else?  
+    - Last year, one of our goals was to get a committer who was not associated with IBM or an IBM client?  
+      - Could we add Karl as a committer?  
+    - Could we mention in our accomplishments that the Workbench can now run on a Mac?  
 ## Infrastructure
-- Should we allow squash merging on our commits to GitHub?  
-  - When merging pull requests, you can allow any combination of merge commits, squashing, or rebasing. At least one option must be enabled. If you have linear history requirement enabled on any protected branch, you must enable squashing or rebasing. 
-  - Allow merge commits 
-    - Add all commits from the head branch to the base branch with a merge commit.
-  - Allow squash merging 
-    - Combine all commits from the head branch into a single commit in the base branch.
-  - **Allow both.**
 ## Workbench
+- Close to being moved to the public GitHub.  
+- RTC 23154: Remove First and Last Record Aggregation Functions
+  - Should we accept or reject this change? 
 ## Performance Engine
 ## Potential users (who may want support)
 ## Demo
