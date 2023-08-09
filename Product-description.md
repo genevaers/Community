@@ -1,4 +1,7 @@
 # Product description
+
+**Handy tip for editing in Markdown: Install the VS Code extensions "Markdown All in One" and "Markdown Preview GitHub Styling.**
+
 ## Option 1
 - What is GenevaERS? 
     - Open-source software for use in the IBM z/OS mainframe environment
@@ -29,3 +32,5 @@
     - Delivers a foundation for improved financial transparency and better decision-making
     - Mitigates audit and reconciliation concerns by tightly integrating reporting with the source data
     - Leverages existing investments in mainframe technology and reduces operating costs
+## Option 3
+GenevaERS solves problem of efficiently reporting on large volumes of transactional data. It is a set of software components with previously patented technology embedded, and it may be customized for use with new or existing data extraction and reporting applications.
