@@ -13,13 +13,21 @@ https://zoom-lfx.platform.linuxfoundation.org/meeting/95522057563?password=a2cb4
 - Neil Beesley 
 - Randall Ness
 ## Administration
+- Annual review approval - waiting on approval via email
+- Annual Review video for GenevaTV in progress
 ## Infrastructure
+The following repos have Dependabot alerts - all are in Genfile.lock
+- User-Documentation
+- Workbench
+- Demo
+- Markdown-Test
 ## Run-Control Apps
 ## Workbench
 ## Performance Engine
 ## Potential users (who may want support)
 ## Demo
 ## Documentation
+- Markdown test static site no longer exists. Is this expected?
 - "A document a week, that's all we ask" 
 ## R&D Work
 ## Conferences 
