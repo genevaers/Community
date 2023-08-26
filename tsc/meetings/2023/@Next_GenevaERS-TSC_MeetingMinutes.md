@@ -15,6 +15,11 @@ https://zoom-lfx.platform.linuxfoundation.org/meeting/95522057563?password=a2cb4
 - Neil Beesley 
 - Randall Ness
 ## Administration
+
+Help manually resolving dependencies stopping Markdown Test build process
+See issue in Markdown-Test repo  
+https://github.com/genevaers/Markdown-Test/issues/58
+
 ## Infrastructure
 ## Run-Control Apps
 ## Workbench
