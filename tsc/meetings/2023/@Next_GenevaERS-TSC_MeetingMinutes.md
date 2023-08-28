@@ -14,6 +14,11 @@ https://zoom-lfx.platform.linuxfoundation.org/meeting/95522057563?password=a2cb4
 - Michael Shapiro
 - Neil Beesley 
 - Randall Ness
+
+## SUSE Linux
+From Mike Friesenegger via Slack
+"I have a couple of options in mind how GenevaERS can get access to SUSE Linux Enterprise Server for testing. I am interested to understand the GenevaERS requirements for testing on a Linux distribution and where the testing takes place"
+
 ## Administration
 
 Help manually resolving dependencies stopping Markdown Test build process
