@@ -25,10 +25,13 @@ Help manually resolving dependencies stopping Markdown Test build process
 See issue in Markdown-Test repo  
 https://github.com/genevaers/Markdown-Test/issues/58
 
+Update WordPress page with new summary of GenevaERS
+
 ## Infrastructure
 ## Run-Control Apps
 ## Workbench
 ## Performance Engine
+- Should we generate Java byte code?
 ## Potential users (who may want support)
 ## Demo
 ## Documentation
