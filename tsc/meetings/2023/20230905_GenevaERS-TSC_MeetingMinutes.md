@@ -1,4 +1,4 @@
-# Meeting notes TSC 2023-09-12 6pm Pacific Time (US)
+# Meeting notes TSC 2023-09-05 6pm Pacific Time (US)
 All interested in GenevaERS development are welcome to join.
 ## Conference call details
 ### Zoom Meeting
@@ -10,7 +10,7 @@ https://zoom-lfx.platform.linuxfoundation.org/meeting/95522057563?password=a2cb4
 - Gillian Hannington 
 - Ian Cunningham 
 <!--- Jeff Horner -->
-- Kip Twitchell 
+<!--- Kip Twitchell -->
 <!--- Michael Shapiro -->
 - Neil Beesley 
 - Randall Ness
