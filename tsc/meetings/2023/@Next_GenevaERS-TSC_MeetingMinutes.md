@@ -4,8 +4,8 @@ All interested in GenevaERS development are welcome to join.
 ### Zoom Meeting
 https://zoom-lfx.platform.linuxfoundation.org/meeting/95522057563?password=a2cb4656-98bd-4f6e-9d48-2998457acf72
 ## Attendees 
-- Andrea Orth
-- Bob McCormack 
+<!-- - Andrea Orth -->
+<!-- - Bob McCormack -->
 <!-- - Eugene Morrow -->
 - Gillian Hannington 
 - Ian Cunningham 
@@ -22,6 +22,7 @@ https://zoom-lfx.platform.linuxfoundation.org/meeting/95522057563?password=a2cb4
 - Kip will work with Mike Friesenegger on SUSE Linux
 ## Infrastructure
 ## Run-Control Apps
+- Training on MR91 configuration options and execution
 ## Workbench
 ## Performance Engine
 - Should we generate Java byte code?
