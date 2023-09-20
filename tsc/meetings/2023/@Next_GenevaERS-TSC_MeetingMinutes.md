@@ -9,7 +9,7 @@ https://zoom-lfx.platform.linuxfoundation.org/meeting/95522057563?password=a2cb4
 <!-- - Eugene Morrow -->
 - Gillian Hannington 
 <!-- - Ian Cunningham -->
-- Jeff Horner
+<!-- - Jeff Horner -->
 <!-- - Kip Twitchell -->  
 - Michael Shapiro
 - Neil Beesley 
@@ -24,7 +24,8 @@ https://zoom-lfx.platform.linuxfoundation.org/meeting/95522057563?password=a2cb4
 ## Run-Control Apps
 ## Workbench
 ## Performance Engine
-- Should we generate Java byte code?
+- Should we generate Java bytecode?
+  - Would that allow us to make GenevaERS multi-platform?   
 ## Potential users (who may want support)
 ## Demo
 ## Documentation
