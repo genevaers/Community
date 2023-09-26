@@ -4,13 +4,13 @@ All interested in GenevaERS development are welcome to join.
 ### Zoom Meeting
 https://zoom-lfx.platform.linuxfoundation.org/meeting/95522057563?password=a2cb4656-98bd-4f6e-9d48-2998457acf72
 ## Attendees 
-<!-- - Andrea Orth -->
+- Andrea Orth
 <!-- - Bob McCormack -->
 <!-- - Eugene Morrow -->
 - Gillian Hannington 
 - Ian Cunningham
 <!-- - Jeff Horner -->
- - Kip Twitchell 
+- Kip Twitchell 
 - Michael Shapiro
 - Neil Beesley 
 - Randall Ness
@@ -31,6 +31,7 @@ https://zoom-lfx.platform.linuxfoundation.org/meeting/95522057563?password=a2cb4
 ## Documentation
 - "A document a week, that's all we ask" 
 ## R&D Work
+- **Work on Liberty - alternative to WebSphere.**
 ## Conferences 
 - Possible presentation at the Winter SHARE conference 
 ## For next time 
