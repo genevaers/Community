@@ -15,6 +15,14 @@ https://zoom-lfx.platform.linuxfoundation.org/meeting/95522057563?password=a2cb4
 - Neil Beesley 
 - Randall Ness
 ## Administration
+
+### TAC 10/12/23
+
+- We need to get move from a passing badge to gold. An issue or project item will be opened on this.
+- FYI, the existing mainframe some project are using will have a period of unavailability due to a data center move
+
+### Misc
+
 - Help manually resolving dependencies stopping Markdown Test build process
   - See issue in Markdown-Test repo  
   - https://github.com/genevaers/Markdown-Test/issues/58
