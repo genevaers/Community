@@ -18,7 +18,7 @@ https://zoom-lfx.platform.linuxfoundation.org/meeting/95522057563?password=a2cb4
 
 ### TAC 10/12/23
 
-- We need to get move from a passing badge to gold. An issue or project item will be opened on this.
+- We need to get move from a passing badge to gold. An issue or project item will be opened on this. Criteria listing for all [OpenSSF badges](https://www.bestpractices.dev/en/criteria)
 - FYI, the existing mainframe some project are using will have a period of unavailability due to a data center move
 
 ### Misc
