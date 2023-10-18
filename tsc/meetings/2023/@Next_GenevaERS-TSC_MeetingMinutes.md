@@ -36,6 +36,13 @@ https://zoom-lfx.platform.linuxfoundation.org/meeting/95522057563?password=a2cb4
 ## Workbench
 ## Performance Engine
 - Alternative to MR88 for GenevaERS V5
+  - **Remove hardcopy reports.**
+  - **Remove multi-level aggregation.**
+  - **Focus on .csv output.**
+  - **Options:**
+    - **Rewrite in Java.**
+    - **Add features to MR95 to support MR88 functionality.**
+    - **Have MR95 output SORT control statements.**
 - MR95 parameters to support table lookups using a hashing algorithm  
 - Java bytecode 
   - What is the minimum possible bytecode program we could develop?
