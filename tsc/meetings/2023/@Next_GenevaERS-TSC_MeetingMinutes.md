@@ -27,7 +27,6 @@ https://zoom-lfx.platform.linuxfoundation.org/meeting/95522057563?password=a2cb4
 - Update WordPress page with new summary of GenevaERS
   - GenevaERS solves problem of efficiently reporting on large volumes of transactional data. It is a set of software components with previously patented technology embedded, and it may be customized for use with new or existing data extraction and reporting applications.
 - Kip will work with Mike Friesenegger on SUSE Linux
-
 ## Infrastructure
 ## Run-Control Apps
 ## Workbench
@@ -47,8 +46,10 @@ https://zoom-lfx.platform.linuxfoundation.org/meeting/95522057563?password=a2cb4
 ## Potential users (who may want support)
 ## Demo
 ## Documentation
+- Technical documentation 
 - "A document a week, that's all we ask" 
 ## R&D Work
+- Byte Buddy 
 - Liberty - open source alternative to WebSphere.
 ## Conferences 
 - Possible presentation at the Winter SHARE conference 
