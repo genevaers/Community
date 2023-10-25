@@ -4,7 +4,7 @@ All interested in GenevaERS development are welcome to join.
 ### Zoom Meeting
 https://zoom-lfx.platform.linuxfoundation.org/meeting/95522057563?password=a2cb4656-98bd-4f6e-9d48-2998457acf72
 ## Attendees 
-- Andrea Orth
+<!-- - Andrea Orth --> 
 <!-- - Bob McCormack -->
 <!-- - Eugene Morrow -->
 - Gillian Hannington
@@ -26,6 +26,7 @@ https://zoom-lfx.platform.linuxfoundation.org/meeting/95522057563?password=a2cb4
   - https://github.com/genevaers/Markdown-Test/issues/58
 - Update WordPress page with new summary of GenevaERS
   - GenevaERS solves problem of efficiently reporting on large volumes of transactional data. It is a set of software components with previously patented technology embedded, and it may be customized for use with new or existing data extraction and reporting applications.
+  - **Done!**
 - Kip will work with Mike Friesenegger on SUSE Linux
 ## Infrastructure
 ## Run-Control Apps
