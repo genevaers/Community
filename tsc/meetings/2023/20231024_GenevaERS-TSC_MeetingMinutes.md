@@ -1,4 +1,4 @@
-# Meeting notes TSC 2023-10-31 6pm Pacific Time (US)
+# Meeting notes TSC 2023-10-24 6pm Pacific Time (US)
 All interested in GenevaERS development are welcome to join.
 ## Conference call details
 ### Zoom Meeting
@@ -24,6 +24,10 @@ https://zoom-lfx.platform.linuxfoundation.org/meeting/95522057563?password=a2cb4
 - Help manually resolving dependencies stopping Markdown Test build process
   - See issue in Markdown-Test repo  
   - https://github.com/genevaers/Markdown-Test/issues/58
+- Update WordPress page with new summary of GenevaERS
+  - GenevaERS solves problem of efficiently reporting on large volumes of transactional data. It is a set of software components with previously patented technology embedded, and it may be customized for use with new or existing data extraction and reporting applications.
+  - **Done!**
+- Kip will work with Mike Friesenegger on SUSE Linux
 ## Infrastructure
 ## Run-Control Apps
 ## Workbench
