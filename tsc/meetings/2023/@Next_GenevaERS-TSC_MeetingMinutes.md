@@ -4,8 +4,8 @@ All interested in GenevaERS development are welcome to join.
 ### Zoom Meeting
 https://zoom-lfx.platform.linuxfoundation.org/meeting/95522057563?password=a2cb4656-98bd-4f6e-9d48-2998457acf72
 ## Attendees 
-<!-- - Andrea Orth --> 
-<!-- - Bob McCormack -->
+- Andrea Orth
+- Bob McCormack 
 <!-- - Eugene Morrow -->
 - Gillian Hannington
 - Ian Cunningham
@@ -27,6 +27,9 @@ https://zoom-lfx.platform.linuxfoundation.org/meeting/95522057563?password=a2cb4
 ## Infrastructure
 ## Run-Control Apps
 ## Workbench
+- If you manually make the LR inactive then the dependent Views and Lookups are made inactive.
+  - Associating or deleting a lookup exit with an LR does not change the state of the LR.
+  - Is this a bug or a change in behavior?  What do we want to do?
 ## Performance Engine
 - Alternative to MR88 for GenevaERS V5
   - Remove hardcopy reports.
@@ -46,6 +49,7 @@ https://zoom-lfx.platform.linuxfoundation.org/meeting/95522057563?password=a2cb4
 - Technical documentation 
 - "A document a week, that's all we ask" 
 ## R&D Work
+- Sort utilities for UNIX 
 - Byte Buddy 
 - Liberty - open source alternative to WebSphere.
 ## Conferences 
