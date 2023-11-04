@@ -1,4 +1,4 @@
-# Meeting notes TSC 2023-10-31 6pm Pacific Time (US)
+# Meeting notes TSC 2023-11-7 6pm Pacific Time (US)
 All interested in GenevaERS development are welcome to join.
 ## Conference call details
 ### Zoom Meeting
@@ -21,6 +21,11 @@ https://zoom-lfx.platform.linuxfoundation.org/meeting/95522057563?password=a2cb4
 - We need to get move from a passing badge to gold. An issue or project item will be opened on this. Criteria listing for all [OpenSSF badges](https://www.bestpractices.dev/en/criteria)
 
 ### Misc
+
+High scan finding [issue 234](https://github.com/genevaers/Community/issues/234)
+
+Before end of year review committers csv and open issues in Community
+
 - Help manually resolving dependencies stopping Markdown Test build process
   - See issue in Markdown-Test repo  
   - https://github.com/genevaers/Markdown-Test/issues/58
