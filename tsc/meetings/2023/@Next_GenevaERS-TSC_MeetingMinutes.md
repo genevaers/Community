@@ -1,4 +1,4 @@
-# Meeting notes TSC 2023-11-07 6pm Pacific Time (US)
+# Meeting notes TSC 2023-11-14 6pm Pacific Time (US)
 All interested in GenevaERS development are welcome to join.
 ## Conference call details
 ### Zoom Meeting
@@ -8,30 +8,17 @@ https://zoom-lfx.platform.linuxfoundation.org/meeting/95522057563?password=a2cb4
 - Bob McCormack 
 <!-- - Eugene Morrow -->
 - Gillian Hannington
-<!-- - Ian Cunningham -->
+- Ian Cunningham
 <!-- - Jeff Horner --> 
 - Kip Twitchell 
 - Michael Shapiro
 - Neil Beesley 
 - Randall Ness
 ## Administration
-
 ### TAC 10/12/23
-
 - We need to get move from a passing badge to gold. An issue or project item will be opened on this. Criteria listing for all [OpenSSF badges](https://www.bestpractices.dev/en/criteria)
-
 ### Misc
-
-High scan finding [issue 234](https://github.com/genevaers/Community/issues/234)
-
 Before end of year review committers csv and open issues in Community
-**This is fixed.**
-- Help manually resolving dependencies stopping Markdown Test build process
-  - See issue in Markdown-Test repo  
-  - https://github.com/genevaers/Markdown-Test/issues/58
-    - Bob has updated this issue. 
-      - Is the solution acceptable?   
-        - **This is fixed.**
 ## Infrastructure
 ## Run-Control Apps
 ## Workbench
@@ -74,7 +61,7 @@ Before end of year review committers csv and open issues in Community
           - In multiple jobs.
           - In multiple steps in a single job. 
           - In a single step, with some driver program calling MR95 once for each view.  
-          - **MR95, running each view as a separate thread in parallel.**
+          - MR95, running each view as a separate thread in parallel.
       - Rather than making one SORT control statement file for each Extract Work File (as is done currently), MR95 would create a separate SORT control statement file for each view.
         - This would allow the key length to be tuned for the view, unlike now, where the key length must be the maximum of all the views in the Extract Work File.  
     - In an initial design, the SORT steps could be standalone, creating a sorted file to be consumed by the subsequent MR95 Format Phase step.  
@@ -84,14 +71,13 @@ Before end of year review committers csv and open issues in Community
         - I suspect that SORT would be more efficient at that.  
         - If we let SORT do the aggregation, then MR95 just reads what it thinks are detail records - no different from now.  
           - Then we're able to use all the features we use now for Extract-Phase views (including read exits, lookup exits, etc.).  
-        - **We may want to perform some actions before aggregation.**
+        - We may want to perform some actions before aggregation.
     - There may be some advantages to retaining our standard Extract Work File format as a file interface between the Extract Phase and the Format Phase.  
       - We can gain efficiencies by ensuring that our CT columns remain in an array at the end of each record. 
         - We can guarantee that each number aligns on a double-word boundary.  (I'm making the assumption that we'll be changing the format to use 16-byte decimal floating point numbers instead of the current 12-byte packed numbers).
         - We could add a standard column for the count of records in each sort break. 
           - Then we could use this to calculate averages.  
-        - **Or, instead, this could be a special accumulator in MR95 that is available for calculations.**
-  - ****
+        - Or, instead, this could be a special accumulator in MR95 that is available for calculations.
 - MR95 parameters to support table lookups using a hashing algorithm  
 - Java bytecode 
   - What is the minimum possible bytecode program we could develop?
