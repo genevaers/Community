@@ -5,7 +5,7 @@ All interested in GenevaERS development are welcome to join.
 https://zoom-lfx.platform.linuxfoundation.org/meeting/95522057563?password=a2cb4656-98bd-4f6e-9d48-2998457acf72
 ## Attendees 
 - Andrea Orth
-- Bob McCormack 
+<!-- - Bob McCormack -->   
 <!-- - Eugene Morrow -->
 - Gillian Hannington
 - Ian Cunningham
@@ -17,11 +17,17 @@ https://zoom-lfx.platform.linuxfoundation.org/meeting/95522057563?password=a2cb4
 ## Administration
 ### TAC 10/12/23
 - We need to get move from a passing badge to gold. An issue or project item will be opened on this. Criteria listing for all [OpenSSF badges](https://www.bestpractices.dev/en/criteria)
+  - How should we proceed here?   
 ### Misc
-Before end of year review committers csv and open issues in Community
+- Before end of year, review the committers .csv and open issues in Community
 ## Infrastructure
 ## Run-Control Apps
 ## Workbench
+## R&D Work
+- Looping in MR95 
+- Sort utilities for UNIX 
+- Byte Buddy 
+- Liberty - open source alternative to WebSphere.
 ## Performance Engine
 - Randall's proposals for the Format Phase in GenevaERS V5
   - Short term 
@@ -87,10 +93,6 @@ Before end of year review committers csv and open issues in Community
 ## Documentation
 - Technical documentation 
 - "A document a week, that's all we ask" 
-## R&D Work
-- Sort utilities for UNIX 
-- Byte Buddy 
-- Liberty - open source alternative to WebSphere.
 ## Conferences 
 - Possible presentation at the Winter SHARE conference 
 ## For next time 
