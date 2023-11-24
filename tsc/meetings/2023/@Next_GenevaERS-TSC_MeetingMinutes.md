@@ -10,7 +10,7 @@ https://zoom-lfx.platform.linuxfoundation.org/meeting/95522057563?password=a2cb4
 - Gillian Hannington
 - Ian Cunningham
 <!-- - Jeff Horner --> 
-<!-- - Kip Twitchell -->
+- Kip Twitchell
 - Michael Shapiro
 - Neil Beesley 
 - Randall Ness
@@ -27,7 +27,6 @@ https://zoom-lfx.platform.linuxfoundation.org/meeting/95522057563?password=a2cb4
           - the diagram of design options for integrating Java into our technology? 
 ## Design
 - AI on mainframe
-- Enhancements to lookups 
 ## Infrastructure
 ## Run-Control Apps
 ## Workbench
@@ -50,3 +49,5 @@ https://zoom-lfx.platform.linuxfoundation.org/meeting/95522057563?password=a2cb4
 ## Conferences 
 - Possible presentation at the Winter SHARE conference 
 ## For next time 
+- Randall will compare MR95 to CICS.  
+- Randall will propose enhancements to lookup logic.  
