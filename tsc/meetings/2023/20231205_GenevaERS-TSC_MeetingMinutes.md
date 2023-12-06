@@ -1,4 +1,4 @@
-# Meeting notes TSC 2023-12-12 6pm Pacific Time (US)
+# Meeting notes TSC 2023-12-05 6pm Pacific Time (US)
 All interested in GenevaERS development are welcome to join.
 ## Conference call details
 ### Zoom Meeting
@@ -24,6 +24,8 @@ https://zoom-lfx.platform.linuxfoundation.org/meeting/95522057563?password=a2cb4
           - the MR95 looping proposal?  
           - the diagram of design options for integrating Java into our technology? 
 ### Project lifecycle procedures
+- **We should have some procedures to manage the issues.**
+- **Someone needs to figure this out!**
 ## Infrastructure
 ## Run-Control Apps
 ## Workbench
