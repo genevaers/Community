@@ -15,6 +15,17 @@ https://zoom-lfx.platform.linuxfoundation.org/meeting/95522057563?password=a2cb4
 - Neil Beesley 
 - Randall Ness
 ## Administration
+
+### Blog article
+
+All project leads need to draft a blog recapping milestones for 2023 and goals for 2024. These will be posted on the Open Mainframe website as well as including some of the content in our annual report. Please have all drafts submitted by December 22.
+
+Question - do we want to revise our 2024 goals? This is what we came up with this past summer:
+
+* Website refresh
+* Use case for document site; "how to solve a business problem with GenevaERS"
+* Continue to add functionality to java MR91, PE, and run control utilities
+
 ### TAC 10/12/23
 - We need to get move from a passing badge to gold. An issue or project item will be opened on this. Criteria listing for all [OpenSSF badges](https://www.bestpractices.dev/en/criteria)
   - How should we proceed here?   
