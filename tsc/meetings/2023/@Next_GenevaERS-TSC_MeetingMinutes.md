@@ -15,6 +15,13 @@ https://zoom-lfx.platform.linuxfoundation.org/meeting/95522057563?password=a2cb4
 - Neil Beesley 
 - Randall Ness
 ## Administration
+
+### End of year blog post
+
+Questions
+- Did anything come out of the offer to try GenevaERS on SUSE?
+- Anything we can add from the existing user who is building GenevaERS for the first time on their machines?
+
 ### TAC 10/12/23
 - We need to get move from a passing badge to gold. An issue or project item will be opened on this. Criteria listing for all [OpenSSF badges](https://www.bestpractices.dev/en/criteria)
   - How should we proceed here?   
