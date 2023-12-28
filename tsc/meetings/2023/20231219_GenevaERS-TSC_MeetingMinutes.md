@@ -1,4 +1,4 @@
-# Meeting notes TSC 2024-01-02 6pm Pacific Time (US)
+# Meeting notes TSC 2023-12-19 6pm Pacific Time (US)
 All interested in GenevaERS development are welcome to join.
 ## Conference call details
 ### Zoom Meeting
@@ -15,7 +15,9 @@ https://zoom-lfx.platform.linuxfoundation.org/meeting/95522057563?password=a2cb4
 - Neil Beesley 
 - Randall Ness
 ## Administration
+- No meeting next week - Dec. 26/27 
 ### End of year blog post
+
 Questions
 - From last week: 
   - Use case for document site; "how to solve a business problem with GenevaERS"
@@ -36,7 +38,11 @@ Questions
 ### Project lifecycle procedures
 ## Infrastructure
 ## Run-Control Apps
+- Do we need the DSNAOINI DD name (ODBC parameters) with Java MR91 (gvbrdg)? 
+- Should we produce "Messages and Codes" documentation for our programs? 
+  - If so, we should continue to use error codes (like GVB12345E) along with error messages in Java MR91 (gvbrdg), as we are doing with GVBMR95, etc.  
 ## Workbench
+- Can we remove the drop-down list box that appears at the bottom of the General Properties tab when the use selects Source-Record Layout (Source-Record Copy)?  
 ## R&D Work
 - Byte Buddy 
 - Liberty - open source alternative to WebSphere.
