@@ -1,4 +1,4 @@
-# Meeting notes TSC 2024-01-02 6pm Pacific Time (US)
+# Meeting notes TSC 2024-01-16 6pm Pacific Time (US)
 All interested in GenevaERS development are welcome to join.
 ## Conference call details
 ### Zoom Meeting
@@ -49,6 +49,7 @@ Questions
 ## Potential users (who may want support)
 ## Demo
 ## Documentation
+- **Goal for 2024: Review and expand documentation.**
 - Technical documentation 
 - "A document a week, that's all we ask" 
 ## Conferences 
