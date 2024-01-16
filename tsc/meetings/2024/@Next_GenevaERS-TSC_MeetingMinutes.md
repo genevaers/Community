@@ -15,29 +15,23 @@ https://zoom-lfx.platform.linuxfoundation.org/meeting/95522057563?password=a2cb4
 - Neil Beesley 
 - Randall Ness
 ## Administration
-### End of year blog post
-Questions
-- From last week: 
-  - Use case for document site; "how to solve a business problem with GenevaERS"
-  - Continue to add functionality to java MR91, PE, and run control utilities
-    - **Gill and Neil will provide more detail.**
-    - **Ian will comment on Java MR91.**
-- Did anything come out of the offer to try GenevaERS on SUSE?
-- Anything we can add from the existing user who is building GenevaERS for the first time on their machines?
-
 ### TAC 10/12/23
 - We need to get move from a passing badge to gold. An issue or project item will be opened on this. Criteria listing for all [OpenSSF badges](https://www.bestpractices.dev/en/criteria)
   - How should we proceed here?   
     - We could create Projects in GitHub.
     - We could create Discussions in GitHub.
         - Kip: Could you create "idea" documents for the following: 
-          - the MR95 looping proposal?  
           - the diagram of design options for integrating Java into our technology? 
 ### Project lifecycle procedures
+## Documentation
+- Gill will give a demo of the new documentation layout. 
+- Randall will work on having Jekyll deal with "include" modules. 
 ## Infrastructure
 ## Run-Control Apps
 ## Workbench
 ## R&D Work
+- Using ADABAS as a data source.  
+- Alternatives to a using a database for metadata
 - Byte Buddy 
 - Liberty - open source alternative to WebSphere.
 ## Performance Engine
