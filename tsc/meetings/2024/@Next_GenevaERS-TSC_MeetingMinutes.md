@@ -15,13 +15,21 @@ https://zoom-lfx.platform.linuxfoundation.org/meeting/95522057563?password=a2cb4
 - Neil Beesley 
 - Randall Ness
 ## Administration
-### TAC 10/12/23
-- We need to get move from a passing badge to gold. An issue or project item will be opened on this. Criteria listing for all [OpenSSF badges](https://www.bestpractices.dev/en/criteria)
-  - How should we proceed here?   
-    - We could create Projects in GitHub.
-    - We could create Discussions in GitHub.
-        - Kip: Could you create "idea" documents for the following: 
-          - the diagram of design options for integrating Java into our technology? 
+
+### Items for focus in 2024
+
+#### The road to gold
+
+John will be emphasizing projects maturation to a gold badge this year.
+[Project board](https://github.com/orgs/genevaers/projects/8/views/2)
+
+#### 2024 goals
+
+- Product Research
+- ADABAS support
+- Changes to MR88
+- Stretch goal of updating documentation to reflect current functionality
+
 ### Project lifecycle procedures
 ## Documentation
 - Gill will give a demo of the new documentation layout. 
