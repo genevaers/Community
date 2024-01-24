@@ -1,4 +1,4 @@
-# Meeting notes TSC 2024-01-23 6pm Pacific Time (US)
+# Meeting notes TSC 2024-01-16 6pm Pacific Time (US)
 All interested in GenevaERS development are welcome to join.
 ## Conference call details
 ### Zoom Meeting
@@ -9,27 +9,21 @@ https://zoom-lfx.platform.linuxfoundation.org/meeting/95522057563?password=a2cb4
 <!-- - Eugene Morrow -->
 - Gillian Hannington
 - Ian Cunningham
-- Jeff Horner
+<!-- - Jeff Horner -->
 - Kip Twitchell
-- Michael Shapiro
+<!-- - Michael Shapiro -->
 - Neil Beesley 
 - Randall Ness
 ## Administration
-
-### Items for focus in 2024
-
-#### The road to gold
-
-John will be emphasizing projects maturation to a gold badge this year.
-[Project board](https://github.com/orgs/genevaers/projects/8/views/2)
-
-#### 2024 goals
-
-- Product Research
-- ADABAS support
-- Changes to MR88
-- Stretch goal of updating documentation to reflect current functionality
-
+### TAC 10/12/23
+- We need to get move from a passing badge to gold. An issue or project item will be opened on this. Criteria listing for all [OpenSSF badges](https://www.bestpractices.dev/en/criteria)
+  - How should we proceed here?   
+    - We could create Projects in GitHub.
+    - We could create Discussions in GitHub.
+        - Kip: Could you create "idea" documents for the following: 
+          - the diagram of design options for integrating Java into our technology? 
+### Marketing 
+- OMP has worked out a deal with IBM for a mainframe. 
 ### Project lifecycle procedures
 ## Documentation
 - Gill will give a demo of the new documentation layout. 
