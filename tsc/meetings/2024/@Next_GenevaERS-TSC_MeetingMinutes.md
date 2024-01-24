@@ -37,6 +37,7 @@ John will be emphasizing projects maturation to a gold badge this year.
 ## Infrastructure
 ## Run-Control Apps
 ## Workbench
+- Using the Contrast tool to check for vulnerabilities.  
 ## R&D Work
 - Using ADABAS as a data source.  
 - Alternatives to a using a database for metadata
