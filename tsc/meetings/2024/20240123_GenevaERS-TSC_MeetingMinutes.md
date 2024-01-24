@@ -1,20 +1,20 @@
-# Meeting notes TSC 2024-01-30 6pm Pacific Time (US)
+# Meeting notes TSC 2024-01-23 6pm Pacific Time (US)
 All interested in GenevaERS development are welcome to join.
 ## Conference call details
 ### Zoom Meeting
 https://zoom-lfx.platform.linuxfoundation.org/meeting/95522057563?password=a2cb4656-98bd-4f6e-9d48-2998457acf72
 ## Attendees 
 - Andrea Orth 
-- Gillian Hannington 
 - Ian Cunningham
-- Jeff Horner 
-- Kip Twitchell 
 - Michael Shapiro
 - Neil Beesley 
 - Randall Ness
 <!-- 
 - Bob McCormack 
 - Eugene Morrow 
+- Gillian Hannington 
+- Jeff Horner 
+- Kip Twitchell 
 -->
 ## Administration
 
@@ -33,13 +33,12 @@ John will be emphasizing projects maturation to a gold badge this year.
 - Stretch goal of updating documentation to reflect current functionality
 
 ### Project lifecycle procedures
-## Documentation
-- **Goal for 2024: Review and expand documentation.**
-- Technical documentation 
-- "A document a week, that's all we ask" 
 ## Infrastructure
 ## Run-Control Apps
 ## Workbench
+- Using the Contrast tool to check for vulnerabilities.  
+  - **Contrast is a licensed product, not for public use.**
+  - **Could maybe use SonarQube or OWASP.**
 ## R&D Work
 - Using ADABAS as a data source.  
 - Alternatives to a using a database for metadata
@@ -53,6 +52,10 @@ John will be emphasizing projects maturation to a gold badge this year.
     - "HELLO WORLD"
 ## Potential users (who may want support)
 ## Demo
+## Documentation
+- **Goal for 2024: Review and expand documentation.**
+- Technical documentation 
+- "A document a week, that's all we ask" 
 ## Conferences 
 - Possible presentation at the Winter SHARE conference 
 ## For next time 
