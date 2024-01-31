@@ -1,4 +1,4 @@
-# Meeting notes TSC 2024-02-06 6pm Pacific Time (US)
+# Meeting notes TSC 2024-01-30 6pm Pacific Time (US)
 All interested in GenevaERS development are welcome to join.
 ## Conference call details
 ### Zoom Meeting
@@ -24,12 +24,10 @@ https://zoom-lfx.platform.linuxfoundation.org/meeting/95522057563?password=a2cb4
 
 John will be emphasizing projects maturation to a gold badge this year.
 [Project board](https://github.com/orgs/genevaers/projects/8/views/2)
-  
-- Tasks from last time: 
-  - Research Jekyll.
-  - Research alt-text descriptions for images.
-  - Flesh out the V5 project plan to use as the Roadmap for the Silver badge.
-  
+- Tasks
+  - **Research Jekyll.**
+  - **Research alt-text descriptions for images.**
+  - **Flesh out the V5 project plan to use as the Roadmap for the Silver badge.**
 #### 2024 goals
 
 - Product Research
@@ -39,10 +37,12 @@ John will be emphasizing projects maturation to a gold badge this year.
 
 ### Project lifecycle procedures
 ## Documentation
-- Goal for 2024: Review and expand documentation.
+- **Goal for 2024: Review and expand documentation.**
 - Technical documentation 
 - "A document a week, that's all we ask" 
 ## Infrastructure
+- OSS installed at Geneva user sites 
+  - **If a user has a Maven repository behind a firewall, they have to allow Maven artifacts to be populated into it.**
 ## Run-Control Apps
 ## Workbench
 ## R&D Work
