@@ -7,7 +7,6 @@ https://zoom-lfx.platform.linuxfoundation.org/meeting/95522057563?password=a2cb4
 - Andrea Orth 
 - Gillian Hannington 
 - Ian Cunningham
-- Jeff Horner 
 - Kip Twitchell 
 - Michael Shapiro
 - Neil Beesley 
@@ -15,6 +14,7 @@ https://zoom-lfx.platform.linuxfoundation.org/meeting/95522057563?password=a2cb4
 <!-- 
 - Bob McCormack 
 - Eugene Morrow 
+- Jeff Horner 
 -->
 ## Administration
 
@@ -24,7 +24,10 @@ https://zoom-lfx.platform.linuxfoundation.org/meeting/95522057563?password=a2cb4
 
 John will be emphasizing projects maturation to a gold badge this year.
 [Project board](https://github.com/orgs/genevaers/projects/8/views/2)
-
+- Tasks
+  - **Research Jekyll.**
+  - **Research alt-text descriptions for images.**
+  - **Flesh out the V5 project plan to use as the Roadmap for the Silver badge.**
 #### 2024 goals
 
 - Product Research
@@ -38,6 +41,8 @@ John will be emphasizing projects maturation to a gold badge this year.
 - Technical documentation 
 - "A document a week, that's all we ask" 
 ## Infrastructure
+- OSS installed at Geneva user sites 
+  - **If a user has a Maven repository behind a firewall, they have to allow Maven artifacts to be populated into it.**
 ## Run-Control Apps
 ## Workbench
 ## R&D Work
