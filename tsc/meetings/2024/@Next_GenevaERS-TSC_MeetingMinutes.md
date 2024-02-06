@@ -40,7 +40,8 @@ John will be emphasizing projects maturation to a gold badge this year.
 ### Project lifecycle procedures
 ## Documentation
 - Goal for 2024: Review and expand documentation.
-- Technical documentation 
+- Documentation demo from Gill.   
+  - User security issues.
 - "A document a week, that's all we ask" 
 ## Infrastructure
 ## Run-Control Apps
