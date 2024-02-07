@@ -1,4 +1,4 @@
-# Meeting notes TSC 2024-02-13 6pm Pacific Time (US)
+# Meeting notes TSC 2024-02-06 6pm Pacific Time (US)
 All interested in GenevaERS development are welcome to join.
 ## Conference call details
 ### Zoom Meeting
@@ -41,6 +41,7 @@ John will be emphasizing projects maturation to a gold badge this year.
 ## Documentation
 - Goal for 2024: Review and expand documentation.
 - Documentation demo from Gill. 
+  - **Gill will merge the changes into the master branch.**  
   - User security issues.
 - "A document a week, that's all we ask" 
 ## Infrastructure
