@@ -4,18 +4,21 @@ All interested in GenevaERS development are welcome to join.
 ### Zoom Meeting
 https://zoom-lfx.platform.linuxfoundation.org/meeting/95522057563?password=a2cb4656-98bd-4f6e-9d48-2998457acf72
 ## Attendees 
+- Andrea Orth 
 - Gillian Hannington 
 - Ian Cunningham
+- Kip Twitchell 
+- Michael Shapiro
 - Neil Beesley 
 - Randall Ness
 <!-- 
-- Andrea Orth 
 - Bob McCormack 
 - Eugene Morrow 
 - Jeff Horner 
-- Kip Twitchell 
-- Michael Shapiro
 -->
+## Workbench
+- Managing log files.  
+
 ## Administration
 
 ### Items for focus in 2024
@@ -45,7 +48,6 @@ John will be emphasizing projects maturation to a gold badge this year.
 - "A document a week, that's all we ask" 
 ## Infrastructure
 ## Run-Control Apps
-## Workbench
 ## R&D Work
 - Using ADABAS as a data source.  
 - Alternatives to a using a database for metadata
