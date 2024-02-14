@@ -1,4 +1,4 @@
-# Meeting notes TSC 2024-02-20 6pm Pacific Time (US)
+# Meeting notes TSC 2024-02-13 6pm Pacific Time (US)
 All interested in GenevaERS development are welcome to join.
 ## Conference call details
 ### Zoom Meeting
@@ -17,6 +17,8 @@ https://zoom-lfx.platform.linuxfoundation.org/meeting/95522057563?password=a2cb4
 - Jeff Horner 
 -->
 ## Workbench
+- **Michael discussed managing log files.**  
+- **Kip discussed the Workbench build process with Maven and Tycho.**
 
 ## Administration
 
@@ -30,18 +32,18 @@ John will be emphasizing projects maturation to a gold badge this year.
 - Tasks from last time: 
   - Research Jekyll.
   - Research alt-text descriptions for images.
-    - Gill researched these and will put it in writing.
+    - **Gill researched these and will put it in writing.**
   - Flesh out the V5 project plan to use as the Roadmap for the Silver badge.
-    - Randall will do this.
-- Password storage
-- Bug reporting process
-  - Andrea will jot some notes down on this.
-- Coding standards
-  - Randall will send assembler coding standards.
-- Installation process
-  - Kip will work on this.
-- Automated test suite
-- New functionality testing
+    - **Randall will do this.**
+- **Password storage**
+- **Bug reporting process**
+  - **Andrea will jot some notes down on this.**
+- **Coding standards**
+  - **Randall will send assembler coding standards.**
+- **Installation process**
+  - **Kip will work on this.**
+- **Automated test suite**
+- **New functionality testing**
   
 #### 2024 goals
 
