@@ -1,10 +1,9 @@
-# Meeting notes TSC 2024-02-27 6pm Pacific Time (US)
+# Meeting notes TSC 2024-02-20 6pm Pacific Time (US)
 All interested in GenevaERS development are welcome to join.
 ## Conference call details
 ### Zoom Meeting
 https://zoom-lfx.platform.linuxfoundation.org/meeting/95522057563?password=a2cb4656-98bd-4f6e-9d48-2998457acf72
 ## Attendees 
-- Andrea Orth 
 - Gillian Hannington 
 - Ian Cunningham
 - Kip Twitchell 
@@ -12,11 +11,14 @@ https://zoom-lfx.platform.linuxfoundation.org/meeting/95522057563?password=a2cb4
 - Neil Beesley 
 - Randall Ness
 <!-- 
+- Andrea Orth 
 - Bob McCormack 
 - Eugene Morrow 
 - Jeff Horner 
 -->
 ## Workbench
+- Build process. 
+  - Move prebuild and postbuild from the POM out to the build script.  
   
 ## Administration
 
