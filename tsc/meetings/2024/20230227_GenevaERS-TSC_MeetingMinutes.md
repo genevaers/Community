@@ -1,4 +1,4 @@
-# Meeting notes TSC 2024-03-05 6pm Pacific Time (US)
+# Meeting notes TSC 2024-02-27 6pm Pacific Time (US)
 All interested in GenevaERS development are welcome to join.
 ## Conference call details
 ### Zoom Meeting
@@ -6,13 +6,13 @@ https://zoom-lfx.platform.linuxfoundation.org/meeting/95522057563?password=a2cb4
 ## Attendees 
 - Andrea Orth 
 - Gillian Hannington 
-- Ian Cunningham
 - Michael Shapiro
 - Neil Beesley 
 - Randall Ness
 <!-- 
 - Bob McCormack 
 - Eugene Morrow 
+- Ian Cunningham
 - Kip Twitchell 
 - Jeff Horner 
 -->
@@ -47,8 +47,10 @@ John will be emphasizing projects maturation to a gold badge this year.
 
 - Product Research
 - ADABAS support
+  - Neil: We now have a way to read ADABAS tables. 
 - Changes to MR88
 - Stretch goal of updating documentation to reflect current functionality
+  - Gill: Doc demo.  
 
 ### Project lifecycle procedures
 ## Documentation
