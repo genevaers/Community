@@ -1,4 +1,4 @@
-# Meeting notes TSC 2024-03-12 6pm Pacific Time (US)
+# Meeting notes TSC 2024-03-05 6pm Pacific Time (US)
 All interested in GenevaERS development are welcome to join.
 ## Conference call details
 ### Zoom Meeting
@@ -7,12 +7,12 @@ https://zoom-lfx.platform.linuxfoundation.org/meeting/95522057563?password=a2cb4
 - Andrea Orth 
 - Gillian Hannington 
 - Ian Cunningham
-- Michael Shapiro
 - Neil Beesley 
 - Randall Ness
 <!-- 
 - Bob McCormack 
 - Eugene Morrow 
+- Michael Shapiro
 - Kip Twitchell 
 - Jeff Horner 
 -->
@@ -26,6 +26,11 @@ https://zoom-lfx.platform.linuxfoundation.org/meeting/95522057563?password=a2cb4
 
 John will be emphasizing projects maturation to a gold badge this year.
 [Project board](https://github.com/orgs/genevaers/projects/8/views/2)
+
+- Andrea has been researching other open-source sites to see how they are fulfilling the Silver Badge requirements. 
+  - We need to suggest first issues.   
+- Ian says we should make clear who has what rights to each repository. 
+
 
 - Tasks from last time: 
   - Research Jekyll.
