@@ -1,4 +1,4 @@
-# Meeting notes TSC 2024-03-19 6pm Pacific Time (US)
+# Meeting notes TSC 2024-03-26 6pm Pacific Time (US)
 All interested in GenevaERS development are welcome to join.
 ## Conference call details
 ### Zoom Meeting
@@ -19,22 +19,6 @@ https://zoom-lfx.platform.linuxfoundation.org/meeting/95522057563?password=a2cb4
 ## Workbench
   
 ## Administration
-
-- Should we replace the information in Committers.csv with the list of GitHub teams and level of access for each repo?
-- As part of project governance, do we want all access to be through a team and not individual access?
-- Thoughts on using automation to clean up old issues?
-
-## OMP meeting updates
-
-- New mainframe will be available in time for summer mentorships
-- [Z/OS Open Tools](https://github.com/ZOSOpenTools) project presented at TAC. Vote via email to add the project under OMP 
-
-### Conferences
-
-- Open Mainframe Summit again partners with the [FINOS](https://www.finos.org/) conference in New York 9/30 - 10/1.
-- There is also a conference in London 6/26 - London Finance Forum
-- OMP will be reaching out to FINOS member companies trying to get their mainframers invited to FINOS on behalf of OMP
-- OMP looking for 3 more sponsors for the Open Mainframe Summit
 
 ### Items for focus in 2024
 
@@ -89,8 +73,11 @@ Project checkin with John is the morning of 4/15 (US time)
     - "HELLO WORLD"
 ## Potential users (who may want support)
 ## Demo
-## Conferences 
-- Possible presentation at the Winter SHARE conference 
+## Conferences
+
+- Open Mainframe Summit again partners with the [FINOS](https://www.finos.org/) conference in New York 9/30 - 10/1.
+- There is also a conference in London 6/26 - London Finance Forum
+
 ## For next time 
 - Kip will discuss AI on the mainframe.
 - Randall will compare MR95 to CICS. 
