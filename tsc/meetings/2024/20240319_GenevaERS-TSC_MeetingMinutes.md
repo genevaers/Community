@@ -1,4 +1,4 @@
-# Meeting notes TSC 2024-03-26 6pm Pacific Time (US)
+# Meeting notes TSC 2024-03-19 6pm Pacific Time (US)
 All interested in GenevaERS development are welcome to join.
 ## Conference call details
 ### Zoom Meeting
@@ -20,9 +20,34 @@ https://zoom-lfx.platform.linuxfoundation.org/meeting/95522057563?password=a2cb4
   
 ## Administration
 
+- Should we replace the information in Committers.csv with the list of GitHub teams and level of access for each repo?
+  Review committers.csv every few months. Andrea thinks there's a GitHub action to automate a reminder and create a reminder issue
+  For each repository, we can update README.md to list the teams and access level.
+  
+- As part of project governance, do we want all access to be through a team and not individual access?
+  As people join and leave the project, using team based access is easier to add / remove than individual access to repos
+  
+- Thoughts on using automation to clean up old issues?
+  Hold the thought for the future so we can think on it some more. Maybe created a discussion item so we don't forget.
+
+## OMP meeting updates
+
+- New mainframe will be available in time for summer mentorships
+- [Z/OS Open Tools](https://github.com/ZOSOpenTools) project presented at TAC. Vote via email to add the project under OMP 
+
+### Conferences
+
+- Open Mainframe Summit again partners with the [FINOS](https://www.finos.org/) conference in New York 9/30 - 10/1.
+- There is also a conference in London 6/26 - London Finance Forum
+- OMP will be reaching out to FINOS member companies trying to get their mainframers invited to FINOS on behalf of OMP
+- OMP looking for 3 more sponsors for the Open Mainframe Summit
+
 ### Items for focus in 2024
 
 #### The road to gold
+
+- We reviewed the [draft code of conduct](https://github.com/orgs/genevaers/discussions/300). More content was added since the TSC meeting on March 12th
+- We reviewed the [draft accessibility statement ](https://github.com/genevaers/Community/pull/301). Feedback can be added to the pull request
 
 John will be emphasizing projects maturation to a gold badge this year.
 [Project board](https://github.com/orgs/genevaers/projects/8/views/2)
@@ -73,11 +98,8 @@ Project checkin with John is the morning of 4/15 (US time)
     - "HELLO WORLD"
 ## Potential users (who may want support)
 ## Demo
-## Conferences
-
-- Open Mainframe Summit again partners with the [FINOS](https://www.finos.org/) conference in New York 9/30 - 10/1.
-- There is also a conference in London 6/26 - London Finance Forum
-
+## Conferences 
+- Possible presentation at the Winter SHARE conference 
 ## For next time 
 - Kip will discuss AI on the mainframe.
 - Randall will compare MR95 to CICS. 
