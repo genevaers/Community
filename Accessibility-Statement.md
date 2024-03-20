@@ -72,3 +72,11 @@ Eclipse. Input required here.
 ## Mainframe accessibility
 
 The Performance Engine is driven by JCL on the mainframe.  Assistive technology products, such as screen-readers, function with the user interfaces found in z/OS. Consult the assistive technology documentation for specific information when using it to access z/OS interfaces.
+
+## References
+
+https://www.w3.org/WAI/fundamentals/accessibility-intro/
+
+http://www.goring.org/resources/accessibility.html
+
+https://blog.hubspot.com/website/web-accessibility
