@@ -20,6 +20,15 @@ https://zoom-lfx.platform.linuxfoundation.org/meeting/95522057563?password=a2cb4
   
 ## Administration
 
+One more question regarding AI usage - is using AI OK / not OK for aspects of coding such as
+- Providing code using a user specified function or class
+- Debugging
+-  
+
+## OMP Update
+
+- [Z/OS Open Tools](https://github.com/ZOSOpenTools) approved as a Sandbox project.
+
 ### Items for focus in 2024
 
 #### The road to gold
@@ -73,6 +82,7 @@ Project checkin with John is the morning of 4/15 (US time)
     - "HELLO WORLD"
 ## Potential users (who may want support)
 ## Demo
+
 ## Conferences
 
 - Open Mainframe Summit again partners with the [FINOS](https://www.finos.org/) conference in New York 9/30 - 10/1.
