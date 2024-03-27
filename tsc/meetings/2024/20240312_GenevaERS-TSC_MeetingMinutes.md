@@ -1,4 +1,4 @@
-# Meeting notes TSC 2024-03-26 6pm Pacific Time (US)
+# Meeting notes TSC 2024-03-12 6pm Pacific Time (US)
 All interested in GenevaERS development are welcome to join.
 ## Conference call details
 ### Zoom Meeting
@@ -26,8 +26,6 @@ https://zoom-lfx.platform.linuxfoundation.org/meeting/95522057563?password=a2cb4
 
 John will be emphasizing projects maturation to a gold badge this year.
 [Project board](https://github.com/orgs/genevaers/projects/8/views/2)
-
-Project checkin with John is the morning of 4/15 (US time)
 
 - Tasks from last time: 
   - Research Jekyll.
@@ -73,11 +71,8 @@ Project checkin with John is the morning of 4/15 (US time)
     - "HELLO WORLD"
 ## Potential users (who may want support)
 ## Demo
-## Conferences
-
-- Open Mainframe Summit again partners with the [FINOS](https://www.finos.org/) conference in New York 9/30 - 10/1.
-- There is also a conference in London 6/26 - London Finance Forum
-
+## Conferences 
+- Possible presentation at the Winter SHARE conference 
 ## For next time 
 - Kip will discuss AI on the mainframe.
 - Randall will compare MR95 to CICS. 
