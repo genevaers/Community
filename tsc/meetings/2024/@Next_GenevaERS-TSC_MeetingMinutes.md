@@ -1,4 +1,4 @@
-# Meeting notes TSC 2024-03-26 6pm Pacific Time (US)
+# Meeting notes TSC 2024-04-2 6pm Pacific Time (US)
 All interested in GenevaERS development are welcome to join.
 ## Conference call details
 ### Zoom Meeting
@@ -23,11 +23,6 @@ https://zoom-lfx.platform.linuxfoundation.org/meeting/95522057563?password=a2cb4
 One more question regarding AI usage - is using AI OK / not OK for aspects of coding such as
 - Providing code using a user specified function or class
 - Debugging
--  
-
-## OMP Update
-
-- [Z/OS Open Tools](https://github.com/ZOSOpenTools) approved as a Sandbox project.
 
 ### Items for focus in 2024
 
