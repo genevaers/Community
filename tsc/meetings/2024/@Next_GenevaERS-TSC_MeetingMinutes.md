@@ -28,6 +28,8 @@ One more question regarding AI usage - is using AI OK / not OK for aspects of co
 
 #### The road to gold
 
+Quick review of [silver badge items](https://github.com/orgs/genevaers/projects/8/views/1)
+
 John will be emphasizing projects maturation to a gold badge this year.
 [Project board](https://github.com/orgs/genevaers/projects/8/views/2)
 
