@@ -1,4 +1,4 @@
-# Meeting notes TSC 2024-04-9 6pm Pacific Time (US)
+# Meeting notes TSC 2024-04-2 6pm Pacific Time (US)
 All interested in GenevaERS development are welcome to join.
 ## Conference call details
 ### Zoom Meeting
@@ -6,13 +6,13 @@ https://zoom-lfx.platform.linuxfoundation.org/meeting/95522057563?password=a2cb4
 ## Attendees 
 - Andrea Orth 
 - Gillian Hannington 
-- Ian Cunningham
 - Michael Shapiro
 - Neil Beesley 
 - Randall Ness
 <!-- 
 - Bob McCormack 
 - Eugene Morrow 
+- Ian Cunningham
 - Kip Twitchell 
 - Jeff Horner 
 -->
@@ -20,13 +20,15 @@ https://zoom-lfx.platform.linuxfoundation.org/meeting/95522057563?password=a2cb4
   
 ## Administration
 
-One more question regarding AI usage - is using AI OK / not OK for aspects of coding such as
+One more question regarding AI usage - is using AI OK / not OK for aspects of coding such as - pended to a future meeting
 - Providing code using a user specified function or class
 - Debugging
 
 ### Items for focus in 2024
 
 #### The road to gold
+
+Reviewed [silver badge items](https://github.com/orgs/genevaers/projects/8/views/1)
 
 John will be emphasizing projects maturation to a gold badge this year.
 [Project board](https://github.com/orgs/genevaers/projects/8/views/2)
