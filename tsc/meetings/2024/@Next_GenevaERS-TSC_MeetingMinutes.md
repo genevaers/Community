@@ -1,4 +1,4 @@
-# Meeting notes TSC 2024-04-2 6pm Pacific Time (US)
+# Meeting notes TSC 2024-04-9 6pm Pacific Time (US)
 All interested in GenevaERS development are welcome to join.
 ## Conference call details
 ### Zoom Meeting
@@ -27,8 +27,6 @@ One more question regarding AI usage - is using AI OK / not OK for aspects of co
 ### Items for focus in 2024
 
 #### The road to gold
-
-Quick review of [silver badge items](https://github.com/orgs/genevaers/projects/8/views/1)
 
 John will be emphasizing projects maturation to a gold badge this year.
 [Project board](https://github.com/orgs/genevaers/projects/8/views/2)
