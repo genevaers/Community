@@ -1,4 +1,4 @@
-# Meeting notes TSC 2024-04-9 6pm Pacific Time (US)
+# Meeting notes TSC 2024-04-16 6pm Pacific Time (US)
 All interested in GenevaERS development are welcome to join.
 ## Conference call details
 ### Zoom Meeting
@@ -23,6 +23,16 @@ https://zoom-lfx.platform.linuxfoundation.org/meeting/95522057563?password=a2cb4
 One more question regarding AI usage - is using AI OK / not OK for aspects of coding such as
 - Providing code using a user specified function or class
 - Debugging
+
+### TAC
+
+- Maintenance agreement finalized
+- Mentees will be the first to use the new mainframe
+- Projects will roll onto the mainframe over the summer
+
+[For reference](https://tac.openmainframeproject.org/programs/infrastructure/plan)
+
+[2024 OMP goals](https://github.com/openmainframeproject/foundation/blob/main/goals/2024.pdf)
 
 ### Items for focus in 2024
 
