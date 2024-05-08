@@ -1,4 +1,4 @@
-# Meeting notes TSC 2024-04-9 6pm Pacific Time (US)
+# Meeting notes TSC 2024-05-7 6pm Pacific Time (US)
 All interested in GenevaERS development are welcome to join.
 ## Conference call details
 ### Zoom Meeting
@@ -20,36 +20,25 @@ https://zoom-lfx.platform.linuxfoundation.org/meeting/95522057563?password=a2cb4
   
 ## Administration
 
-One more question regarding AI usage - is using AI OK / not OK for aspects of coding such as
-- Providing code using a user specified function or class
-- Debugging
+IBM Tech Xchange 2024 Oct 21-24 - do speakers pay to attend? June 15 is the deadline for submission to OMP. We could submit something and if not selected or plans don't work out, we can ask OMP marketing to identify an appropriate outlet for a video on the topic.
+
+OpenSSF badge - add Kip as backup after ownership is changed
 
 ### Items for focus in 2024
 
 #### The road to gold
-
-John will be emphasizing projects maturation to a gold badge this year.
-[Project board](https://github.com/orgs/genevaers/projects/8/views/2)
-
-Project checkin with John is the morning of 4/15 (US time)
-
-- Tasks from last time: 
-  - Research Jekyll.
-  - Research alt-text descriptions for images.
-    - Gill researched these and will put it in writing.
-  - Flesh out the V5 project plan to use as the Roadmap for the Silver badge.
-    - Randall will do this.
-- Password storage
-- Bug reporting process
-  - Andrea will jot some notes down on this.
-- Coding standards
-  - Randall will send assembler coding standards.
-- Installation process
-  - Kip will work on this.
-- Automated test suite
-- New functionality testing
+Updated Code of Conduct. Currently in a dev branch. 
   
 #### 2024 goals
+Roadmap - Randall, check GitHub project
+Architectural design doc - Ian was going to use Javadoc for workbench, and runcontrol. Capture future state of in progress architectural changes. Store in individual repos.
+Neil is working on a presentation of 3GL java mainframe integration. 
+
+* Runcontrol integration
+* Java integration
+
+Documentation updates should run parallel to development.
+Internal discussion if the DB2 scripts should be released as open source.
 
 - Product Research
 - ADABAS support
