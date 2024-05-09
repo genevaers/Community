@@ -7,38 +7,49 @@ https://zoom-lfx.platform.linuxfoundation.org/meeting/95522057563?password=a2cb4
 - Andrea Orth 
 - Gillian Hannington 
 - Ian Cunningham
+- Kip Twitchell
 - Michael Shapiro
 - Neil Beesley 
 - Randall Ness
 <!-- 
 - Bob McCormack 
 - Eugene Morrow 
-- Kip Twitchell 
 - Jeff Horner 
 -->
 ## Workbench
-  
+
+Ian showed the team the latest changes for error and warning messages
+
 ## Administration
 
-IBM Tech Xchange 2024 Oct 21-24 - do speakers pay to attend? June 15 is the deadline for submission to OMP. We could submit something and if not selected or plans don't work out, we can ask OMP marketing to identify an appropriate outlet for a video on the topic.
+IBM Tech Xchange 2024 Oct 21-24
+June 15 is the deadline for submission to OMP. The [submission form](https://bit.ly/3Ur9lCj) is a custom OMP form
+We could submit something and if not selected or plans don't work out, we can ask OMP marketing to identify an appropriate outlet for a video on the topic.
 
-OpenSSF badge - add Kip as backup after ownership is changed
+OpenSSF badge
+Add Kip as backup after ownership is changed
+Ian is going to try contacting Bob so someone else can make badge updates
 
 ### Items for focus in 2024
 
 #### The road to gold
-Updated Code of Conduct. Currently in a dev branch. 
-  
-#### 2024 goals
-Roadmap - Randall, check GitHub project
-Architectural design doc - Ian was going to use Javadoc for workbench, and runcontrol. Capture future state of in progress architectural changes. Store in individual repos.
+Andrea updated Code of Conduct. Currently in a dev branch.
+Quick check in on roadmap and architectural design doc.
+* Roadmap still in Randall's queue
+* Team decided that design documentation should capture the future state design. No value in capturing current state since the future state changes will be released. Ian plans on using Javadoc for workbench and runcontrol design docs.
+
+## R&D
 Neil is working on a presentation of 3GL java mainframe integration. 
 
 * Runcontrol integration
 * Java integration
 
+## Misc
+
 Documentation updates should run parallel to development.
 Internal discussion if the DB2 scripts should be released as open source.
+
+## 2024 goals
 
 - Product Research
 - ADABAS support
@@ -65,7 +76,7 @@ Internal discussion if the DB2 scripts should be released as open source.
   - What is the minimum possible bytecode program we could develop?
     - "HELLO WORLD"
 ## Potential users (who may want support)
-## Demo
+
 
 ## Conferences
 
