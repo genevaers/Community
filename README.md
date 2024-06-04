@@ -21,7 +21,6 @@ Try GenevaERS out by using the demo system.  [Access the demo here](https://gene
 
 [Download the demo system](https://genevaers.github.io/Demo/), and understand better what GenevaERS can do for you.
 
-
 ## Training
 
 Learn how to use GenevaERS with from the [documentation](https://github.com/genevaers/doc) or us the training videos and slides at [GenevaERS Training](https://genevaers.org/training-videos/)
