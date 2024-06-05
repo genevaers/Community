@@ -43,6 +43,5 @@ Anyone can contribute to the GenevaERS project - learn more at [CONTRIBUTING.md]
 ## Governance
 GenevaERS is a project hosted by the [Open Mainframe Project](https://openmainframeproject.org). This project has established it's own processes for managing day-to-day processes in the project at [GOVERNANCE.md](GOVERNANCE.md).  Learn more at the GenevaERS [Charter](https://github.com/openmainframeproject/foundation/blob/main/project_charters/genevaers_charter.pdf)
 
-
 ## Reporting Issues
 To report a problem, you can open an [issue](https://github.com/genevaers/community/issues) in repository against a specific workflow. If the issue is sensitive in nature or a security related issue, please do not report in the issue tracker but instead email  genevaers-private@lists.openmainframeproject.org.
