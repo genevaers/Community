@@ -1,4 +1,4 @@
-# Meeting notes TSC 2024-05-14 6pm Pacific Time (US)
+# Meeting notes TSC 2024-05-7 6pm Pacific Time (US)
 All interested in GenevaERS development are welcome to join.
 ## Conference call details
 ### Zoom Meeting
@@ -86,3 +86,4 @@ Internal discussion if the DB2 scripts should be released as open source.
 ## For next time 
 - Kip will discuss AI on the mainframe.
 - Randall will compare MR95 to CICS. 
+
