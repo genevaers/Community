@@ -1,4 +1,4 @@
-# Meeting notes TSC 2024-05-14 6pm Pacific Time (US)
+# Meeting notes TSC 2024-07-09 6pm Pacific Time (US)
 All interested in GenevaERS development are welcome to join.
 ## Conference call details
 ### Zoom Meeting
@@ -16,9 +16,16 @@ https://zoom-lfx.platform.linuxfoundation.org/meeting/95522057563?password=a2cb4
 - Eugene Morrow 
 - Jeff Horner 
 -->
+## Documentation
+- Should we be quoting statistics without references? 
+- Should we keep GenevaERS.org site on WordPress?  
+  - Or standardize on Jekyll or some other static site generator? 
+- Should we create goals and milestones for documentation tasks? 
+  - When shall we release it for review by GenevaERS users? 
+- Prepare for OMP review. 
+
 ## Workbench
 
-Ian showed the team the latest changes for error and warning messages
 
 ## Administration
 
@@ -57,11 +64,6 @@ Internal discussion if the DB2 scripts should be released as open source.
 - Stretch goal of updating documentation to reflect current functionality
 
 ### Project lifecycle procedures
-## Documentation
-- Goal for 2024: Review and expand documentation.
-- Documentation demo from Gill. 
-  - User security issues.
-- "A document a week, that's all we ask" 
 ## Infrastructure
 ## Run-Control Apps
 ## R&D Work
