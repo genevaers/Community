@@ -1,4 +1,4 @@
-# Meeting notes TSC 2024-07-09 6pm Pacific Time (US)
+# Meeting notes TSC 2024-07-16 6pm Pacific Time (US)
 All interested in GenevaERS development are welcome to join.
 ## Conference call details
 ### Zoom Meeting
@@ -16,12 +16,27 @@ https://zoom-lfx.platform.linuxfoundation.org/meeting/95522057563?password=a2cb4
 - Eugene Morrow 
 - Jeff Horner 
 -->
+## Run-Control Apps
+- Run-Control Generator
+  - Feature that allows external preparation of RED files 
+    - No JLT view?
+    - XLT to use what would be the LR if it were generated.
+    - Do we generate variants if and when key values or effective dates vary
+    - No REH entry is written? 
+      - That is done externally?
+    - As an aside should we have the code that generates the header entries?
+  - Are there any open issues about date processing?  
+  
+## Development 
+- Review the release procedures proposed by Ian. 
+  
+## R&D
+- Kip and Neil
+  - z/OS Java interlanguage R&D by GenevaERS 
+    - Run Control integration
+    - Java integration
+
 ## Documentation
-- Should we be quoting statistics without references? 
-- Should we keep GenevaERS.org site on WordPress?  
-  - Or standardize on Jekyll or some other static site generator? 
-- Should we create goals and milestones for documentation tasks? 
-  - When shall we release it for review by GenevaERS users? 
 - Prepare for OMP review. 
 
 ## Workbench
@@ -44,12 +59,6 @@ Andrea updated Code of Conduct. Currently in a dev branch.
 Quick check in on roadmap and architectural design doc.
 * Roadmap still in Randall's queue
 * Team decided that design documentation should capture the future state design. No value in capturing current state since the future state changes will be released. Ian plans on using Javadoc for workbench and runcontrol design docs.
-
-## R&D
-Neil is working on a presentation of 3GL java mainframe integration. 
-
-* Runcontrol integration
-* Java integration
 
 ## Misc
 
