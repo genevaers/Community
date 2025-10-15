@@ -1,18 +1,16 @@
 **Committers**,,,,,,,,,,,,,,
-Name,Email,GitHub ID,Role,Community,User-Doc,Utilities,Resources??,R&D,PE,PEX,RC,WB,MD-Test,Demo,
-Kip Twitchell,kip.twitchell@us.ibm.com,KipTwitchell,TSC Chair Emeritus,M,M,,,M,,,M,,M,,
-Randall Ness,rhness@us.ibm.com,rhness,Solution architect,M,M,,,,M,,,,M,A,
-Bob McCormack,,bobmcc9,Build lead,,,,,,,,,,, , 
-Andrea Orth,theresjustus@outlook.com,AOrthVector,TSC Chair Webmaster Scrum Master,M,M,,,,,,,,M,,
-Gillian Hannington,ghannington2007@gmail.com,ghannington,Performance Engine lead,M,M,M,X,A,M,M,M,,M,,
-Ian Cunningham,blueham60@gmail.com,hammyau,Workbench lead,M,M,,X,,M,,M,M,M,,
-Aswini Vadlamudi,email,AswiniBM08,Workbench and RCA,M,M,M,,M,R,R,M,M,,M
-Sandy Peresie,speresie1@yahoo.com,SaPeresi,Integration architect-OSS,,,X,,,X,,,,,,
-Neil Beesley,neil.beesley@ibm.com,neilbeesley,R&D Lead,M,M,M,,M,M,M,,,M,A,
-Jeff Horner,jhornert@aol.com,jhornert,Integration architect-WB and PE,,M,M,X,M,M,,M,M,M,,
-Eugene Morrow,jedi_eugene@yahoo.com.au,emorrow38,Documentation lead,,A, ,,,,,,M,A,A,
-John Mertic,,jmertic,OMP Admin,M,M,M,X,M,M,,M,M,M,,
-Karl Ólafsson,karl.olafsson@covariant-systems.com,karlolafs,R&D and PE contributor,,,,,,M,,,,,,
-Michael Shapiro,,michael-shapiro,,R,R,R,,R,R,,R,R,,R,
-Girish Koppkar,,gkoppikar,,R,R,R,,R,R,,R,R,,R,
-Fatima,,00fatima00,,R,R,R,,R,R,,R,R,,R,
+Name,Email,GitHub ID,Role,Community,User-Doc,Utilities,DevOps,R&D,PE,PEX,RCA,WB,Demo,WebConfig
+Kip Twitchell,kip.twitchell@us.ibm.com,KipTwitchell,TSC Chair Emeritus,A,A,,,M,,,M,M,,A
+Randall Ness (inactive?),rhness@us.ibm.com,rhness,Solution architect,M,M,,,,M,,,,R,
+Bob McCormack (inactive?),,bobmcc9,Build lead,,,,,,,,,,,
+Andrea Orth,theresjustus@outlook.com,AOrthVector,TSC Chair Webmaster Scrum Master,A,M,,,,,,,,,A
+Gillian Hannington,ghannington2007@gmail.com,ghannington,Performance Engine lead,M,A,M,A,M,A,A,M,M,R,R
+Ian Cunningham,blueham60@gmail.com,hammyau,Workbench lead,M,M,R,M,M,M,M,A,A,R,R
+Aswini Vadlamudi,email,AswiniBM08,Workbench and RCA,M,M,M,M,M,R,R,A,A,M,R
+Sandy Peresie (inactive?),speresie1@yahoo.com,SaPeresi,Integration architect-OSS,,,,,,,,,,,,
+Neil Beesley,neil.beesley@ibm.com,neilbeesley,R&D Lead,M,M,A,A,A,A,A,M,M,A,R
+Jeff Horner (inactive?),jhornert@aol.com,jhornert,Integration architect-WB and PE,,R,M,R,M,R,R,R,R,R,R
+Eugene Morrow (inactive?),jedi_eugene@yahoo.com.au,emorrow38,Documentation lead,,R,,,,,,,R,R,R
+John Mertic,,jmertic,OMP Admin,A,A,A,A,A,A,A,A,A,A,A
+Karl Ólafsson (inactive?),karl.olafsson@covariant-systems.com,karlolafs,R&D and PE contributor,,,,,M,,,,,,,
+Michael Shapiro,,michael-shapiro,,R,M,R,,R,R,,R,R,R,R
