@@ -37,6 +37,7 @@ You can connect with the community in a variety of ways...
 - After requesting access with the above link, look for the [GenevaERS channel](https://openmainframeproject.slack.com/archives/C01711931GA) 
 
 ## Contributing
+
 Anyone can contribute to the GenevaERS project - learn more at [CONTRIBUTING.md](CONTRIBUTING.md)
 
 ## Governance

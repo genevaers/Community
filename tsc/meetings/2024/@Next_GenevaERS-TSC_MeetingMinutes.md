@@ -1,4 +1,4 @@
-# Meeting notes TSC 2024-05-14 6pm Pacific Time (US)
+# Meeting notes TSC 2024-07-16 6pm Pacific Time (US)
 All interested in GenevaERS development are welcome to join.
 ## Conference call details
 ### Zoom Meeting
@@ -16,9 +16,31 @@ https://zoom-lfx.platform.linuxfoundation.org/meeting/95522057563?password=a2cb4
 - Eugene Morrow 
 - Jeff Horner 
 -->
+## Run-Control Apps
+- Run-Control Generator
+  - Feature that allows external preparation of RED files 
+    - No JLT view?
+    - XLT to use what would be the LR if it were generated.
+    - Do we generate variants if and when key values or effective dates vary
+    - No REH entry is written? 
+      - That is done externally?
+    - As an aside should we have the code that generates the header entries?
+  - Are there any open issues about date processing?  
+  
+## Development 
+- Review the release procedures proposed by Ian. 
+  
+## R&D
+- Kip and Neil
+  - z/OS Java interlanguage R&D by GenevaERS 
+    - Run Control integration
+    - Java integration
+
+## Documentation
+- Prepare for OMP review. 
+
 ## Workbench
 
-Ian showed the team the latest changes for error and warning messages
 
 ## Administration
 
@@ -38,12 +60,6 @@ Quick check in on roadmap and architectural design doc.
 * Roadmap still in Randall's queue
 * Team decided that design documentation should capture the future state design. No value in capturing current state since the future state changes will be released. Ian plans on using Javadoc for workbench and runcontrol design docs.
 
-## R&D
-Neil is working on a presentation of 3GL java mainframe integration. 
-
-* Runcontrol integration
-* Java integration
-
 ## Misc
 
 Documentation updates should run parallel to development.
@@ -57,11 +73,6 @@ Internal discussion if the DB2 scripts should be released as open source.
 - Stretch goal of updating documentation to reflect current functionality
 
 ### Project lifecycle procedures
-## Documentation
-- Goal for 2024: Review and expand documentation.
-- Documentation demo from Gill. 
-  - User security issues.
-- "A document a week, that's all we ask" 
 ## Infrastructure
 ## Run-Control Apps
 ## R&D Work
