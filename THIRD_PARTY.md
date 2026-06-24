@@ -29,15 +29,15 @@ IBM High Level Assembler and Toolkit V1R6M0
 --> #Commercial
 ---->https://www.ibm.com/us-en/marketplace/high-level-assembler-and-toolkit-feature
 
-# z/OS Build Process Tooliing
+# z/OS Build Process Tooling
 
 The z/OS Performance Engine requires IBM z/OS operating system.
 - CPU: Requires a minimum of 1 CPU.  For parallel processing access to more than one CPU is required. 
-- Memory: 1 GB minimum. 
+- Memory: 1 GB minimum, independent of the data you will process with it.
 - Disk: 1 GB for the system, independent of the data you will process with it.
 
 ## Minimum Required Tools
-To build the SAFR product on z/OS requires:
+To build the GenevaERS product on z/OS requires:
 
 1. High Level Assembler (HLASM) V1R6M0, normally present on a z/OS system, whilst not part of z/OS it is a non chargeable product.
 
@@ -51,6 +51,6 @@ To build the SAFR product on z/OS requires:
 
 1. DB2 database on z/OS can be used for a shared metadata environment.
 
-2. User Exit development can be done in IBM Enterprise Language Environemnt, using for example Cobol for z/OS V4.2 if desired.
+2. User Exit development can be done in IBM Enterprise Language Environment, using for example Cobol for z/OS V4.2 if desired.
 
 
