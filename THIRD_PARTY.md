@@ -51,6 +51,6 @@ To build the GenevaERS product on z/OS requires:
 
 1. DB2 database on z/OS can be used for a shared metadata environment.
 
-2. User Exit development can be done in IBM Enterprise Language Environment, using for example Cobol for z/OS V4.2 if desired.
+2. User Exit development can be done in IBM Enterprise Language Environment, using for example Cobol for z/OS V6.1 if desired.
 
 
